@@ -1,0 +1,15 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Large daily PortWatch dataset
+data/raw/portwatch_daily/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
