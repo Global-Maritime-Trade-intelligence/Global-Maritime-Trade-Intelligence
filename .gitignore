@@ -4,7 +4,6 @@
 **/.ipynb_checkpoints/
 
 # Large daily PortWatch dataset
-data/raw/portwatch_daily/
 
 # Python cache files
 __pycache__/
@@ -13,3 +12,4 @@ __pycache__/
 # Environment files
 .env
 
+Datasets/raw/daily_ports_all.csv
