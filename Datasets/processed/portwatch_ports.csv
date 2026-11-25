@@ -1,0 +1,2072 @@
+portid,portname,country,ISO3
+fso0,Brazil - Offshore Oil Terminal 1,Brazil,BRA
+fso1,Brazil - Offshore Oil Terminal 10,Brazil,BRA
+fso10,Brazil - Offshore Oil Terminal 19,Brazil,BRA
+fso100,Indonesia - Offshore Oil Terminal 9,Indonesia,IDN
+fso101,Israel - Offshore Oil Terminal 1,Israel,ISR
+fso102,Italy - Offshore Oil Terminal 1,Italy,ITA
+fso103,Italy - Offshore Oil Terminal 2,Italy,ITA
+fso104,Jamaica - Offshore Oil Terminal 1,Jamaica,JAM
+fso105,Libya - Offshore Oil Terminal 1,Libya,LBY
+fso106,Malaysia - Offshore Oil Terminal 1,Malaysia,MYS
+fso107,Malaysia - Offshore Oil Terminal 10,Malaysia,MYS
+fso108,Malaysia - Offshore Oil Terminal 11,Malaysia,MYS
+fso109,Malaysia - Offshore Oil Terminal 12,Malaysia,MYS
+fso11,Brazil - Offshore Oil Terminal 2,Brazil,BRA
+fso110,Malaysia - Offshore Oil Terminal 13,Malaysia,MYS
+fso111,Malaysia - Offshore Oil Terminal 14,Malaysia,MYS
+fso112,Malaysia - Offshore Oil Terminal 15,Malaysia,MYS
+fso113,Malaysia - Offshore Oil Terminal 16,Malaysia,MYS
+fso114,Malaysia - Offshore Oil Terminal 17,Malaysia,MYS
+fso115,Malaysia - Offshore Oil Terminal 18,Malaysia,MYS
+fso116,Malaysia - Offshore Oil Terminal 2,Malaysia,MYS
+fso117,Malaysia - Offshore Oil Terminal 3,Malaysia,MYS
+fso118,Malaysia - Offshore Oil Terminal 4,Malaysia,MYS
+fso119,Malaysia - Offshore Oil Terminal 5,Malaysia,MYS
+fso12,Brazil - Offshore Oil Terminal 20,Brazil,BRA
+fso120,Malaysia - Offshore Oil Terminal 6,Malaysia,MYS
+fso121,Malaysia - Offshore Oil Terminal 7,Malaysia,MYS
+fso122,Malaysia - Offshore Oil Terminal 8,Malaysia,MYS
+fso123,Malaysia - Offshore Oil Terminal 9,Malaysia,MYS
+fso124,Mauritania - Offshore Oil Terminal 1,Mauritania,MRT
+fso125,Mexico - Offshore Oil Terminal 1,Mexico,MEX
+fso126,Mozambique - Offshore Oil Terminal 1,Mozambique,MOZ
+fso127,New Zealand - Offshore Oil Terminal 1,New Zealand,NZL
+fso128,Nigeria - Offshore Oil Terminal 1,Nigeria,NGA
+fso129,Nigeria - Offshore Oil Terminal 10,Nigeria,NGA
+fso13,Brazil - Offshore Oil Terminal 21,Brazil,BRA
+fso130,Nigeria - Offshore Oil Terminal 11,Nigeria,NGA
+fso131,Nigeria - Offshore Oil Terminal 12,Nigeria,NGA
+fso132,Nigeria - Offshore Oil Terminal 13,Nigeria,NGA
+fso133,Nigeria - Offshore Oil Terminal 14,Nigeria,NGA
+fso134,Nigeria - Offshore Oil Terminal 15,Nigeria,NGA
+fso135,Nigeria - Offshore Oil Terminal 16,Nigeria,NGA
+fso136,Nigeria - Offshore Oil Terminal 17,Nigeria,NGA
+fso137,Nigeria - Offshore Oil Terminal 18,Nigeria,NGA
+fso138,Nigeria - Offshore Oil Terminal 2,Nigeria,NGA
+fso139,Nigeria - Offshore Oil Terminal 3,Nigeria,NGA
+fso14,Brazil - Offshore Oil Terminal 22,Brazil,BRA
+fso140,Nigeria - Offshore Oil Terminal 4,Nigeria,NGA
+fso141,Nigeria - Offshore Oil Terminal 5,Nigeria,NGA
+fso142,Nigeria - Offshore Oil Terminal 6,Nigeria,NGA
+fso143,Nigeria - Offshore Oil Terminal 7,Nigeria,NGA
+fso144,Nigeria - Offshore Oil Terminal 8,Nigeria,NGA
+fso145,Nigeria - Offshore Oil Terminal 9,Nigeria,NGA
+fso146,Norway - Offshore Oil Terminal 1,Norway,NOR
+fso147,Norway - Offshore Oil Terminal 2,Norway,NOR
+fso148,Norway - Offshore Oil Terminal 3,Norway,NOR
+fso149,Norway - Offshore Oil Terminal 4,Norway,NOR
+fso15,Brazil - Offshore Oil Terminal 23,Brazil,BRA
+fso150,Norway - Offshore Oil Terminal 5,Norway,NOR
+fso151,Oman - Offshore Oil Terminal 1,Oman,OMN
+fso152,Philippines - Offshore Oil Terminal 1,Philippines,PHL
+fso153,Republic of Congo - Offshore Oil Terminal 1,Republic of Congo,COG
+fso154,Republic of Congo - Offshore Oil Terminal 2,Republic of Congo,COG
+fso155,Republic of Congo - Offshore Oil Terminal 3,Republic of Congo,COG
+fso156,Russian Federation - Offshore Oil Terminal 1,Russian Federation,RUS
+fso157,Russian Federation - Offshore Oil Terminal 2,Russian Federation,RUS
+fso158,Saudi Arabia - Offshore Oil Terminal 1,Saudi Arabia,SAU
+fso159,Senegal - Offshore Oil Terminal 1,Senegal,SEN
+fso16,Brazil - Offshore Oil Terminal 24,Brazil,BRA
+fso160,Senegal - Offshore Oil Terminal 2,Senegal,SEN
+fso161,Singapore - Offshore Oil Terminal 1,Singapore,SGP
+fso162,Thailand - Offshore Oil Terminal 1,Thailand,THA
+fso163,Thailand - Offshore Oil Terminal 2,Thailand,THA
+fso164,Thailand - Offshore Oil Terminal 3,Thailand,THA
+fso165,Thailand - Offshore Oil Terminal 4,Thailand,THA
+fso166,Thailand - Offshore Oil Terminal 5,Thailand,THA
+fso167,Timor-Leste - Offshore Oil Terminal 1,Timor-Leste,TLS
+fso168,Tunisia - Offshore Oil Terminal 1,Tunisia,TUN
+fso169,United Kingdom - Offshore Oil Terminal 1,United Kingdom,GBR
+fso17,Brazil - Offshore Oil Terminal 25,Brazil,BRA
+fso170,United Kingdom - Offshore Oil Terminal 2,United Kingdom,GBR
+fso171,United Kingdom - Offshore Oil Terminal 3,United Kingdom,GBR
+fso172,United Kingdom - Offshore Oil Terminal 4,United Kingdom,GBR
+fso173,United Kingdom - Offshore Oil Terminal 5,United Kingdom,GBR
+fso174,United Kingdom - Offshore Oil Terminal 6,United Kingdom,GBR
+fso175,United States - Offshore Oil Terminal 1,United States,USA
+fso176,Venezuela - Offshore Oil Terminal 1,Venezuela,VEN
+fso177,Vietnam - Offshore Oil Terminal 1,Vietnam,VNM
+fso178,Vietnam - Offshore Oil Terminal 2,Vietnam,VNM
+fso179,Vietnam - Offshore Oil Terminal 3,Vietnam,VNM
+fso18,Brazil - Offshore Oil Terminal 26,Brazil,BRA
+fso180,Republic of Congo - Offshore Oil Terminal 4,Republic of Congo,COG
+fso19,Brazil - Offshore Oil Terminal 27,Brazil,BRA
+fso2,Brazil - Offshore Oil Terminal 11,Brazil,BRA
+fso20,Brazil - Offshore Oil Terminal 28,Brazil,BRA
+fso21,Brazil - Offshore Oil Terminal 29,Brazil,BRA
+fso22,Brazil - Offshore Oil Terminal 3,Brazil,BRA
+fso23,Brazil - Offshore Oil Terminal 30,Brazil,BRA
+fso24,Brazil - Offshore Oil Terminal 31,Brazil,BRA
+fso25,Brazil - Offshore Oil Terminal 32,Brazil,BRA
+fso26,Brazil - Offshore Oil Terminal 33,Brazil,BRA
+fso27,Brazil - Offshore Oil Terminal 34,Brazil,BRA
+fso28,Brazil - Offshore Oil Terminal 35,Brazil,BRA
+fso29,Brazil - Offshore Oil Terminal 36,Brazil,BRA
+fso3,Brazil - Offshore Oil Terminal 12,Brazil,BRA
+fso30,Brazil - Offshore Oil Terminal 37,Brazil,BRA
+fso31,Brazil - Offshore Oil Terminal 38,Brazil,BRA
+fso32,Brazil - Offshore Oil Terminal 39,Brazil,BRA
+fso33,Brazil - Offshore Oil Terminal 4,Brazil,BRA
+fso34,Brazil - Offshore Oil Terminal 40,Brazil,BRA
+fso35,Brazil - Offshore Oil Terminal 41,Brazil,BRA
+fso36,Brazil - Offshore Oil Terminal 42,Brazil,BRA
+fso37,Brazil - Offshore Oil Terminal 43,Brazil,BRA
+fso38,Brazil - Offshore Oil Terminal 44,Brazil,BRA
+fso39,Brazil - Offshore Oil Terminal 45,Brazil,BRA
+fso4,Brazil - Offshore Oil Terminal 13,Brazil,BRA
+fso40,Brazil - Offshore Oil Terminal 5,Brazil,BRA
+fso41,Brazil - Offshore Oil Terminal 6,Brazil,BRA
+fso42,Brazil - Offshore Oil Terminal 7,Brazil,BRA
+fso43,Brazil - Offshore Oil Terminal 8,Brazil,BRA
+fso44,Brazil - Offshore Oil Terminal 9,Brazil,BRA
+fso45,Equatorial Guinea - Offshore Oil Terminal 1,Equatorial Guinea,GNQ
+fso46,Equatorial Guinea - Offshore Oil Terminal 2,Equatorial Guinea,GNQ
+fso47,Equatorial Guinea - Offshore Oil Terminal 3,Equatorial Guinea,GNQ
+fso48,Guyana - Offshore Oil Terminal 1,Guyana,GUY
+fso49,Guyana - Offshore Oil Terminal 2,Guyana,GUY
+fso5,Brazil - Offshore Oil Terminal 14,Brazil,BRA
+fso50,Guyana - Offshore Oil Terminal 3,Guyana,GUY
+fso51,Guyana - Offshore Oil Terminal 4,Guyana,GUY
+fso52,Angola - Offshore Oil Terminal 1,Angola,AGO
+fso53,Angola - Offshore Oil Terminal 2,Angola,AGO
+fso54,Angola - Offshore Oil Terminal 3,Angola,AGO
+fso55,Angola - Offshore Oil Terminal 4,Angola,AGO
+fso56,Angola - Offshore Oil Terminal 5,Angola,AGO
+fso57,Angola - Offshore Oil Terminal 6,Angola,AGO
+fso58,Angola - Offshore Oil Terminal 7,Angola,AGO
+fso59,Australia - Offshore Oil Terminal 1,Australia,AUS
+fso6,Brazil - Offshore Oil Terminal 15,Brazil,BRA
+fso60,Australia - Offshore Oil Terminal 2,Australia,AUS
+fso61,Australia - Offshore Oil Terminal 3,Australia,AUS
+fso62,Australia - Offshore Oil Terminal 4,Australia,AUS
+fso63,Australia - Offshore Oil Terminal 5,Australia,AUS
+fso64,Bangladesh - Offshore Oil Terminal 1,Bangladesh,BGD
+fso65,Cameroon - Offshore Oil Terminal 1,Cameroon,CMR
+fso66,Canada - Offshore Oil Terminal 1,Canada,CAN
+fso67,China - Offshore Oil Terminal 1,China,CHN
+fso68,China - Offshore Oil Terminal 2,China,CHN
+fso69,China - Offshore Oil Terminal 3,China,CHN
+fso7,Brazil - Offshore Oil Terminal 16,Brazil,BRA
+fso70,China - Offshore Oil Terminal 4,China,CHN
+fso71,Côte d'Ivoire - Offshore Oil Terminal 1,Côte d'Ivoire,CIV
+fso72,Democratic Republic of the Congo - Offshore Oil Terminal 1,Democratic Republic of the Congo,COD
+fso73,Democratic Republic of the Congo - Offshore Oil Terminal 2,Democratic Republic of the Congo,COD
+fso74,Democratic Republic of the Congo - Offshore Oil Terminal 3,Democratic Republic of the Congo,COD
+fso75,Democratic Republic of the Congo - Offshore Oil Terminal 4,Democratic Republic of the Congo,COD
+fso76,Gabon - Offshore Oil Terminal 1,Gabon,GAB
+fso77,Gabon - Offshore Oil Terminal 2,Gabon,GAB
+fso78,Gabon - Offshore Oil Terminal 3,Gabon,GAB
+fso79,Ghana - Offshore Oil Terminal 1,Ghana,GHA
+fso8,Brazil - Offshore Oil Terminal 17,Brazil,BRA
+fso80,Ghana - Offshore Oil Terminal 2,Ghana,GHA
+fso81,Ghana - Offshore Oil Terminal 3,Ghana,GHA
+fso82,India - Offshore Oil Terminal 1,India,IND
+fso83,India - Offshore Oil Terminal 2,India,IND
+fso84,India - Offshore Oil Terminal 3,India,IND
+fso85,India - Offshore Oil Terminal 4,India,IND
+fso86,Indonesia - Offshore Oil Terminal 1,Indonesia,IDN
+fso87,Indonesia - Offshore Oil Terminal 10,Indonesia,IDN
+fso88,Indonesia - Offshore Oil Terminal 11,Indonesia,IDN
+fso89,Indonesia - Offshore Oil Terminal 12,Indonesia,IDN
+fso9,Brazil - Offshore Oil Terminal 18,Brazil,BRA
+fso90,Indonesia - Offshore Oil Terminal 13,Indonesia,IDN
+fso91,Indonesia - Offshore Oil Terminal 14,Indonesia,IDN
+fso92,Indonesia - Offshore Oil Terminal 15,Indonesia,IDN
+fso93,Indonesia - Offshore Oil Terminal 2,Indonesia,IDN
+fso94,Indonesia - Offshore Oil Terminal 3,Indonesia,IDN
+fso95,Indonesia - Offshore Oil Terminal 4,Indonesia,IDN
+fso96,Indonesia - Offshore Oil Terminal 5,Indonesia,IDN
+fso97,Indonesia - Offshore Oil Terminal 6,Indonesia,IDN
+fso98,Indonesia - Offshore Oil Terminal 7,Indonesia,IDN
+fso99,Indonesia - Offshore Oil Terminal 8,Indonesia,IDN
+port0,Abbot Point,Australia,AUS
+port1,Åbenrå,Denmark,DNK
+port10,Agadir,Morocco,MAR
+port100,Baku Port,Azerbaijan,AZE
+port1000,Porto De Maceio,Brazil,BRA
+port1001,Fortaleza (Mucuripe),Brazil,BRA
+port1002,Porto De Suape,Brazil,BRA
+port1003,Chioggia,Italy,ITA
+port1004,Ravenna,Italy,ITA
+port1005,Porto Di Lido-Venezia,Italy,ITA
+port1006,Malamocco,Italy,ITA
+port1007,Oristano,Italy,ITA
+port1008,Palermo,Italy,ITA
+port1009,Porto Grande,Cabo Verde,CPV
+port101,Balboa,Panama,PAN
+port1010,Pecem,Brazil,BRA
+port1011,Porto Torres,Italy,ITA
+port1012,Portocel,Brazil,BRA
+port1013,Piombino,Italy,ITA
+port1014,Portsmouth Harbour,United Kingdom,GBR
+port1015,Skoldvik,Finland,FIN
+port1016,Poti,Georgia,GEO
+port1017,Pozzuoli,Italy,ITA
+port1018,Praia da Vitoria,Portugal,PRT
+port1019,Presque Isle,United States,USA
+port102,Balikpapan,Indonesia,IDN
+port1020,Primorsk,Russian Federation,RUS
+port1021,Prince Rupert,Canada,CAN
+port1022,Probolinggo,Indonesia,IDN
+port1023,Progreso,Mexico,MEX
+port1024,Providence,United States,USA
+port1025,Providenciales,Turks and Caicos Islands,TCA
+port1026,Bayovar,Peru,PER
+port1027,Puerto Bolivar,Colombia,COL
+port1028,Puerto Bolivar,Ecuador,ECU
+port1029,Puerto Cabello,Venezuela,VEN
+port103,Baltimore,United States,USA
+port1030,Puerto Cabezas,Nicaragua,NIC
+port1031,Puerto Caldera,Chile,CHL
+port1032,Puerto Caldera,Costa Rica,CRI
+port1033,Puerto Castilla,Honduras,HND
+port1034,Puerto Chanaral,Chile,CHL
+port1035,Colon,Panama,PAN
+port1036,Puerto Cortes,Honduras,HND
+port1037,Puerto Cristobal,Panama,PAN
+port1038,Bilbao,Spain,ESP
+port1039,Carboneras,Spain,ESP
+port104,Baltiysk,Russian Federation,RUS
+port1040,Chimbote,Peru,PER
+port1041,Garrucha,Spain,ESP
+port1042,Haina,Dominican Republic,DOM
+port1043,San Lorenzo (Henecan),Honduras,HND
+port1044,Pasajes,Spain,ESP
+port1045,Callao,Peru,PER
+port1046,Puerto Del Rosario,Spain,ESP
+port1047,Ilo,Peru,PER
+port1048,Bahia Blanca,Argentina,ARG
+port1049,Puerto La Cruz,Venezuela,VEN
+port105,Bandar-E Pars Terminal,Iran,IRN
+port1050,Puerto Madryn,Argentina,ARG
+port1051,Puerto Miranda,Venezuela,VEN
+port1052,Puerto Moin,Costa Rica,CRI
+port1053,Puerto Montt,Chile,CHL
+port1054,Puerto Nuevo,Colombia,COL
+port1055,Puerto Plata,Dominican Republic,DOM
+port1056,Puerto Princesa,Philippines,PHL
+port1057,Puerto Quetzal,Guatemala,GTM
+port1058,Puerto San Antonio,Chile,CHL
+port1059,San Martin,Argentina,ARG
+port106,Bandar Shahid Rajaee,Iran,IRN
+port1060,Puerto Yabucoa,Puerto Rico,PRI
+port1061,Pulau Baai,Indonesia,IDN
+port1062,Penang,Malaysia,MYS
+port1063,Punta Cardón,Venezuela,VEN
+port1064,Punta Lobitos,Peru,PER
+port1065,Busan,Korea,KOR
+port1066,Put Put,Papua New Guinea,PNG
+port1067,Pyeongtaek,Korea,KOR
+port1068,Qalhat LNG Terminal,Oman,OMN
+port1069,Qingdao Port,China,CHN
+port107,Bandar Abbas,Iran,IRN
+port1070,Dongjiakou,China,CHN
+port1071,Qinzhou,China,CHN
+port1072,Qinhuangdao,China,CHN
+port1073,Qiwei,China,CHN
+port1074,Quanzhou,China,CHN
+port1075,Quebec,Canada,CAN
+port1077,Quequén,Argentina,ARG
+port1078,Quy Nhon,Vietnam,VNM
+port1079,Raahe,Finland,FIN
+port108,Bandar Khomeini,Iran,IRN
+port1080,Rabaul,Papua New Guinea,PNG
+port1081,Rabigh,Saudi Arabia,SAU
+port1082,Rada De Arica,Chile,CHL
+port1083,Vado Ligure,Italy,ITA
+port1084,Brest,France,FRA
+port1085,Randers,Denmark,DNK
+port1086,Yangon,Myanmar,MMR
+port1088,Ras Al Mishab,Saudi Arabia,SAU
+port1089,Ras Al-Khair,Saudi Arabia,SAU
+port109,Bandirma,Türkiye,TUR
+port1090,Ras Laffan,Qatar,QAT
+port1091,Ras Tanura,Saudi Arabia,SAU
+port1092,Rauma,Finland,FIN
+port1093,Rayong,Thailand,THA
+port1094,Recife,Brazil,BRA
+port1095,Ust-Luga,Russian Federation,RUS
+port1096,Rethymnon,Greece,GRC
+port1098,Reykjavík,Iceland,ISL
+port1099,Richards Bay,South Africa,ZAF
+port11,Åhus,Sweden,SWE
+port110,Benghazi,Libya,LBY
+port1100,Riga,Latvia,LVA
+port1101,Rijeka,Croatia,HRV
+port1102,Rio Bueno,Jamaica,JAM
+port1103,Rio De Janeiro,Brazil,BRA
+port1104,Rio Grande,Brazil,BRA
+port1105,Rizhao,China,CHN
+port1106,Road Harbor,British Virgin Islands,VGB
+port1107,Rørvik,Norway,NOR
+port1108,Rosario,Argentina,ARG
+port1109,Rosarito,Mexico,MEX
+port111,Bangkok,Thailand,THA
+port1110,Roseau,Dominica,DMA
+port1111,Rostock,Germany,DEU
+port1112,Rostov-Na-Donu,Russian Federation,RUS
+port1113,Rota,Northern Mariana Islands,MNP
+port1114,Rotterdam,The Netherlands,NLD
+port1115,Detroit,United States,USA
+port1116,Rumoi,Japan,JPN
+port1117,Al Ruwais,Qatar,QAT
+port1118,Safi,Morocco,MAR
+port1119,Saganoseki,Japan,JPN
+port112,Banjarmasin,Indonesia,IDN
+port1120,Sagunto,Spain,ESP
+port1123,Saint-Laurent-du-Maroni,French Guiana,GUF
+port1124,Saint-Malo,France,FRA
+port1125,Saint-Marc,Haiti,HTI
+port1126,Saipan,Northern Mariana Islands,MNP
+port1127,Sakai,Japan,JPN
+port1128,Sakai-Semboku,Japan,JPN
+port1129,Sakaide,Japan,JPN
+port113,Banjul,The Gambia,GMB
+port1130,Sakata,Japan,JPN
+port1131,Sal Rei,Cabo Verde,CPV
+port1132,Salaverry,Peru,PER
+port1133,Saldanha Bay,South Africa,ZAF
+port1135,Salerno,Italy,ITA
+port1136,Salina Cruz,Mexico,MEX
+port1137,Samarinda,Indonesia,IDN
+port1138,Sampit,Indonesia,IDN
+port1139,Samsun,Türkiye,TUR
+port114,Banten,Indonesia,IDN
+port1140,San Diego,United States,USA
+port1141,San Francisco,United States,USA
+port1142,San Giorgio,Italy,ITA
+port1143,San Juan,Puerto Rico,PRI
+port1144,San Miguel De Cozumel,Mexico,MEX
+port1145,San Nicolas,Argentina,ARG
+port1146,San Pedro,Côte d'Ivoire,CIV
+port1147,San Pedro De Macoris,Dominican Republic,DOM
+port1148,Sandnessjøen,Norway,NOR
+port1149,Sandusky,United States,USA
+port115,Bizerte,Tunisia,TUN
+port1150,Saint Petersburg,Russian Federation,RUS
+port1151,Sanshandaocun,China,CHN
+port1152,Santa Cruz De La Palma,Spain,ESP
+port1153,Santa Cruz De Tenerife,Spain,ESP
+port1154,Santa Marta,Colombia,COL
+port1155,Santander,Spain,ESP
+port1156,Santiago De Cuba,Cuba,CUB
+port1158,Santo Domingo,Dominican Republic,DOM
+port1159,Puerto Barrios,Guatemala,GTM
+port116,Bar,Montenegro,MNE
+port1160,Santos,Brazil,BRA
+port1161,Sao Francisco,Brazil,BRA
+port1162,São Sebastião,Brazil,BRA
+port1163,Sao Tome,São Tomé and Príncipe,STP
+port1164,Port of Sabah,Malaysia,MYS
+port1165,Sapele,Nigeria,NGA
+port1166,Sarnia,Canada,CAN
+port1167,Sarroch Oil Terminal,Italy,ITA
+port1168,Sassnitz,Germany,DEU
+port1169,Sauda,Norway,NOR
+port117,Barbor's Point,United States,USA
+port1170,Savannah,United States,USA
+port1171,Savona,Italy,ITA
+port1172,Suakin,Sudan,SDN
+port1173,Sayda,Lebanon,LBN
+port1174,Searsport,United States,USA
+port1175,Seattle,United States,USA
+port1176,Seghe,Solomon Islands,SLB
+port1177,Sekondi,Ghana,GHA
+port1178,Sekupang,Indonesia,IDN
+port1179,Semarang,Indonesia,IDN
+port118,Barcelona,Spain,ESP
+port1180,Sendai-Shiogama,Japan,JPN
+port1181,Sept Iles,Canada,CAN
+port1182,Serangoon Harbor,Singapore,SGP
+port1183,Sete,France,FRA
+port1184,Setubal,Portugal,PRT
+port1185,Seville,Spain,ESP
+port1186,Shala Pristan,Russian Federation,RUS
+port1187,Shantou,China,CHN
+port1188,Shanghai,China,CHN
+port1189,Shekou (Shenzhen),China,CHN
+port119,Bari,Italy,ITA
+port1190,Shibushi,Japan,JPN
+port1191,Shidao Newport,China,CHN
+port1192,Shijing Longxiang,China,CHN
+port1193,Shimizu,Japan,JPN
+port1194,Shoreham Harbour,United Kingdom,GBR
+port1195,Shougang Jingtang,China,CHN
+port1196,Shui Dong,China,CHN
+port1197,Laem Chabang,Thailand,THA
+port1198,Sibolga,Indonesia,IDN
+port1199,Sikka,India,IND
+port12,Aiyion,Greece,GRC
+port120,Barranquilla,Colombia,COL
+port1200,Sines,Portugal,PRT
+port1201,Singapore,Singapore,SGP
+port1202,Sint Nicolaas Baai,Aruba,ABW
+port1203,Sitrah,Bahrain,BHR
+port1204,Skagen,Denmark,DNK
+port1205,Skelleftehamn,Sweden,SWE
+port1206,Skhira,Tunisia,TUN
+port1207,Skutskär,Sweden,SWE
+port1208,Slagentangen,Norway,NOR
+port1209,Södertälje,Sweden,SWE
+port121,Barry,United Kingdom,GBR
+port1210,Sölvesborg,Sweden,SWE
+port1211,Songkhla,Thailand,THA
+port1212,Souda (Chania),Greece,GRC
+port1213,Sousse,Tunisia,TUN
+port1214,South Louisiana,United States,USA
+port1216,Southampton,United Kingdom,GBR
+port1217,Soyo Angola LNG Terminal,Angola,AGO
+port1218,Split,Croatia,HRV
+port1219,Saint John,Canada,CAN
+port122,Basseterre,St.  Kitts and Nevis,KNA
+port1220,Saint John's,Canada,CAN
+port1221,Port of Saint John's,Antigua and Barbuda,ATG
+port1222,St Nazaire,France,FRA
+port1223,Saint George's,Grenada,GRD
+port1224,Stagen,Indonesia,IDN
+port1225,Stavanger,Norway,NOR
+port1226,Steinkjer,Norway,NOR
+port1227,Stenungsund,Sweden,SWE
+port1228,Stockholm,Sweden,SWE
+port1229,Stockton,United States,USA
+port123,Basuo,China,CHN
+port1230,Stora Jatterson,Sweden,SWE
+port1231,Stura,Norway,NOR
+port1232,Subic Bay,Philippines,PHL
+port1233,Sundaomen Wuz,China,CHN
+port1234,Sunderland,United Kingdom,GBR
+port1235,Sundsvall,Sweden,SWE
+port1236,Duluth,United States,USA
+port1237,Surabaya,Indonesia,IDN
+port1238,Surigao City,Philippines,PHL
+port1239,Susaki,Japan,JPN
+port124,Bata,Equatorial Guinea,GNQ
+port1240,Suva,Fiji,FJI
+port1241,Swanport,United States,USA
+port1242,Swinoujscie,Poland,POL
+port1243,Sydney,Australia,AUS
+port1245,Sydney,United States,USA
+port1246,Szczecin,Poland,POL
+port1247,Tachibana,Japan,JPN
+port1248,Tacoma,United States,USA
+port1249,Taganrog,Russian Federation,RUS
+port125,Batangas City,Philippines,PHL
+port1250,Tagonoura,Japan,JPN
+port1252,Taichung,Taiwan Province of China,TWN
+port1253,Suzhou (Taicang),China,CHN
+port1254,Takamatsu,Japan,JPN
+port1255,Takoradi,Ghana,GHA
+port1256,Takuma,Japan,JPN
+port1257,Talara,Peru,PER
+port1258,Tallinn,Estonia,EST
+port1259,Tampa Port,United States,USA
+port126,Baton Rouge,United States,USA
+port1260,Tampico,Mexico,MEX
+port1261,Taipei,Taiwan Province of China,TWN
+port1262,Tanah Merah,Indonesia,IDN
+port1263,Tananger,Norway,NOR
+port1265,Tangier-Mediterranean,Morocco,MAR
+port1266,Tangshan (Jingtang),China,CHN
+port1267,Tanjung Benete,Indonesia,IDN
+port1268,Tanjung Geren,Indonesia,IDN
+port1269,Tanjung Pelepas,Malaysia,MYS
+port127,Batumi,Georgia,GEO
+port1270,Tanjung Sangata,Indonesia,IDN
+port1271,Tanjung Sekong,Indonesia,IDN
+port1272,Tanjung Redeb,Indonesia,IDN
+port1273,Tanjunguban,Indonesia,IDN
+port1274,Tripoli,Lebanon,LBN
+port1275,Taranto,Italy,ITA
+port1276,Betio (Tarawa),Kiribati,KIR
+port1277,Tarragona,Spain,ESP
+port1278,Tauranga,New Zealand,NZL
+port1279,Teesport,United Kingdom,GBR
+port128,Baubau,Indonesia,IDN
+port1280,Tekirdag,Türkiye,TUR
+port1281,Teluk Bayur,Indonesia,IDN
+port1282,Tema,Ghana,GHA
+port1283,Temryuk,Russian Federation,RUS
+port1284,Terneuzen,The Netherlands,NLD
+port1285,Texas City,United States,USA
+port1286,Tg Mani,Malaysia,MYS
+port1287,Tg. Sorong,Indonesia,IDN
+port1288,Thathong,Thailand,THA
+port1289,Thamesport,United Kingdom,GBR
+port129,Bautino,Kazakhstan,KAZ
+port1290,Thamshamm,Norway,NOR
+port1291,Saigon,Vietnam,VNM
+port1293,Thessaloníki,Greece,GRC
+port1294,Thevenard,Australia,AUS
+port1295,Thunder Bay,Canada,CAN
+port1296,Thyboron,Denmark,DNK
+port1297,Tianjin Xin Gang,China,CHN
+port1298,Tilbury,United Kingdom,GBR
+port1299,Timaru,New Zealand,NZL
+port13,Ajman,United Arab Emirates,ARE
+port130,Bay City,United States,USA
+port1300,Tinian,Northern Mariana Islands,MNP
+port1301,Toamasina,Madagascar,MDG
+port1302,Tocopilla,Chile,CHL
+port1303,Tokachi,Japan,JPN
+port1304,Tokuyama,Japan,JPN
+port1305,Tokyo,Japan,JPN
+port1306,Toledo,United States,USA
+port1307,Tulear (Toliara),Madagascar,MDG
+port1308,Tomakomai,Japan,JPN
+port1309,Donghae,Korea,KOR
+port131,Bayonne,France,FRA
+port1310,Topolobampo,Mexico,MEX
+port1311,Torneå,Finland,FIN
+port1312,Toronto,Canada,CAN
+port1313,Toros Gubre,Türkiye,TUR
+port1314,Torrevieja,Spain,ESP
+port1315,Townsville,Australia,AUS
+port1316,Trabzon,Türkiye,TUR
+port1317,Trelleborg,Sweden,SWE
+port1318,Trieste,Italy,ITA
+port1319,Trincomalee,Sri Lanka,LKA
+port132,Beirut,Lebanon,LBN
+port1320,Trois Rivieres,Canada,CAN
+port1321,Tromsø,Norway,NOR
+port1322,Trondheim,Norway,NOR
+port1323,Tsingéli,Greece,GRC
+port1324,Tsukumi,Japan,JPN
+port1325,Tsuruga,Japan,JPN
+port1326,Tuapse,Russian Federation,RUS
+port1327,Tuban,Indonesia,IDN
+port1328,Tubarao,Brazil,BRA
+port1329,Tunis,Tunisia,TUN
+port133,Bayuquan,China,CHN
+port1330,Turkmenbashi Port,Turkmenistan,TKM
+port1331,Tuticorin,India,IND
+port1332,Tuxpan,Mexico,MEX
+port1333,Two Harbors,United States,USA
+port1334,Tynemouth,United Kingdom,GBR
+port1335,Ube,Japan,JPN
+port1336,Makassar,Indonesia,IDN
+port1337,Uleelheue,Indonesia,IDN
+port1338,Ulsan,Korea,KOR
+port1339,Umea Hamn,Sweden,SWE
+port134,Beaumont,United States,USA
+port1340,Umm al Qaiwain,United Arab Emirates,ARE
+port1341,Umm Qasr,Iraq,IRQ
+port1342,Doha-Umm Said,Qatar,QAT
+port1343,Uno,Japan,JPN
+port1344,Uturoa,French Polynesia,PYF
+port1345,Uwajima,Japan,JPN
+port1346,Vaasa,Finland,FIN
+port1348,Valencia,Spain,ESP
+port1349,Valletta,Malta,MLT
+port135,Berdyansk,Ukraine,UKR
+port1350,Vancouver,Canada,CAN
+port1351,Vancouver,United States,USA
+port1352,Vanimo,Papua New Guinea,PNG
+port1353,Varberg,Sweden,SWE
+port1354,Varkaus,Finland,FIN
+port1355,Varna,Bulgaria,BGR
+port1356,Västerås,Sweden,SWE
+port1357,Ventspils,Latvia,LVA
+port1358,Veracruz,Mexico,MEX
+port136,Beihai,China,CHN
+port1360,Victoria,Malaysia,MYS
+port1361,Victoria,Seychelles,SYC
+port1362,Vieux Fort,St.  Lucia,LCA
+port1363,Vigo,Spain,ESP
+port1364,Vikanes,Norway,NOR
+port1365,Villagarcia De Arosa,Spain,ESP
+port1366,Villanueva,Philippines,PHL
+port1367,Visakhapatnam,India,IND
+port1368,Vitoria,Brazil,BRA
+port1369,Vladivostok,Russian Federation,RUS
+port137,Beira,Mozambique,MOZ
+port1370,Vlissingen,The Netherlands,NLD
+port1371,Vlora,Albania,ALB
+port1372,Voh,New Caledonia,NCL
+port1373,Volos,Greece,GRC
+port1374,Vostochnyy,Russian Federation,RUS
+port1375,Vung Tau,Vietnam,VNM
+port1376,Vyborg,Russian Federation,RUS
+port1377,Waingapu,Indonesia,IDN
+port1378,Kitakyushu (Wakamatsu),Japan,JPN
+port1379,Wakayama-Shimotsu,Japan,JPN
+port138,Bejaia,Algeria,DZA
+port1380,Wallaroo,Australia,AUS
+port1381,Walvis Bay,Namibia,NAM
+port1382,Warren Point,United Kingdom,GBR
+port1383,Warri,Nigeria,NGA
+port1384,Waterford,Ireland,IRL
+port1385,Weifang Port,China,CHN
+port1386,Weihai,China,CHN
+port1387,Weipa,Australia,AUS
+port1388,Wellington,New Zealand,NZL
+port139,Belawan,Indonesia,IDN
+port1390,Wenzhou,China,CHN
+port1391,Western Port,Australia,AUS
+port1392,Wewak Harbor,Papua New Guinea,PNG
+port1393,Marsden Point,New Zealand,NZL
+port1395,Whyalla,Australia,AUS
+port1396,Wilhelmshaven,Germany,DEU
+port1397,Willemstad,Curaçao,CUW
+port1398,"Wilmington, DE",United States,USA
+port1399,"Wilmington, NC",United States,USA
+port14,Akita,Japan,JPN
+port140,Belém,Brazil,BRA
+port1400,Wisbech,United Kingdom,GBR
+port1401,Wismar,Germany,DEU
+port1402,Workington,United Kingdom,GBR
+port1403,Xiagong,China,CHN
+port1404,Xiamen,China,CHN
+port1405,Xiuyu,China,CHN
+port1406,Yakacik,Türkiye,TUR
+port1407,Yalova,Türkiye,TUR
+port1408,Yanbu (Yanbu city),Saudi Arabia,SAU
+port1409,Yangpu,China,CHN
+port141,Belfast,United Kingdom,GBR
+port1410,Yantai,China,CHN
+port1411,Yatsushiro,Japan,JPN
+port1412,Yawatahama,Japan,JPN
+port1413,Yeysk,Russian Federation,RUS
+port1414,Yantian,China,CHN
+port1415,Yingkou,China,CHN
+port1416,Yokkaichi,Japan,JPN
+port1417,Yokohama,Japan,JPN
+port1418,Yokosuka,Japan,JPN
+port1419,Pivdennyi,Ukraine,UKR
+port142,Belize City,Belize,BLZ
+port1420,Zamboanga,Philippines,PHL
+port1421,Zanzibar,Tanzania,TZA
+port1422,Zarate,Argentina,ARG
+port1423,Zarzis,Tunisia,TUN
+port1424,Zeebrugge,Belgium,BEL
+port1425,Suzhou (Zhangjiagang),China,CHN
+port1426,Zhanjiang,China,CHN
+port1427,Zhapu,China,CHN
+port1428,Zhouliwang,China,CHN
+port1429,Zhoushan,China,CHN
+port143,Bellingham,United States,USA
+port1430,Zonguldak,Türkiye,TUR
+port1431,Palma de Mallorca,Spain,ESP
+port1432,Punta Arenas,Chile,CHL
+port144,Benicia,United States,USA
+port145,Benoa,Indonesia,IDN
+port146,Berbera,Somalia,SOM
+port147,Bergen,Norway,NOR
+port148,Big Creek,Belize,BLZ
+port149,Bintulu,Malaysia,MYS
+port15,Ako,Japan,JPN
+port150,Bissau,Guinea-Bissau,GNB
+port151,Bitung,Indonesia,IDN
+port152,Blanglancang,Indonesia,IDN
+port153,Bluff Harbor,New Zealand,NZL
+port154,Huanghua,China,CHN
+port155,Bonny,Nigeria,NGA
+port156,Bontang LNG Terminal,Indonesia,IDN
+port157,Bossaso,Somalia,SOM
+port158,Bordeaux,France,FRA
+port159,Boston,United States,USA
+port16,Aktau Port,Kazakhstan,KAZ
+port160,Boston,United Kingdom,GBR
+port161,Port Botany,Australia,AUS
+port162,Botas,Türkiye,TUR
+port163,Botas Natural Gas Terminal,Türkiye,TUR
+port164,Brades,Montserrat,MSR
+port165,Brake,Germany,DEU
+port166,Porto do Acu,Brazil,BRA
+port167,Bremen,Germany,DEU
+port168,Bremerhaven,Germany,DEU
+port169,Brevik,Norway,NOR
+port17,Akureyri,Iceland,ISL
+port170,Bridgeport (US-CT),United States,USA
+port171,Bridgetown,Barbados,BRB
+port172,Brighton,Trinidad and Tobago,TTO
+port173,Brindisi,Italy,ITA
+port174,Brisbane,Australia,AUS
+port175,Brofjorden,Sweden,SWE
+port176,Broome,Australia,AUS
+port177,Brownsville (US-PA),United States,USA
+port178,Bruges,Belgium,BEL
+port179,Brunsbuettel,Germany,DEU
+port18,Hudaydah (Hodeidah),Yemen,YEM
+port180,Brunswick,United States,USA
+port181,Buchanan,Liberia,LBR
+port182,Buco,Philippines,PHL
+port183,Buenaventura,Colombia,COL
+port184,Buenos Aires,Argentina,ARG
+port185,Buffington,United States,USA
+port186,Buka,Papua New Guinea,PNG
+port187,Vanino,Russian Federation,RUS
+port189,Bullen Baai,Curaçao,CUW
+port19,Aqaba,Jordan,JOR
+port190,Bunbury,Australia,AUS
+port191,Safaga,Egypt,EGY
+port192,Port Said,Egypt,EGY
+port193,Burgas,Bulgaria,BGR
+port194,Burnie,Australia,AUS
+port195,Burns Harbour,United States,USA
+port196,Bushehr,Iran,IRN
+port197,Butinge Oil Terminal,Lithuania,LTU
+port198,Butuan City,Philippines,PHL
+port2,Aberdeen,United States,USA
+port20,Al Basrah,Iraq,IRQ
+port200,Cabedelo,Brazil,BRA
+port2001,Izmail,Ukraine,UKR
+port2002,Reni,Ukraine,UKR
+port2003,Olvia,Ukraine,UKR
+port2004,Kherson,Ukraine,UKR
+port2005,Giurgiulesti Port,Moldova,MDA
+port2006,Tulcea,Romania,ROU
+port2007,Galati,Romania,ROU
+port2008,Romportmet,Romania,ROU
+port2009,Braila,Romania,ROU
+port201,Cadiz,Spain,ESP
+port2010,Azov,Russian Federation,RUS
+port2011,Otago,New Zealand,NZL
+port2012,Khalifa Bin Salman,Bahrain,BHR
+port2013,Puerto Limon,Costa Rica,CRI
+port2014,Holyhead,United Kingdom,GBR
+port2015,Trapani,Italy,ITA
+port2016,Eilat,Israel,ISR
+port2017,Moji,Japan,JPN
+port2018,Ronne,Denmark,DNK
+port2019,Dongguan,China,CHN
+port202,Cagayan de Oro,Philippines,PHL
+port2020,Nanjing,China,CHN
+port2021,Jiaxing,China,CHN
+port2022,Rosslare,Ireland,IRL
+port2023,Bantry Bay,Ireland,IRL
+port2024,Larne,United Kingdom,GBR
+port2025,Khalifa Port,United Arab Emirates,ARE
+port2026,Hamad Port,Qatar,QAT
+port2027,Shanghai (Yangshan),China,CHN
+port2028,Mawan,China,CHN
+port2029,Dachan Bay,China,CHN
+port203,Cagliari,Italy,ITA
+port2030,Qianhai Bay,China,CHN
+port2031,King Abdullah Port,Saudi Arabia,SAU
+port2032,Posorja,Ecuador,ECU
+port2033,Port of Yeosu,Korea,KOR
+port2034,Yarimca,Türkiye,TUR
+port2035,Itapoa,Brazil,BRA
+port2036,Siam Seaport,Thailand,THA
+port2037,Diliskelesi,Türkiye,TUR
+port2038,Kattupalli,India,IND
+port2039,Hazira,India,IND
+port204,Cairns,Australia,AUS
+port2040,Naha,Japan,JPN
+port2041,Omaezaki,Japan,JPN
+port2042,Chu Lai,Vietnam,VNM
+port2043,Borusan,Türkiye,TUR
+port2044,El Dekheila,Egypt,EGY
+port2045,Porto de Itaguai,Brazil,BRA
+port2046,Vila Do Conde,Brazil,BRA
+port2047,Rades (La Goulette),Tunisia,TUN
+port2048,Almirante,Panama,PAN
+port2049,Ambarli,Türkiye,TUR
+port205,Calabar,Nigeria,NGA
+port2050,Angra Dos Reis,Brazil,BRA
+port2051,Cam Pha,Vietnam,VNM
+port2052,Cape Flattery,Australia,AUS
+port2053,Chicago,United States,USA
+port2054,Coquimbo,Chile,CHL
+port2055,Iloilo,Philippines,PHL
+port2056,Karumba,Australia,AUS
+port2057,Hibikinada,Japan,JPN
+port2058,Launceston,Australia,AUS
+port2059,Melilla,Spain,ESP
+port206,Calais,France,FRA
+port2060,Mina Salman,Bahrain,BHR
+port2061,Mourilyan,Australia,AUS
+port2062,Nanaimo,Canada,CAN
+port2063,Ngqura,South Africa,ZAF
+port2064,Nordenham,Germany,DEU
+port2065,Okrika,Nigeria,NGA
+port2066,Port of Virginia,United States,USA
+port2067,Shuaiba,Kuwait,KWT
+port2068,Stralsund,Germany,DEU
+port2069,Sullom Voe,United Kingdom,GBR
+port207,Kolkata (Syama Prasad Mookerje Port),India,IND
+port2070,Wallhamn,Sweden,SWE
+port2071,Ust-Danube,Ukraine,UKR
+port2072,Port of Skadovsk,Ukraine,UKR
+port2073,Kismayo,Somalia,SOM
+port2074,Jazan,Saudi Arabia,SAU
+port2075,Orkney,United Kingdom,GBR
+port2076,Escravos (Oil Terminal),Nigeria,NGA
+port2077,Bilhorod-Dnistrovskyi,Ukraine,UKR
+port2078,Alexandroupoli,Greece,GRC
+port2079,Gizo,Solomon Islands,SLB
+port208,Caleta Patillos,Chile,CHL
+port2080,Ringgi,Solomon Islands,SLB
+port2081,Savusavu,Fiji,FJI
+port2082,Nabouwalu,Fiji,FJI
+port2083,Lughughi,Solomon Islands,SLB
+port2084,Rennell Island,Solomon Islands,SLB
+port2085,Cat Lai (Saigon New Port),Vietnam,VNM
+port2086,Cherbourg,France,FRA
+port2087,Dundee,United Kingdom,GBR
+port2088,Rosyth,United Kingdom,GBR
+port2089,Kirkcaldy,United Kingdom,GBR
+port209,Calumet Harbor,United States,USA
+port2090,Burntisland,United Kingdom,GBR
+port2091,Methil,United Kingdom,GBR
+port2092,Romano,Albania,ALB
+port2093,Rosales,Argentina,ARG
+port2094,Punta Loyola,Argentina,ARG
+port2095,Del Guazu,Argentina,ARG
+port2096,Wyndham,Australia,AUS
+port2097,South Riding Point,The Bahamas,BHS
+port2098,Guamare,Brazil,BRA
+port2099,Itacoatiara,Brazil,BRA
+port21,Ras Lanuf (Al Burayqah),Libya,LBY
+port210,Campana,Argentina,ARG
+port2100,Limboh,Cameroon,CMR
+port2101,Point Tupper,Canada,CAN
+port2102,Lewisporte,Canada,CAN
+port2103,Gaspe,Canada,CAN
+port2104,Charlottetown,Canada,CAN
+port2105,Holyrood,Canada,CAN
+port2106,Talcahuano,Chile,CHL
+port2107,Guayacan,Chile,CHL
+port2108,Hadera,Israel,ISR
+port2109,Mokha,Yemen,YEM
+port211,Canaport (St. John),Canada,CAN
+port2110,Pulandian,China,CHN
+port2111,Qushan Island,China,CHN
+port2112,Zhuhai,China,CHN
+port2113,Gulei,China,CHN
+port2114,Guangao,China,CHN
+port2115,Luanjiakou,China,CHN
+port2116,Dafeng,China,CHN
+port2117,Lushun,China,CHN
+port2118,Luoyuan,China,CHN
+port2119,Tumaco,Colombia,COL
+port212,Canaveral Harbor,United States,USA
+port2120,Banana,Democratic Republic of the Congo,COD
+port2121,Punta Morales,Costa Rica,CRI
+port2122,Zadar,Croatia,HRV
+port2123,Pula,Croatia,HRV
+port2124,Dhekelia,Cyprus,CYP
+port2125,Stigsnaes,Denmark,DNK
+port2126,La Romana,Dominican Republic,DOM
+port2127,Barahona,Dominican Republic,DOM
+port2128,Puerto Viejo,Dominican Republic,DOM
+port2129,Sidi Kerir,Egypt,EGY
+port213,Dung Quat,Vietnam,VNM
+port2130,Ras Gharib,Egypt,EGY
+port2131,Zeit Bay,Egypt,EGY
+port2132,Ras Shukheir,Egypt,EGY
+port2133,Sillamae,Estonia,EST
+port2134,Runavik,Faroe Islands,FRO
+port2135,Fuglafjordur,Faroe Islands,FRO
+port2136,Berre,France,FRA
+port2137,Antifer,France,FRA
+port2138,Gamba,Gabon,GAB
+port2139,Supsa,Georgia,GEO
+port214,Cap Haitien,Haiti,HTI
+port2140,Stade,Germany,DEU
+port2141,Pachi,Greece,GRC
+port2142,Lavrion,Greece,GRC
+port2143,Chalkis,Greece,GRC
+port2144,Kali Limenes,Greece,GRC
+port2145,Atherinolakos,Greece,GRC
+port2146,Psakhna,Greece,GRC
+port2147,San Nicolas,Greece,GRC
+port2148,Hvalfjordur,Iceland,ISL
+port2149,Helguvik,Iceland,ISL
+port215,Cape Town,South Africa,ZAF
+port2150,Vizhinjam,India,IND
+port2151,Karwar,India,IND
+port2152,Port Blair,India,IND
+port2153,Karimun,Indonesia,IDN
+port2154,Muntok,Indonesia,IDN
+port2155,Sungai Pakning,Indonesia,IDN
+port2156,Padang,Indonesia,IDN
+port2157,Sabang,Indonesia,IDN
+port2158,Pulau Sambu,Indonesia,IDN
+port2159,Kuala Tanjung,Indonesia,IDN
+port216,Caracasbaai,Curaçao,CUW
+port2160,Bula,Indonesia,IDN
+port2161,Kijing,Indonesia,IDN
+port2162,Amurang,Indonesia,IDN
+port2163,Luwuk,Indonesia,IDN
+port2164,Kharg Island,Iran,IRN
+port2165,Lavan,Iran,IRN
+port2166,Tarbert,Ireland,IRL
+port2167,Santa Panagia,Italy,ITA
+port2168,Falconara,Italy,ITA
+port2169,Vasto,Italy,ITA
+port217,Cardiff,United Kingdom,GBR
+port2170,Gaeta,Italy,ITA
+port2171,Torre Annunziata,Italy,ITA
+port2172,Port Kaiser,Jamaica,JAM
+port2173,Henza Island,Japan,JPN
+port2174,Namikata,Japan,JPN
+port2175,Sasebo,Japan,JPN
+port2176,Kanokawa,Japan,JPN
+port2177,Nakagusukuwan,Japan,JPN
+port2178,Mutsure,Japan,JPN
+port2179,Chofu,Japan,JPN
+port218,Cartagena,Colombia,COL
+port2180,Kinwan,Japan,JPN
+port2181,Saiki,Japan,JPN
+port2182,Owase,Japan,JPN
+port2183,Okpo (Geoje),Korea,KOR
+port2184,Mokpo,Korea,KOR
+port2185,Jinhae,Korea,KOR
+port2186,Chekka,Lebanon,LBN
+port2187,Aamchit,Lebanon,LBN
+port2188,Derna,Libya,LBY
+port2189,Pengerang,Malaysia,MYS
+port219,Cartagena,Spain,ESP
+port2190,Kimanis,Malaysia,MYS
+port2191,Kunak,Malaysia,MYS
+port2192,Tawau,Malaysia,MYS
+port2193,Bijela,Montenegro,MNE
+port2194,Tan Tan,Morocco,MAR
+port2195,Baie De Prony,New Caledonia,NCL
+port2196,Puerto Sandino,Nicaragua,NIC
+port2197,Honningsvag,Norway,NOR
+port2198,Haugesund,Norway,NOR
+port2199,Kirkenes,Norway,NOR
+port22,Al Hamriyah LPG Terminal,United Arab Emirates,ARE
+port220,Casablanca,Morocco,MAR
+port2200,Taboguilla,Panama,PAN
+port2201,Bialla,Papua New Guinea,PNG
+port2202,Pisco (General San Martin),Peru,PER
+port2203,La Pampilla,Peru,PER
+port2204,Eten,Peru,PER
+port2205,Mollendo,Peru,PER
+port2206,Supe,Peru,PER
+port2207,Isabel,Philippines,PHL
+port2208,Amlan,Philippines,PHL
+port2209,Calaca,Philippines,PHL
+port221,Castries,St.  Lucia,LCA
+port2210,Balayan,Philippines,PHL
+port2211,Porto Santo,Portugal,PRT
+port2212,Ponce,Puerto Rico,PRI
+port2213,Mangalia,Romania,ROU
+port2214,Slavyanka,Russian Federation,RUS
+port2215,Sabetta,Russian Federation,RUS
+port2216,Petropavlovsk-Kamchatskiy,Russian Federation,RUS
+port2217,Ras Al Khafji,Saudi Arabia,SAU
+port2218,Shuqaiq,Saudi Arabia,SAU
+port2219,Salif,Yemen,YEM
+port222,Catania,Italy,ITA
+port2220,Mossel Bay,South Africa,ZAF
+port2221,Rota,Spain,ESP
+port2222,Mahon,Spain,ESP
+port2223,San Ciprian,Spain,ESP
+port2224,Galle,Sri Lanka,LKA
+port2225,Bashayer,Sudan,SDN
+port2226,Landskrona,Sweden,SWE
+port2227,Tartous,Syria,SYR
+port2228,Baniyas,Syria,SYR
+port2229,Anping,Taiwan Province of China,TWN
+port223,Moa,Cuba,CUB
+port2230,Suao,Taiwan Province of China,TWN
+port2231,Tanga,Tanzania,TZA
+port2232,Mtwara,Tanzania,TZA
+port2233,Canakkale,Türkiye,TUR
+port2234,Feodosiya,Ukraine,UKR
+port2235,Zirku Island,United Arab Emirates,ARE
+port2236,Jebel Dhanna,United Arab Emirates,ARE
+port2237,Das Island,United Arab Emirates,ARE
+port2238,Hound Point,United Kingdom,GBR
+port2239,Flotta,United Kingdom,GBR
+port224,Cebu,Philippines,PHL
+port2240,Douglas,United Kingdom,GBR
+port2241,Cromarty,United Kingdom,GBR
+port2242,Macduff,United Kingdom,GBR
+port2243,Loch Striven,United Kingdom,GBR
+port2244,Faslane,United Kingdom,GBR
+port2245,Ras Isa Terminal,Yemen,YEM
+port2246,Campbeltown,United Kingdom,GBR
+port2247,Delaware,United States,USA
+port2248,Rodeo,United States,USA
+port2249,Erie,United States,USA
+port225,Chaguaramas,Trinidad and Tobago,TTO
+port2250,Key West,United States,USA
+port2251,Nikiski,United States,USA
+port2252,Marcus Hook,United States,USA
+port2253,Kalama,United States,USA
+port2254,Albany,United States,USA
+port2255,Manchester,United States,USA
+port2256,Dutch Harbor,United States,USA
+port2257,Punta Pereira,Uruguay,URY
+port2258,Nueva Palmira,Uruguay,URY
+port2259,Fray Bentos,Uruguay,URY
+port226,Chabahar,Iran,IRN
+port2260,Catia La Mar,Venezuela,VEN
+port2261,La Salina,Venezuela,VEN
+port2262,Van Phong,Vietnam,VNM
+port2263,Ash Shihr,Yemen,YEM
+port2264,Rudum Terminal,Yemen,YEM
+port2265,Conneaut,United States,USA
+port2266,Fairless Hills,United States,USA
+port2267,Longview,United States,USA
+port2268,Ashtabula,United States,USA
+port2269,Fairport,United States,USA
+port227,Suzhou (Changshu),China,CHN
+port2270,Monroe,United States,USA
+port2271,Garacad,Somalia,SOM
+port2272,Chancay,Peru,PER
+port2273,Fernandina,United States,USA
+port2274,Madero,Mexico,MEX
+port2275,Deseado,Argentina,ARG
+port2276,San Antonio Este,Argentina,ARG
+port2277,Chacabuco,Chile,CHL
+port2278,San Andres,Colombia,COL
+port2279,Cumarebo,Venezuela,VEN
+port228,Changzhou,China,CHN
+port2280,Guaranao,Venezuela,VEN
+port2281,Guanta,Venezuela,VEN
+port2282,Uusikaupunki,Finland,FIN
+port2283,Moerdijk,The Netherlands,NLD
+port2284,Jeju,Korea,KOR
+port2285,Seogwipo,Korea,KOR
+port2286,Wando,Korea,KOR
+port2287,Zhongshan,China,CHN
+port2288,Ushuaia,Argentina,ARG
+port2289,Abashiri,Japan,JPN
+port229,Chaozhou,China,CHN
+port2290,Aburatsu,Japan,JPN
+port2291,Al Hoceima,Morocco,MAR
+port2292,Beppu,Japan,JPN
+port2293,Biak,Indonesia,IDN
+port2294,Bunati,Indonesia,IDN
+port2295,Cesme,Türkiye,TUR
+port2296,Fukue,Japan,JPN
+port2297,Funagawa,Japan,JPN
+port2298,Gonoura,Japan,JPN
+port2299,Gopalpur,India,IND
+port23,Alexandria,Egypt,EGY
+port230,Charco Azul,Panama,PAN
+port2300,PLTU Nagan Raya,Indonesia,IDN
+port2301,Hidaka,Japan,JPN
+port2302,Hirara,Japan,JPN
+port2303,Imari,Japan,JPN
+port2304,Ishigaki,Japan,JPN
+port2305,Izuhara,Japan,JPN
+port2306,Jetty Coalindo,Indonesia,IDN
+port2307,Sakarya (Karasu),Türkiye,TUR
+port2308,Sendai,Japan,JPN
+port2309,Kenitra,Morocco,MAR
+port231,Charleston,United States,USA
+port2310,Xishengxu,China,CHN
+port2311,Kuji,Japan,JPN
+port2312,Kumamoto,Japan,JPN
+port2313,La Libertad,El Salvador,SLV
+port2314,Miike,Japan,JPN
+port2315,"Misumi, Kumamoto",Japan,JPN
+port2316,"Misumi, Shimane",Japan,JPN
+port2317,Miyako,Japan,JPN
+port2318,Miyazaki,Japan,JPN
+port2319,Monbetsu,Japan,JPN
+port232,Charlestown,St.  Kitts and Nevis,KNA
+port2320,Mutsu-Ogawara,Japan,JPN
+port2321,Nakatsu,Japan,JPN
+port2322,Naze,Japan,JPN
+port2323,Nemuro,Japan,JPN
+port2324,Nishinoomote,Japan,JPN
+port2325,North Abaco,The Bahamas,BHS
+port2326,Ogi,Japan,JPN
+port2327,Okayama,Japan,JPN
+port2328,Tuzla (Pendik),Türkiye,TUR
+port2329,Plaquemines,United States,USA
+port233,Charlotte,United States Virgin Islands,VIR
+port2330,Port Rhoades,Jamaica,JAM
+port2331,Porto Sul,Brazil,BRA
+port2332,Rocky Point,Jamaica,JAM
+port2333,Rugao,China,CHN
+port2334,Ryotsu,Japan,JPN
+port2335,Safi Atlantique,Morocco,MAR
+port2336,Saigo,Japan,JPN
+port2337,Shimonoseki,Japan,JPN
+port2338,Soma,Japan,JPN
+port2339,Sukumowan,Japan,JPN
+port234,Chatham,United Kingdom,GBR
+port2340,Taixing,China,CHN
+port2341,Tasucu,Türkiye,TUR
+port2342,Tottori,Japan,JPN
+port2343,Toyo,Japan,JPN
+port2344,Tuna,India,IND
+port2345,Unten,Japan,JPN
+port2346,Wahana Jetty,Indonesia,IDN
+port2347,Wakkanai,Japan,JPN
+port2348,Xieqiao,China,CHN
+port2349,Yangzhou,China,CHN
+port235,Chennai (Madras),India,IND
+port2350,Yihua,China,CHN
+port2351,Zhenjiang,China,CHN
+port2352,Zhenjiang New Area,China,CHN
+port2353,Areia Branca,Brazil,BRA
+port2354,Carinhoso,Brazil,BRA
+port2355,Coari,Brazil,BRA
+port2356,Concepcion del Uruguay,Argentina,ARG
+port2357,Correa,Brazil,BRA
+port2358,Estaleiro Jurong,Brazil,BRA
+port2359,Itahum,Brazil,BRA
+port236,Cherry Point,United States,USA
+port2360,Itaituba,Brazil,BRA
+port2361,Juruti,Brazil,BRA
+port2362,Munguba,Brazil,BRA
+port2363,Murtinho,Brazil,BRA
+port2364,Norte Capixaba,Brazil,BRA
+port2365,Osorio,Brazil,BRA
+port2366,Pelotas,Brazil,BRA
+port2367,Paracuru,Brazil,BRA
+port2368,Ponta Ubu,Brazil,BRA
+port2369,Porto Velho,Brazil,BRA
+port237,Chester,United States,USA
+port2370,Portuário Novo Remanso,Brazil,BRA
+port2371,Santana,Brazil,BRA
+port2372,Santarem,Brazil,BRA
+port2373,Trombetas,Brazil,BRA
+port2375,Boryeong LNG Terminal,Korea,KOR
+port2376,Chugoku Yanai LNG Terminal,Japan,JPN
+port2377,Costa Azul LNG Terminal,Mexico,MEX
+port2378,Dhabol LNG Terminal,India,IND
+port2379,Dominion Cove Point,United States,USA
+port238,Keelung,Taiwan Province of China,TWN
+port2380,Donggi Senoro LNG Terminal,Indonesia,IDN
+port2381,Dongguan LNG Terminal,China,CHN
+port2382,Escobar LNG Terminal,Argentina,ARG
+port2383,Guangdong Dapeng LNG Terminal,China,CHN
+port2384,Pagbilao,Philippines,PHL
+port2385,Peru LNG Terminal,Peru,PER
+port2386,Revithoussa LNG Terminal,Greece,GRC
+port2387,Rudong Jiangsu LNG Terminal,China,CHN
+port2388,Sabine Pass,United States,USA
+port2389,Samalaju,Malaysia,MYS
+port239,Chiba,Japan,JPN
+port2390,Samcheok LNG Terminal,Korea,KOR
+port2391,Tongyeong LNG Terminal,Korea,KOR
+port2392,Yemen LNG Terminal,Yemen,YEM
+port2393,Yuedong LNG Terminal,China,CHN
+port2394,Yung-An LNG Terminal,Taiwan Province of China,TWN
+port2395,Bacolod,Philippines,PHL
+port2396,Christiansted,United States Virgin Islands,VIR
+port2397,Egersund,Norway,NOR
+port2398,Fusa,Norway,NOR
+port2399,Futong,Indonesia,IDN
+port24,Jubail,Saudi Arabia,SAU
+port240,Chiriquí Grande,Panama,PAN
+port2400,Greenock,United Kingdom,GBR
+port2401,Guangzhou (Huangpu),China,CHN
+port2402,Kodiak,United States,USA
+port2403,Lekki,Nigeria,NGA
+port2404,Mar del Plata,Argentina,ARG
+port2405,Nghi Son,Vietnam,VNM
+port2406,Pozzallo,Italy,ITA
+port2407,Turbo,Colombia,COL
+port2408,Basse Terre,Guadeloupe,GLP
+port2409,Borkum,Germany,DEU
+port241,Chittagong,Bangladesh,BGD
+port2410,El Sauzal,Mexico,MEX
+port2411,Funchal,Portugal,PRT
+port2412,Gonghyeonjin,Korea,KOR
+port2413,Gushan,China,CHN
+port2414,Haiyan,China,CHN
+port2415,Huangdun,China,CHN
+port2416,Iquitos,Peru,PER
+port2417,King Island,Australia,AUS
+port2418,Kyrenia,Cyprus,CYP
+port2419,Morelos,Mexico,MEX
+port242,Chiwan,China,CHN
+port2420,Santa Fe,Argentina,ARG
+port2421,Taizhou (Damaiyu),China,CHN
+port2422,Taizhou (Jiantiao),China,CHN
+port2423,Taizhou (Wenling),China,CHN
+port2424,Toumen,China,CHN
+port2425,Wischhafen,Germany,DEU
+port2426,Yueqing,China,CHN
+port2427,Dapilon,Guinea,GIN
+port2428,Katougouma,Guinea,GIN
+port2429,Taressa,Guinea,GIN
+port2430,Alang,India,IND
+port2431,Anadyr,Russian Federation,RUS
+port2432,Awajikoryunotsubasa,Japan,JPN
+port2433,BOPEC terminal,"Bonaire,  Saint Eustatius and Saba",BES
+port2434,Blyth,United Kingdom,GBR
+port2435,Bronka,Russian Federation,RUS
+port2436,Chemainus,Canada,CAN
+port2437,Corner Brook,Canada,CAN
+port2438,Crofton,Canada,CAN
+port2439,Egvekinot,Russian Federation,RUS
+port244,Cienfuegos,Cuba,CUB
+port2440,Fall River,United States,USA
+port2441,Fecamp,France,FRA
+port2442,Fort Bay,"Bonaire,  Saint Eustatius and Saba",BES
+port2443,Jiuzhou,China,CHN
+port2444,Kholmsk,Russian Federation,RUS
+port2445,Kitimat,Canada,CAN
+port2446,Kronshtadt,Russian Federation,RUS
+port2447,Kumai,Indonesia,IDN
+port2448,Le Verdon,France,FRA
+port2449,Lerwick,United Kingdom,GBR
+port245,Cilacap,Indonesia,IDN
+port2450,Macapa,Brazil,BRA
+port2451,Magadan,Russian Federation,RUS
+port2452,Matane,Canada,CAN
+port2453,Morebaya,Guinea,GIN
+port2454,Newhaven,United Kingdom,GBR
+port2455,Okgye,Korea,KOR
+port2456,Pensacola,United States,USA
+port2457,Pevek,Russian Federation,RUS
+port2458,Port Mellon,Canada,CAN
+port2459,Port Vendres,France,FRA
+port246,Cirebon,Indonesia,IDN
+port2460,Provideniya,Russian Federation,RUS
+port2461,Pulau Bunyu,Indonesia,IDN
+port2462,Salem,United States,USA
+port2463,Santa Rosalia,Mexico,MEX
+port2464,Saraylar,Türkiye,TUR
+port2465,Scrabster,United Kingdom,GBR
+port2466,Sebastopol,Ukraine,UKR
+port2467,Sochi,Russian Federation,RUS
+port2468,Sorel,Canada,CAN
+port2469,Squamish,Canada,CAN
+port247,Civitavecchia,Italy,ITA
+port2470,Swansea,United Kingdom,GBR
+port2471,Termini Imerese,Italy,ITA
+port2472,Ternate,Indonesia,IDN
+port2473,Toulon,France,FRA
+port2474,Tual,Indonesia,IDN
+port2475,Weitou,China,CHN
+port2476,Zarubino,Russian Federation,RUS
+port2477,Abadan,Iran,IRN
+port2478,Bahregan,Iran,IRN
+port2479,Basrah Oil Terminal,Iraq,IRQ
+port248,Clarkson,Canada,CAN
+port2480,Calcasieu Pass LNG Terminal,United States,USA
+port2481,Chhara LNG Terminal,India,IND
+port2482,Egyptian LNG Terminal,Egypt,EGY
+port2483,Guangzhou Nansha LNG Terminal,China,CHN
+port2484,Gulf of Saros FSRU,Türkiye,TUR
+port2485,Huizhou LNG Terminal,China,CHN
+port2486,Jask,Iran,IRN
+port2487,Kiyanly LNG Terminal,Turkmenistan,TKM
+port2488,Kollsnes LNG Terminal,Norway,NOR
+port2489,Krk,Croatia,HRV
+port249,Cleveland,United States,USA
+port2490,LNG Canada Terminal,Canada,CAN
+port2491,Liuheng LNG Terminal,China,CHN
+port2492,Lysekil LNG Terminal,Sweden,SWE
+port2493,Mina Al Zour,Kuwait,KWT
+port2494,Mosjoen LNG Terminal,Norway,NOR
+port2495,Mowi LNG Terminal,United Kingdom,GBR
+port2496,Nagasaki LNG Terminal,Japan,JPN
+port2497,Nakagusuku LNG Terminal,Japan,JPN
+port2498,Paldiski FSRU,Estonia,EST
+port2499,Portovaya LNG Terminal,Russian Federation,RUS
+port25,Shuwaikh,Kuwait,KWT
+port2500,Qidong,China,CHN
+port2501,Snurrevarden,Norway,NOR
+port2502,Taoyuan LNG Terminal,Taiwan Province of China,TWN
+port2503,Utrenny LNG terminal,Russian Federation,RUS
+port2504,Wenzhou Huagang,China,CHN
+port2505,Wenzhou LNG Terminal,China,CHN
+port2506,Woodfibre LNG Terminal,Canada,CAN
+port2507,Yancheng,China,CHN
+port2508,Zhangzhou LNG Terminal,China,CHN
+port2509,Cayo Arcas,Mexico,MEX
+port251,Clifton Pier,The Bahamas,BHS
+port2510,El Boleo,Mexico,MEX
+port2511,Isla Cedros,Mexico,MEX
+port2512,Isla San Marcos,Mexico,MEX
+port2513,Santa María,Mexico,MEX
+port2514,Seybaplaya,Mexico,MEX
+port252,Coatzacoalcos,Mexico,MEX
+port253,Coles Bay Oil Terminal,Sint Maarten,SXM
+port254,Colombo,Sri Lanka,LKA
+port255,Yap,Micronesia,FSM
+port256,Whiffen Head,Canada,CAN
+port257,Comodoro Rivadavia,Argentina,ARG
+port258,Conakry,Guinea,GIN
+port259,Conchan Oil Terminal,Peru,PER
+port26,Latakia,Syria,SYR
+port260,Constantza,Romania,ROU
+port261,Corinto,Nicaragua,NIC
+port262,Cork,Ireland,IRL
+port263,Coronel,Chile,CHL
+port264,Corpus Christi,United States,USA
+port265,Cotonou,Benin,BEN
+port266,Covenas Offshore Term.,Colombia,COL
+port267,Ceuta,Spain,ESP
+port268,Cuxhaven,Germany,DEU
+port269,Da Nang,Vietnam,VNM
+port27,Mukalla,Yemen,YEM
+port270,Daesan,Korea,KOR
+port271,Dahej,India,IND
+port272,Dakar,Senegal,SEN
+port273,Dalian,China,CHN
+port274,Damietta,Egypt,EGY
+port275,Dammam,Saudi Arabia,SAU
+port276,Dampier,Australia,AUS
+port277,Dandong,China,CHN
+port278,Dar Es Salaam,Tanzania,TZA
+port279,Daru,Papua New Guinea,PNG
+port28,Albany,Australia,AUS
+port280,Darwin,Australia,AUS
+port281,Davao,Philippines,PHL
+port282,Davisville Depot,United States,USA
+port283,De Kastri,Russian Federation,RUS
+port284,Degrad Des Cannes,French Guiana,GUF
+port285,Delfzijl,The Netherlands,NLD
+port286,Delta Terminal,Türkiye,TUR
+port287,Derince (Izmit-Kocaeli),Türkiye,TUR
+port288,Devonport,Australia,AUS
+port289,Dhaka,Bangladesh,BGD
+port29,Aalborg,Denmark,DNK
+port290,Dhamra Port,India,IND
+port291,Vassiliko,Cyprus,CYP
+port292,Dili,Timor-Leste,TLS
+port293,Djen Djen,Algeria,DZA
+port294,Djibouti,Djibouti,DJI
+port295,Djúpivogur,Iceland,ISL
+port296,Djupviken,Norway,NOR
+port297,Donggala,Indonesia,IDN
+port298,Dos Bocas Terminal,Mexico,MEX
+port299,Douala,Cameroon,CMR
+port3,Aberdeen,United Kingdom,GBR
+port30,Ålesund,Norway,NOR
+port301,Dover,United Kingdom,GBR
+port302,Drammen,Norway,NOR
+port303,Drogheda,Ireland,IRL
+port304,Duba (Port of Neom),Saudi Arabia,SAU
+port305,Duba Bulk Plant Tanker Terminal,Saudi Arabia,SAU
+port306,Dubai,United Arab Emirates,ARE
+port307,Dublin,Ireland,IRL
+port308,Dudinka,Russian Federation,RUS
+port309,Dumai,Indonesia,IDN
+port31,Algeciras,Spain,ESP
+port310,Dunkirk,France,FRA
+port311,Durban,South Africa,ZAF
+port312,Durres,Albania,ALB
+port314,EL Segundo,United States,USA
+port315,East London,South Africa,ZAF
+port316,Eemshaven,The Netherlands,NLD
+port317,El Grao,Spain,ESP
+port318,El Guamache,Venezuela,VEN
+port319,Jorf Lasfar,Morocco,MAR
+port32,Alger,Algeria,DZA
+port320,El Palito,Venezuela,VEN
+port321,Al Adabiyah,Egypt,EGY
+port322,Eleusis,Greece,GRC
+port323,Emden,Germany,DEU
+port324,Empire,United States,USA
+port325,Ende,Indonesia,IDN
+port326,Ensenada,Mexico,MEX
+port327,Eregli,Türkiye,TUR
+port328,Esbjerg,Denmark,DNK
+port329,Eskifjordhur,Iceland,ISL
+port33,Aliaga,Türkiye,TUR
+port330,Esmeraldas,Ecuador,ECU
+port331,Esperance,Australia,AUS
+port332,Gibraltar,Gibraltar,GIB
+port333,Everett (US-WA),United States,USA
+port334,Ez Zueitina,Libya,LBY
+port335,Falkenberg,Sweden,SWE
+port336,Falmouth,Jamaica,JAM
+port337,Falmouth Harbour,United Kingdom,GBR
+port338,Famagusta,Cyprus,CYP
+port339,Fangcheng,China,CHN
+port34,Alicante,Spain,ESP
+port340,Ehoala,Madagascar,MDG
+port342,Fawley,United Kingdom,GBR
+port343,Felixstowe,United Kingdom,GBR
+port344,Ferrol,Spain,ESP
+port345,Figueira Da Foz,Portugal,PRT
+port346,Finnart Oil Terminal,United Kingdom,GBR
+port347,Finnsnes,Norway,NOR
+port348,Flekkefjord,Norway,NOR
+port349,Florø,Norway,NOR
+port35,Almeria,Spain,ESP
+port350,Fort De France,Martinique,MTQ
+port351,Fos,France,FRA
+port352,Fourchon,United States,USA
+port353,Foynes,Ireland,IRL
+port354,Fredericia,Denmark,DNK
+port355,Frederikshavn,Denmark,DNK
+port356,Fredrikstad,Norway,NOR
+port357,Freeport,The Bahamas,BHS
+port358,Freeport (US-FL),United States,USA
+port359,Frederiksvaerk,Denmark,DNK
+port360,Freetown,Sierra Leone,SLE
+port361,Fremantle,Australia,AUS
+port362,Fujairah,United Arab Emirates,ARE
+port363,Fukui,Japan,JPN
+port364,Fukuyama,Japan,JPN
+port365,Funabashi,Japan,JPN
+port366,Funafuti,Tuvalu,TUV
+port367,"Funchal, Madeira",Portugal,PRT
+port368,Turku,Finland,FIN
+port369,Fushiki-Toyama,Japan,JPN
+port37,Alotau,Papua New Guinea,PNG
+port370,Fuzhou,China,CHN
+port371,Gabes,Tunisia,TUN
+port372,Galeota Point Terminal,Trinidad and Tobago,TTO
+port373,Galveston,United States,USA
+port374,Galway,Ireland,IRL
+port375,Gaogang,China,CHN
+port376,Garston,United Kingdom,GBR
+port377,Gary,United States,USA
+port378,Vysotsk,Russian Federation,RUS
+port379,Gävle,Sweden,SWE
+port38,Altamira,Mexico,MEX
+port380,Gdansk,Poland,POL
+port381,Gdynia,Poland,POL
+port382,Gebig,Brazil,BRA
+port383,Geelong,Australia,AUS
+port384,Gela,Italy,ITA
+port385,Gemlik,Türkiye,TUR
+port386,General Santos,Philippines,PHL
+port387,Genova,Italy,ITA
+port388,Georgetown,The Bahamas,BHS
+port389,Georgetown,Cayman Islands,CYM
+port39,Alvika,Norway,NOR
+port390,Georgetown,Guyana,GUY
+port391,Geraldton,Australia,AUS
+port392,Ghazaouet,Algeria,DZA
+port393,Ghent,Belgium,BEL
+port394,Gijon,Spain,ESP
+port395,Gioia Tauro,Italy,ITA
+port396,Gisborne,New Zealand,NZL
+port398,Gladstone,Australia,AUS
+port399,Glasgow,United Kingdom,GBR
+port4,Abidjan,Côte d'Ivoire,CIV
+port40,Amagasaki,Japan,JPN
+port400,Glomfjord,Norway,NOR
+port401,Golcuk,Türkiye,TUR
+port402,Golfito,Costa Rica,CRI
+port403,Gomen,New Caledonia,NCL
+port404,Goole,United Kingdom,GBR
+port405,Goose Bay,Canada,CAN
+port406,Gorgon LNG,Australia,AUS
+port407,Gorontalo,Indonesia,IDN
+port408,Göteborg,Sweden,SWE
+port41,Amamapare,Indonesia,IDN
+port410,Gourd Shanzui,China,CHN
+port411,Gove,Australia,AUS
+port412,Grand Haven,United States,USA
+port414,Grand Turk,Turks and Caicos Islands,TCA
+port415,Grangemouth,United Kingdom,GBR
+port416,Gravesend,United Kingdom,GBR
+port417,Great Yarmouth,United Kingdom,GBR
+port418,Green Bay,United States,USA
+port419,Grenaa,Denmark,DNK
+port42,"Ambon, Molucas",Indonesia,IDN
+port420,Gresik,Indonesia,IDN
+port421,Grimsby,United Kingdom,GBR
+port422,Guaiba Island Terminal,Brazil,BRA
+port423,Guangdong Yangjiang Port,China,CHN
+port424,Guangxi Beibu Gulf Port,China,CHN
+port425,Guangzhou (Nansha),China,CHN
+port426,Guayaquil,Ecuador,ECU
+port427,Guaymas,Mexico,MEX
+port428,Gulfport,United States,USA
+port429,Güllük,Türkiye,TUR
+port43,Amirabad Port,Iran,IRN
+port430,Gustavia,Saint-Barthélemy,BLM
+port431,Gwadar,Pakistan,PAK
+port432,Gwangyang (Kwangyang),Korea,KOR
+port433,Hachinohe,Japan,JPN
+port434,Hai Phong,Vietnam,VNM
+port435,Haifa,Israel,ISR
+port436,Haifeng power,China,CHN
+port437,Haikou,China,CHN
+port438,Haimen,China,CHN
+port439,Hakata,Japan,JPN
+port44,Ampenan,Indonesia,IDN
+port440,Hakodate,Japan,JPN
+port441,Halden,Norway,NOR
+port442,Haldia,India,IND
+port443,Halifax,Canada,CAN
+port444,Halmstad,Sweden,SWE
+port445,Hamada,Japan,JPN
+port446,Hamburg,Germany,DEU
+port447,Hamilton,Canada,CAN
+port448,Fredrikshamn,Finland,FIN
+port449,Hammerfest,Norway,NOR
+port45,Amsterdam,The Netherlands,NLD
+port450,Hanko,Finland,FIN
+port452,Hannan,Japan,JPN
+port453,Harbor Yeweiju,China,CHN
+port454,Harlingen,The Netherlands,NLD
+port455,Harmac,Canada,CAN
+port456,Haroysundet,Norway,NOR
+port457,Haydarpasa,Türkiye,TUR
+port458,Hay Point,Australia,AUS
+port459,Helsingborg,Sweden,SWE
+port46,Amuay (Bahia De Amuay),Venezuela,VEN
+port460,Helsinki,Finland,FIN
+port461,Hera port,Timor-Leste,TLS
+port462,Heysham,United Kingdom,GBR
+port463,Higashiharima,Japan,JPN
+port464,Hilo,United States,USA
+port465,Himeji,Japan,JPN
+port466,Hiroshima,Japan,JPN
+port467,Hirtshals,Denmark,DNK
+port468,Hitachi,Japan,JPN
+port469,Hobart,Australia,AUS
+port47,Anacortes,United States,USA
+port470,Hobro,Denmark,DNK
+port471,Hofu,Japan,JPN
+port472,Himekawa,Japan,JPN
+port473,Hon Gai,Vietnam,VNM
+port474,Hong Kong,Hong Kong SAR,HKG
+port475,Honiara,Solomon Islands,SLB
+port476,Honolulu,United States,USA
+port477,Hopa,Türkiye,TUR
+port478,Horta,Portugal,PRT
+port479,Horten,Norway,NOR
+port48,Anchorage,United States,USA
+port480,Hososhima,Japan,JPN
+port481,Houston (US-TX),United States,USA
+port482,Hualien,Taiwan Province of China,TWN
+port483,Huelva,Spain,ESP
+port484,Huizhou,China,CHN
+port485,Husum,Germany,DEU
+port486,Husum,Sweden,SWE
+port487,IJmuiden,The Netherlands,NLD
+port488,Iligan,Philippines,PHL
+port489,Chornomorsk,Ukraine,UKR
+port49,Ancona,Italy,ITA
+port490,Imabari,Japan,JPN
+port491,Imatra,Finland,FIN
+port492,Imbituba,Brazil,BRA
+port493,Immingham,United Kingdom,GBR
+port494,Incheon,Korea,KOR
+port495,Indiana Harbor,United States,USA
+port496,Indonesia Morowali Industrial Park,Indonesia,IDN
+port497,Inkoo,Finland,FIN
+port498,Ipswich,United Kingdom,GBR
+port499,Iquique,Chile,CHL
+port5,Abu Dhabi,United Arab Emirates,ARE
+port50,Andoany,Madagascar,MDG
+port500,Heraklion,Greece,GRC
+port501,Ishikariwan-Shinko,Japan,JPN
+port502,Ishinomaki,Japan,JPN
+port503,Iskenderun,Türkiye,TUR
+port504,Istanbul,Türkiye,TUR
+port505,Itajaí,Brazil,BRA
+port506,Itaqui,Brazil,BRA
+port507,Inverness,United Kingdom,GBR
+port508,Iwakuni,Japan,JPN
+port509,Izhevskoye,Russian Federation,RUS
+port51,Caucedo,Dominican Republic,DOM
+port510,Izmir,Türkiye,TUR
+port511,Jaigad Port,India,IND
+port512,Jabal Az Zannah-Ruways,United Arab Emirates,ARE
+port513,Jacksonville,United States,USA
+port514,Tanjung Priok,Indonesia,IDN
+port515,Jakobstad,Finland,FIN
+port516,Jayapura,Indonesia,IDN
+port517,Jiangyin,China,CHN
+port518,Jeddah,Saudi Arabia,SAU
+port519,Shoaiba,Saudi Arabia,SAU
+port52,Anguilla,Anguilla,AIA
+port520,"Jimenez, Ozamis",Philippines,PHL
+port521,Jinzhou,China,CHN
+port522,Joensuu,Finland,FIN
+port523,Johor,Malaysia,MYS
+port524,Jose Terminal,Venezuela,VEN
+port525,Joutseno,Finland,FIN
+port526,Juaymah,Saudi Arabia,SAU
+port527,Gebze,Türkiye,TUR
+port528,Kagoshima,Japan,JPN
+port529,Kakinada,India,IND
+port53,Annaba,Algeria,DZA
+port530,Kaliningrad,Russian Federation,RUS
+port531,Kalmar,Sweden,SWE
+port532,Kalundborg,Denmark,DNK
+port533,Kamaishi,Japan,JPN
+port534,Kamarajar Port,India,IND
+port535,Kâmpóng Saôm,Cambodia,KHM
+port536,Kamsar,Guinea,GIN
+port537,Kanazawa,Japan,JPN
+port538,Kanda,Japan,JPN
+port539,Kandalaksha,Russian Federation,RUS
+port54,Port Akdeniz,Türkiye,TUR
+port540,Kandla,India,IND
+port541,Kaohsiung,Taiwan Province of China,TWN
+port542,Karabiga,Türkiye,TUR
+port543,Karachi,Pakistan,PAK
+port544,Karaikal,India,IND
+port545,Karatsu,Japan,JPN
+port546,Karlshamn,Sweden,SWE
+port547,Kårstø,Norway,NOR
+port548,Kashima-Ibaraki,Japan,JPN
+port549,Kasim Terminal,Indonesia,IDN
+port55,Antsiranana (Diego Suarez),Madagascar,MDG
+port550,Kaskinen,Finland,FIN
+port551,Kaukas,Finland,FIN
+port552,Kavála,Greece,GRC
+port553,Kavieng Harbor,Papua New Guinea,PNG
+port554,Kavkaz,Russian Federation,RUS
+port555,Kawasaki,Japan,JPN
+port556,Kemaman Harbor,Malaysia,MYS
+port557,Kemi,Finland,FIN
+port558,Kendari,Indonesia,IDN
+port559,Kerch,Ukraine,UKR
+port56,Antofagasta,Chile,CHL
+port561,Khor Fakkan,United Arab Emirates,ARE
+port562,Khoms,Libya,LBY
+port563,Khorramshahr,Iran,IRN
+port564,Kiel,Germany,DEU
+port565,Kieta,Papua New Guinea,PNG
+port566,Kiire,Japan,JPN
+port567,Kikuma,Japan,JPN
+port569,Kimbe,Papua New Guinea,PNG
+port57,Antwerp,Belgium,BEL
+port570,Yanbu (King Fahd Port),Saudi Arabia,SAU
+port571,King's Lynn,United Kingdom,GBR
+port572,Kingston,Jamaica,JAM
+port573,Hull,United Kingdom,GBR
+port574,Kingstown,St.  Vincent and the Grenadines,VCT
+port575,Kinuura,Japan,JPN
+port576,Kiritimati,Kiribati,KIR
+port577,Kirteh Oil Terminal,Malaysia,MYS
+port578,Kisarazu,Japan,JPN
+port579,Klaipeda,Lithuania,LTU
+port58,Bandar-e Anzali,Iran,IRN
+port581,Kobe,Japan,JPN
+port582,København,Denmark,DNK
+port583,Cochin (Kochi),India,IND
+port584,Kochi,Japan,JPN
+port585,Køge,Denmark,DNK
+port586,Kokkola,Finland,FIN
+port587,Koko,Nigeria,NGA
+port588,Kolding,Denmark,DNK
+port589,Komatsushima,Japan,JPN
+port59,Aomori,Japan,JPN
+port590,Kondopoga,Russian Federation,RUS
+port591,Koolan,Australia,AUS
+port592,Koper,Slovenia,SVN
+port594,Korsakov,Russian Federation,RUS
+port595,Kota Baru,Indonesia,IDN
+port596,Kota Kinabalu,Malaysia,MYS
+port597,Kotka,Finland,FIN
+port598,Kralendijk,"Bonaire,  Saint Eustatius and Saba",BES
+port599,Krishnapatnam Port,India,IND
+port6,Acajutla,El Salvador,SLV
+port60,Apia,Samoa,WSM
+port600,Kristiansand,Norway,NOR
+port601,Kristiansund,Norway,NOR
+port603,Kuantan,Malaysia,MYS
+port604,Kuching,Malaysia,MYS
+port605,Kudamatsu,Japan,JPN
+port606,Kulevi Oil Terminal,Georgia,GEO
+port607,Kunda,Estonia,EST
+port608,Gunsan,Korea,KOR
+port609,Kupang,Indonesia,IDN
+port61,Apra Harbor,Guam,GUM
+port610,Kure,Japan,JPN
+port611,Kushiro,Japan,JPN
+port612,Ebeye,Marshall Islands,MHL
+port614,LNG Tangguh,Indonesia,IDN
+port615,La Baie (Port Alfred),Canada,CAN
+port617,La Coruna,Spain,ESP
+port618,La Guaira,Venezuela,VEN
+port619,La Libertad,Ecuador,ECU
+port62,Aratu,Brazil,BRA
+port620,La Pallice,France,FRA
+port621,La Plata,Argentina,ARG
+port622,La Spezia,Italy,ITA
+port624,Lae,Papua New Guinea,PNG
+port625,Lafarge,Indonesia,IDN
+port626,Lagos,Nigeria,NGA
+port628,Lahad Datu,Malaysia,MYS
+port629,Lake Charles,United States,USA
+port63,Arawak,Barbados,BRB
+port630,Lakselv,Norway,NOR
+port631,Lamu,Kenya,KEN
+port632,Lanqiao Port,China,CHN
+port633,Larnaca,Cyprus,CYP
+port634,Larvik,Norway,NOR
+port635,Las Palmas (de Gran Canaria),Spain,ESP
+port636,Lautoka,Fiji,FJI
+port637,Lazaro Cardenas,Mexico,MEX
+port638,Saint-Brieuc,France,FRA
+port639,Leith,United Kingdom,GBR
+port64,Årdalstangen,Norway,NOR
+port640,Kosrae,Micronesia,FSM
+port642,Les Sables D' Olonne,France,FRA
+port643,Levuka,Fiji,FJI
+port644,Lianyungang,China,CHN
+port646,Liepaja,Latvia,LVA
+port647,Limassol,Cyprus,CYP
+port648,Limerick,Ireland,IRL
+port649,Limetree Bay,United States Virgin Islands,VIR
+port65,Ardal,Norway,NOR
+port650,Linden,Guyana,GUY
+port651,Lingkas,Indonesia,IDN
+port652,Lirquen,Chile,CHL
+port653,Lisboa,Portugal,PRT
+port654,Liverpool,United Kingdom,GBR
+port655,Livorno,Italy,ITA
+port656,Lobito,Angola,AGO
+port657,Lome,Togo,TGO
+port658,London,United Kingdom,GBR
+port659,London Gateway,United Kingdom,GBR
+port66,Argentia,Canada,CAN
+port660,Londonderry,United Kingdom,GBR
+port661,Longkou Gang,China,CHN
+port662,Longyan Port,China,CHN
+port663,Lorient,France,FRA
+port664,Los Angeles-Long Beach,United States,USA
+port665,Luanda,Angola,AGO
+port666,Luba,Equatorial Guinea,GNQ
+port667,Lubeck-Travemunde,Germany,DEU
+port668,Luderitz Bay,Namibia,NAM
+port669,Luganville,Vanuatu,VUT
+port67,Aarhus,Denmark,DNK
+port670,Luleå,Sweden,SWE
+port671,Lumut,Brunei Darussalam,BRN
+port672,Lumut,Malaysia,MYS
+port673,Macaé,Brazil,BRA
+port674,Macau,Macao SAR,MAC
+port675,Mackay,Australia,AUS
+port676,Madang,Papua New Guinea,PNG
+port677,Madre De Deus,Brazil,BRA
+port678,Hambantota,Sri Lanka,LKA
+port679,Magdalla,India,IND
+port68,Arkhangelsk,Russian Federation,RUS
+port680,Majunga,Madagascar,MDG
+port681,Mailiao,Taiwan Province of China,TWN
+port682,Maizuru,Japan,JPN
+port683,Majuro,Marshall Islands,MHL
+port684,Makhachkala,Russian Federation,RUS
+port685,Malabo,Equatorial Guinea,GNQ
+port686,Malaga,Spain,ESP
+port687,Malau,Fiji,FJI
+port688,Malakal,Palau,PLW
+port689,Male,Maldives,MDV
+port69,Arrecife,Spain,ESP
+port690,Malmö,Sweden,SWE
+port691,Malongo,Angola,AGO
+port692,Måløy,Norway,NOR
+port693,Manaus,Brazil,BRA
+port694,Manila,Philippines,PHL
+port695,Manitowoc,United States,USA
+port696,Manokwari Road,Indonesia,IDN
+port697,Manta,Ecuador,ECU
+port698,Mäntyluoto,Finland,FIN
+port699,Manzanillo,Mexico,MEX
+port7,Acapulco,Mexico,MEX
+port70,Arzew,Algeria,DZA
+port700,Manzanillo,Panama,PAN
+port701,Map Ta Phut,Thailand,THA
+port702,Maputo,Mozambique,MOZ
+port703,Maracaibo,Venezuela,VEN
+port704,Mariel,Cuba,CUB
+port705,Marin,Spain,ESP
+port706,Marina Di Carrara,Italy,ITA
+port707,Mariupol,Ukraine,UKR
+port708,Markenes,Norway,NOR
+port709,Mormugao,India,IND
+port71,As Suways,Egypt,EGY
+port710,Mellitah,Libya,LBY
+port711,Marsaxlokk,Malta,MLT
+port712,Marseille,France,FRA
+port714,Marugame,Japan,JPN
+port715,Masan,Korea,KOR
+port716,Masao,Philippines,PHL
+port717,Matadi,Democratic Republic of the Congo,COD
+port718,Matanzas,Cuba,CUB
+port719,Matsusaka,Japan,JPN
+port72,Sharjah,United Arab Emirates,ARE
+port720,Matsuyama,Japan,JPN
+port721,Matthew Town,The Bahamas,BHS
+port722,Maumere,Indonesia,IDN
+port723,Mazatlan,Mexico,MEX
+port724,Mbulo,Solomon Islands,SLB
+port726,Medway,United Kingdom,GBR
+port727,Medway City,United Kingdom,GBR
+port728,Mejillones,Chile,CHL
+port729,Melbourne,Australia,AUS
+port73,Ashdod,Israel,ISR
+port730,Menominee,United States,USA
+port731,Merak Mas Terminal,Indonesia,IDN
+port732,Merauke,Indonesia,IDN
+port733,Sfax,Tunisia,TUN
+port734,Marsa Tobruk,Libya,LBY
+port735,Mersin,Türkiye,TUR
+port736,Miami,United States,USA
+port737,Midia,Romania,ROU
+port738,Mikawa,Japan,JPN
+port739,Milazzo,Italy,ITA
+port74,Ashkelon,Israel,ISR
+port740,Milford Haven,United Kingdom,GBR
+port741,Milner Bay,Australia,AUS
+port742,Milwaukee,United States,USA
+port743,Mina Al Ahmadi,Kuwait,KWT
+port744,Jebel Ali,United Arab Emirates,ARE
+port745,Port Sultan Qaboos,Oman,OMN
+port746,Salalah,Oman,OMN
+port747,Mina Saqr,United Arab Emirates,ARE
+port748,Tripoli,Libya,LBY
+port749,Mishima,Japan,JPN
+port75,Asprópirgos,Greece,GRC
+port750,Misrata,Libya,LBY
+port751,Massawa,Eritrea,ERI
+port752,Mizushima,Japan,JPN
+port753,Mo i Rana,Norway,NOR
+port754,Mobile,United States,USA
+port755,Chuuk,Micronesia,FSM
+port756,Mohammedia,Morocco,MAR
+port757,Mombasa,Kenya,KEN
+port758,Monfalcone,Italy,ITA
+port759,Mongla,Bangladesh,BGD
+port76,Astrakhan Port,Russian Federation,RUS
+port760,Mongstad,Norway,NOR
+port761,Monopoli,Italy,ITA
+port762,Monrovia,Liberia,LBR
+port763,Montego Bay,Jamaica,JAM
+port764,Montevideo,Uruguay,URY
+port765,Montoir,France,FRA
+port766,Montreal,Canada,CAN
+port767,Morehead City,United States,USA
+port769,Moroni,Comoros,COM
+port77,Atapupu,Indonesia,IDN
+port770,Moss,Sweden,SWE
+port771,Mostaganem,Algeria,DZA
+port772,Motril,Spain,ESP
+port773,Mutsamudu,Comoros,COM
+port774,Muara,Brunei Darussalam,BRN
+port775,Muhammad Bin Qasim,Pakistan,PAK
+port776,Mumbai-Jawaharlal Nehru (Nhava Sheva),India,IND
+port777,Mundra,India,IND
+port778,Mogadishu,Somalia,SOM
+port779,Murmansk,Russian Federation,RUS
+port780,Muroran,Japan,JPN
+port781,Muuga-Port of Tallinn,Estonia,EST
+port782,Mykolaiv,Ukraine,UKR
+port783,Naantali,Finland,FIN
+port784,Nacala,Mozambique,MOZ
+port785,Nagasaki,Japan,JPN
+port786,Nagoya,Japan,JPN
+port787,Nakhodka,Russian Federation,RUS
+port788,Namibe,Angola,AGO
+port789,Namsos,Norway,NOR
+port79,Auckland,New Zealand,NZL
+port790,Nanao,Japan,JPN
+port791,Nantes,France,FRA
+port792,Nantong,China,CHN
+port793,Naoetsu,Japan,JPN
+port794,Napier,New Zealand,NZL
+port795,Napoli,Italy,ITA
+port796,Narvik,Norway,NOR
+port797,Nasipit Port,Philippines,PHL
+port798,Nassau,The Bahamas,BHS
+port799,Natal,Brazil,BRA
+port80,Augusta,Italy,ITA
+port800,Nauru,Nauru,NRU
+port801,Navlakhi,India,IND
+port802,Ndora,Solomon Islands,SLB
+port803,Neiafu,Tonga,TON
+port804,Nelson,New Zealand,NZL
+port805,Nemrut Bay,Türkiye,TUR
+port806,Népoui,New Caledonia,NCL
+port807,New Amsterdam,Guyana,GUY
+port808,New Bedford,United States,USA
+port809,New Haven,United States,USA
+port81,Avatiu,Cook Islands,COK
+port810,New Holland,United Kingdom,GBR
+port811,New Mangalore,India,IND
+port812,New Orleans,United States,USA
+port813,New Plymouth,New Zealand,NZL
+port814,New Westminster,Canada,CAN
+port815,New York-New Jersey,United States,USA
+port816,Newcastle,Australia,AUS
+port817,Newport,United Kingdom,GBR
+port818,Newport News,United States,USA
+port819,Nghe Tinh,Vietnam,VNM
+port82,Aveiro,Portugal,PRT
+port820,Nice,France,FRA
+port821,Nicholls Town,The Bahamas,BHS
+port822,Niigata,Japan,JPN
+port823,Niihama,Japan,JPN
+port824,Ningbo,China,CHN
+port826,Norfolk,United States,USA
+port827,Norrköping,Sweden,SWE
+port828,El Sokhna,Egypt,EGY
+port829,Noshiro,Japan,JPN
+port83,Aviles,Spain,ESP
+port830,Nouadhibou,Mauritania,MRT
+port831,Nouakchott,Mauritania,MRT
+port832,Noumea,New Caledonia,NCL
+port833,Novorossiysk,Russian Federation,RUS
+port834,Nowshahr Port,Iran,IRN
+port835,Nuevitas Bay,Cuba,CUB
+port836,Nuku'alofa,Tonga,TON
+port837,Nyborg,Denmark,DNK
+port838,Nynäshamn,Sweden,SWE
+port839,Oakland,United States,USA
+port84,Bristol,United Kingdom,GBR
+port840,Ocho Rios,Jamaica,JAM
+port841,Odda,Norway,NOR
+port842,Odense,Denmark,DNK
+port843,Odessa,Ukraine,UKR
+port844,Ofunato,Japan,JPN
+port845,Agioi Oil Terminal,Greece,GRC
+port846,Oita,Japan,JPN
+port847,Okaram,Turkmenistan,TKM
+port848,Olbia,Italy,ITA
+port849,Omisalj,Croatia,HRV
+port85,Az Zawiyah,Libya,LBY
+port850,Onahama,Japan,JPN
+port851,Onne,Nigeria,NGA
+port852,Onoda,Japan,JPN
+port853,Onomichi-Itozaki,Japan,JPN
+port854,Onslow,Australia,AUS
+port855,Oostende,Belgium,BEL
+port856,Oran,Algeria,DZA
+port857,Oranjestad,"Bonaire,  Saint Eustatius and Saba",BES
+port858,Ormoc,Philippines,PHL
+port859,Ormos Aliveriou,Greece,GRC
+port86,La Habana,Cuba,CUB
+port860,Oro Bay,Papua New Guinea,PNG
+port861,Ortona,Italy,ITA
+port862,Osaka,Japan,JPN
+port863,Oskarshamn,Sweden,SWE
+port864,Oslo,Norway,NOR
+port866,Otaru,Japan,JPN
+port867,Oulu,Finland,FIN
+port868,Oxelösund,Sweden,SWE
+port869,PLTU Semen Tonasa,Indonesia,IDN
+port87,Bahia De Las Minas,Panama,PAN
+port870,Paagoumène,New Caledonia,NCL
+port871,Oranjestad-Barcadera,Aruba,ABW
+port872,Pago Pago Harbor,American Samoa,ASM
+port873,Paita,Peru,PER
+port874,Paldiski,Estonia,EST
+port875,Palembang,Indonesia,IDN
+port876,Palm Beach,United States,USA
+port877,Palmeira,Cabo Verde,CPV
+port878,Palua,Venezuela,VEN
+port879,Panama City,United States,USA
+port88,Matarani,Peru,PER
+port881,Panjang,Indonesia,IDN
+port882,Papeete,French Polynesia,PYF
+port883,Paradip,India,IND
+port884,Paramaribo,Suriname,SUR
+port885,Paranaguá,Brazil,BRA
+port886,Parepare,Indonesia,IDN
+port887,Pärnu,Estonia,EST
+port888,Pascagoula,United States,USA
+port889,Patras,Greece,GRC
+port89,Bahia De Valparaiso,Chile,CHL
+port890,Payra,Bangladesh,BGD
+port891,Sandakan,Malaysia,MYS
+port892,Pelabuhan Sungai Udang,Malaysia,MYS
+port893,Pelabuhan Tanjung Wangi,Indonesia,IDN
+port894,PelabuhanRatuCoalPowerPlant,Indonesia,IDN
+port896,Pemba,Mozambique,MOZ
+port897,Penglai,China,CHN
+port898,Pepillo Salcedo (Manzanillo),Dominican Republic,DOM
+port899,Peterhead,United Kingdom,GBR
+port9,Aden,Yemen,YEM
+port90,Bahia Quintero (Ventanas),Chile,CHL
+port901,Philadelphia,United States,USA
+port902,Philipsburg,Sint Maarten,SXM
+port903,Cai Mep,Vietnam,VNM
+port904,Phuket,Thailand,THA
+port905,Pichilingue,Mexico,MEX
+port906,Picton,New Zealand,NZL
+port907,Pipavav Port,India,IND
+port908,Piraeus,Greece,GRC
+port909,Piteå,Sweden,SWE
+port91,San Nicolas,Peru,PER
+port910,Guayanilla,Puerto Rico,PRI
+port912,Ploce,Croatia,HRV
+port913,Plymouth,Montserrat,MSR
+port914,Plymouth,United Kingdom,GBR
+port915,Pohang,Korea,KOR
+port916,Point Fortin,Trinidad and Tobago,TTO
+port917,Point Lisas,Trinidad and Tobago,TTO
+port918,Point Murat,Australia,AUS
+port919,Point Noire,Republic of Congo,COG
+port92,San Vicente,Chile,CHL
+port920,"Richmond, CA",United States,USA
+port921,Pointe A Pierre,Trinidad and Tobago,TTO
+port922,Pointe A Pitre,Guadeloupe,GLP
+port923,Pomalaa,Indonesia,IDN
+port924,Ponta Delgada,Portugal,PRT
+port925,Pontianak,Indonesia,IDN
+port926,Poole,United Kingdom,GBR
+port927,Pohnpei,Micronesia,FSM
+port928,Porsgrunn,Norway,NOR
+port929,Port Adelaide,Australia,AUS
+port93,Baie Comeau,Canada,CAN
+port930,Port Alma,Australia,AUS
+port931,Port Angeles,Canada,CAN
+port932,Port Aransas,United States,USA
+port933,Port Arthur,United States,USA
+port934,Port Au Prince,Haiti,HTI
+port935,Channel-Port aux Basques,Canada,CAN
+port936,Bayside Charlotte,Canada,CAN
+port937,Port Bonython,Australia,AUS
+port938,Port Cartier,Canada,CAN
+port939,Ajaccio,France,FRA
+port94,Baie De Kouaoua,New Caledonia,NCL
+port940,Bell Bay,Australia,AUS
+port941,Port De Aracaju,Brazil,BRA
+port942,Caen,France,FRA
+port943,Port De Kribi,Cameroon,CMR
+port944,Port De Salvador,Brazil,BRA
+port945,Port Dickson,Malaysia,MYS
+port946,Port Dover,Canada,CAN
+port948,Port Elizabeth,South Africa,ZAF
+port949,Port Esquivel,Jamaica,JAM
+port95,Marigot,Saint Martin,MAF
+port950,Port Est,Réunion,REU
+port951,Port Everglades,United States,USA
+port952,Port Gentil,Gabon,GAB
+port953,Port Giles,Australia,AUS
+port954,Port Harcourt,Nigeria,NGA
+port955,Port Hedland,Australia,AUS
+port956,Port Hueneme,United States,USA
+port958,Port Jerome,France,FRA
+port959,Port Kembla,Australia,AUS
+port960,Port Klang,Malaysia,MYS
+port961,Kyaukpyu,Myanmar,MMR
+port962,Port Latta,Australia,AUS
+port963,Port Lavaca,United States,USA
+port964,Port Lincoln,Australia,AUS
+port965,Port Louis,Mauritius,MUS
+port966,Lyttelton,New Zealand,NZL
+port967,Port Manatee,United States,USA
+port969,Skikda (Port Methanier),Algeria,DZA
+port97,Baie Ugué,New Caledonia,NCL
+port970,Port Moresby,Papua New Guinea,PNG
+port971,Port Nador,Morocco,MAR
+port972,Noro,Solomon Islands,SLB
+port973,Port Owendo,Gabon,GAB
+port974,Port Pirie,Australia,AUS
+port976,Port Saint Louis Du Rhone,France,FRA
+port977,Port Sudan,Sudan,SDN
+port978,Taman,Russian Federation,RUS
+port979,Port Vale Knights,Cabo Verde,CPV
+port98,Bajo Grande,Venezuela,VEN
+port980,Port Vila,Vanuatu,VUT
+port981,Port Walcott,Australia,AUS
+port982,Port de Longoni,Mayotte,MYT
+port983,Can Tho,Vietnam,VNM
+port984,Duqm,Oman,OMN
+port985,Le Havre,France,FRA
+port986,Rouen,France,FRA
+port988,Port of Sohar,Oman,OMN
+port989,Port of Spain,Trinidad and Tobago,TTO
+port99,Bakar,Croatia,HRV
+port990,Port-De-Bouc,France,FRA
+port991,Port-La-Nouvelle,France,FRA
+port992,Portland,Australia,AUS
+port993,"Portland, OR",United States,USA
+port994,Portland Harbour,United Kingdom,GBR
+port995,"Portland, ME",United States,USA
+port996,Portmouth,United States,USA
+port997,Porto Alegre,Brazil,BRA
+port998,Porto Da Praia,Cabo Verde,CPV
+port999,Leixoes,Portugal,PRT

@@ -1,0 +1,2213 @@
+Port,LOCODE,Country,ISO3,WB_region,Income_group,Maritime_region,Year,CPPI
+Ajman,AEAJM,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2025,-1.1682024998535
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2020,102.0
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2021,72.0
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2022,61.0
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2023,73.0
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2024,-7.0
+Jebel Ali,AEJEA,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2025,68.1818594174587
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2020,117.0
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2021,131.0
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2022,128.0
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2023,105.0
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2024,46.0
+Khalifa Port,AEKHL,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2025,52.8491277491875
+Sharjah,AESHJ,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2021,14.0
+Sharjah,AESHJ,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2022,17.0
+Sharjah,AESHJ,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2023,20.0
+Sharjah,AESHJ,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2024,10.0
+Sharjah,AESHJ,United Arab Emirates,ARE,MENAAP,HI,Arabian Gulf,2025,18.0298905761967
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2020,5.0
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2021,-26.0
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2022,-11.0
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2023,-36.0
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2024,-10.0
+Durres,ALDRZ,Albania,ALB,ECA,UMI,Mediterranean,2025,-28.6069737543098
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2020,-42.0
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2021,-296.0
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2022,-176.0
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2023,-123.0
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2024,-119.0
+Luanda,AOLAD,Angola,AGO,SSA,LMI,West Africa,2025,-181.364732266224
+Lobito,AOLOB,Angola,AGO,SSA,LMI,West Africa,2025,-7.91629271616563
+Namibe,AOMSZ,Angola,AGO,SSA,LMI,West Africa,2023,-16.0
+Namibe,AOMSZ,Angola,AGO,SSA,LMI,West Africa,2024,-11.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2020,16.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2021,22.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2022,4.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2023,11.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2024,8.0
+Buenos Aires,ARBUE,Argentina,ARG,LAC,UMI,South America East Coast,2025,-170.953962883655
+Rosario,ARROS,Argentina,ARG,LAC,UMI,South America East Coast,2024,5.0
+Rosario,ARROS,Argentina,ARG,LAC,UMI,South America East Coast,2025,-6.44658581322371
+Zarate,ARZAE,Argentina,ARG,LAC,UMI,South America East Coast,2023,-4.0
+Zarate,ARZAE,Argentina,ARG,LAC,UMI,South America East Coast,2024,3.0
+Zarate,ARZAE,Argentina,ARG,LAC,UMI,South America East Coast,2025,3.52231482147005
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2020,-20.0
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2021,-2.0
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2022,-24.0
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2023,-39.0
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2024,-8.0
+Adelaide,AUADL,Australia,AUS,EAP,HI,Australasia & Oceania,2025,-18.2148188135319
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2020,17.0
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2021,4.0
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2022,3.0
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2023,3.0
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2024,4.0
+Bell Bay,AUBEL,Australia,AUS,EAP,HI,Australasia & Oceania,2025,5.20684654235866
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2020,39.0
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2021,-10.0
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2022,-32.0
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2023,-35.0
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2024,-93.0
+Brisbane,AUBNE,Australia,AUS,EAP,HI,Australasia & Oceania,2025,-19.8830775078633
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2020,1.0
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2021,-50.0
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2022,-67.0
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2023,-89.0
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2024,-95.0
+Fremantle,AUFRE,Australia,AUS,EAP,HI,Australasia & Oceania,2025,-74.4277489445005
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2020,15.0
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2021,-19.0
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2022,-21.0
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2023,-11.0
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2024,-8.0
+Melbourne,AUMEL,Australia,AUS,EAP,HI,Australasia & Oceania,2025,3.91809506043609
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2020,0.0
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2021,-36.0
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2022,-44.0
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2023,-38.0
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2024,-48.0
+Port Botany,AUPBT,Australia,AUS,EAP,HI,Australasia & Oceania,2025,-55.9843205565978
+Townsville,AUTSV,Australia,AUS,EAP,HI,Australasia & Oceania,2025,-16.7657383789859
+Bridgetown,BBBGI,Barbados,BRB,LAC,HI,Caribbean & Central America,2023,1.0
+Bridgetown,BBBGI,Barbados,BRB,LAC,HI,Caribbean & Central America,2024,3.0
+Bridgetown,BBBGI,Barbados,BRB,LAC,HI,Caribbean & Central America,2025,4.69839008892929
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2020,-12.0
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2021,-80.0
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2022,-59.0
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2023,-36.0
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2024,-48.0
+Chattogram,BDCGP,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2025,-73.8600864058423
+Mongla,BDMGL,Bangladesh,BGD,SAR,LMI,Indian Subcontinent,2024,6.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2020,101.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2021,40.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2022,34.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2023,57.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2024,19.0
+Antwerp,BEANR,Belgium,BEL,ECA,HI,North Europe,2025,-21.1595451883015
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2020,57.0
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2021,1.0
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2022,41.0
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2023,94.0
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2024,14.0
+Zeebrugge,BEZEE,Belgium,BEL,ECA,HI,North Europe,2025,-24.8342894130547
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2020,20.0
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2021,9.0
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2022,8.0
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2023,11.0
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2024,5.0
+Burgas,BGBOJ,Bulgaria,BGR,ECA,HI,Mediterranean,2025,8.16362936930869
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2020,9.0
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2021,4.0
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2022,-5.0
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2023,0.0
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2024,5.0
+Varna,BGVAR,Bulgaria,BGR,ECA,HI,Mediterranean,2025,-3.4751874202175
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2020,31.0
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2021,53.0
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2022,41.0
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2023,78.0
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2024,46.0
+Khalifa Bin Salman Port,BHKBS,Bahrain,BHR,MENAAP,HI,Arabian Gulf,2025,105.956393348785
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2020,22.0
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2021,-92.0
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2022,-105.0
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2023,-243.0
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2024,-17.0
+Cotonou,BJCOO,Benin,BEN,SSA,LMI,West Africa,2025,-28.9783745666926
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2020,8.0
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2021,8.0
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2022,8.0
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2023,8.0
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2024,8.0
+Gustavia,BLSBH,Saint Barthélemy,BLM,ECA,HI,Caribbean & Central America,2025,7.1263622572466
+Muara,BNMUA,Brunei Darussalam,BRN,EAP,HI,South East Asia,2023,7.0
+Muara,BNMUA,Brunei Darussalam,BRN,EAP,HI,South East Asia,2024,3.0
+Muara,BNMUA,Brunei Darussalam,BRN,EAP,HI,South East Asia,2025,-0.647056146072375
+Fortaleza,BRFOR,Brazil,BRA,LAC,UMI,South America East Coast,2021,-9.0
+Fortaleza,BRFOR,Brazil,BRA,LAC,UMI,South America East Coast,2024,-16.0
+Fortaleza,BRFOR,Brazil,BRA,LAC,UMI,South America East Coast,2025,-21.3602177432251
+Imbituba,BRIBB,Brazil,BRA,LAC,UMI,South America East Coast,2021,55.0
+Imbituba,BRIBB,Brazil,BRA,LAC,UMI,South America East Coast,2022,20.0
+Imbituba,BRIBB,Brazil,BRA,LAC,UMI,South America East Coast,2023,-72.0
+Imbituba,BRIBB,Brazil,BRA,LAC,UMI,South America East Coast,2024,53.0
+Imbituba,BRIBB,Brazil,BRA,LAC,UMI,South America East Coast,2025,28.6890635255805
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2020,58.0
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2021,51.0
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2022,45.0
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2023,48.0
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2024,47.0
+Itapoa,BRIOA,Brazil,BRA,LAC,UMI,South America East Coast,2025,80.5354741543018
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2020,45.0
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2021,13.0
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2022,-11.0
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2023,-123.0
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2024,-111.0
+Itajai,BRITJ,Brazil,BRA,LAC,UMI,South America East Coast,2025,7.32538556359638
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2020,-5.0
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2021,-5.0
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2022,-5.0
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2023,-4.0
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2024,-20.0
+Manaus,BRMAO,Brazil,BRA,LAC,UMI,South America East Coast,2025,-11.2017720700808
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2020,58.0
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2021,28.0
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2022,16.0
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2023,15.0
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2024,-58.0
+Pecem,BRPEC,Brazil,BRA,LAC,UMI,South America East Coast,2025,-57.0286193855203
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2020,53.0
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2021,13.0
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2022,41.0
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2023,39.0
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2024,-157.0
+Paranagua,BRPNG,Brazil,BRA,LAC,UMI,South America East Coast,2025,-82.9015035867129
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2020,72.0
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2021,38.0
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2022,55.0
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2023,33.0
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2024,-78.0
+Rio Grande,BRRIG,Brazil,BRA,LAC,UMI,South America East Coast,2025,-13.3624129788363
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2020,11.0
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2021,41.0
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2022,44.0
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2023,82.0
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2024,-13.0
+Rio De Janeiro,BRRIO,Brazil,BRA,LAC,UMI,South America East Coast,2025,-39.1440334578731
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2020,60.0
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2021,25.0
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2022,0.0
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2023,-5.0
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2024,-173.0
+Sepetiba,BRSPB,Brazil,BRA,LAC,UMI,South America East Coast,2025,-53.8821301858608
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2020,68.0
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2021,30.0
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2022,14.0
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2023,58.0
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2024,-5.0
+Salvador,BRSSA,Brazil,BRA,LAC,UMI,South America East Coast,2025,23.2443652672951
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2020,64.0
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2021,15.0
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2022,9.0
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2023,-5.0
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2024,-166.0
+Santos,BRSSZ,Brazil,BRA,LAC,UMI,South America East Coast,2025,-63.6100833947857
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2020,46.0
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2021,-4.0
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2022,4.0
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2023,24.0
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2024,-94.0
+Suape,BRSUA,Brazil,BRA,LAC,UMI,South America East Coast,2025,-215.033428490778
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2020,1.0
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2021,1.0
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2022,5.0
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2023,-10.0
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2024,-5.0
+Vila Do Conde,BRVDC,Brazil,BRA,LAC,UMI,South America East Coast,2025,-11.2647458161178
+Vitoria,BRVIX,Brazil,BRA,LAC,UMI,South America East Coast,2020,5.0
+Vitoria,BRVIX,Brazil,BRA,LAC,UMI,South America East Coast,2021,4.0
+Vitoria,BRVIX,Brazil,BRA,LAC,UMI,South America East Coast,2022,8.0
+Vitoria,BRVIX,Brazil,BRA,LAC,UMI,South America East Coast,2023,-32.0
+Vitoria,BRVIX,Brazil,BRA,LAC,UMI,South America East Coast,2024,-13.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2020,37.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2021,-100.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2022,-80.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2023,-45.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2024,-234.0
+Freeport,BSFPO,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2025,-12.5154230010452
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2020,4.0
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2021,5.0
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2022,-1.0
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2023,-3.0
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2024,-25.0
+Nassau,BSNAS,"Bahamas, The",BHS,LAC,HI,Caribbean & Central America,2025,-1.74332125893082
+Big Creek,BZBGK,Belize,BLZ,LAC,UMI,Caribbean & Central America,2023,0.0
+Big Creek,BZBGK,Belize,BLZ,LAC,UMI,Caribbean & Central America,2024,6.0
+Big Creek,BZBGK,Belize,BLZ,LAC,UMI,Caribbean & Central America,2025,-6.23530126435973
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2020,118.0
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2021,78.0
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2022,-34.0
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2023,41.0
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2024,56.0
+Halifax,CAHAL,Canada,CAN,NAM,HI,North America East Coast,2025,92.4117117876212
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2020,-7.0
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2021,-26.0
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2022,-35.0
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2023,-42.0
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2024,-39.0
+Montreal,CAMTR,Canada,CAN,NAM,HI,North America East Coast,2025,-39.7896412414912
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2020,-10.0
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2021,-85.0
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2022,-248.0
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2023,-188.0
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2024,-54.0
+Prince Rupert,CAPRR,Canada,CAN,NAM,HI,North America West Coast,2025,-28.1140961273121
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2020,17.0
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2021,2.0
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2022,-3.0
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2023,-2.0
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2024,-43.0
+Saint John,CASJB,Canada,CAN,NAM,HI,North America East Coast,2025,-11.2247636216455
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2020,18.0
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2021,-394.0
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2022,-395.0
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2023,-35.0
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2024,-159.0
+Vancouver,CAVAN,Canada,CAN,NAM,HI,North America West Coast,2025,-92.0037316610149
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2020,2.0
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2021,13.0
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2022,6.0
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2023,-105.0
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2024,-61.0
+Matadi,CDMAT,"Congo, Democratic Republic of",COD,SSA,LI,West Africa,2025,-15.0643272534357
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2020,-50.0
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2021,-225.0
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2022,-74.0
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2023,-145.0
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2024,-283.0
+Pointe-Noire,CGPNR,"Congo, Republic of",COG,SSA,LMI,West Africa,2025,-191.015154349376
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2020,19.0
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2021,-153.0
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2022,-144.0
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2023,-38.0
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2024,-51.0
+Abidjan,CIABJ,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2025,-127.47267345566
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2020,-10.0
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2021,-33.0
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2022,-41.0
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2023,-26.0
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2024,-43.0
+San Pedro,CISPY,Côte d'Ivoire,CIV,SSA,LMI,West Africa,2025,-0.896304724939891
+Antofagasta,CLANF,Chile,CHL,LAC,HI,South America West Coast,2021,3.0
+Antofagasta,CLANF,Chile,CHL,LAC,HI,South America West Coast,2022,-29.0
+Antofagasta,CLANF,Chile,CHL,LAC,HI,South America West Coast,2024,1.0
+Antofagasta,CLANF,Chile,CHL,LAC,HI,South America West Coast,2025,-0.770918929684071
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2020,18.0
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2021,-15.0
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2022,-3.0
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2023,-20.0
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2024,7.0
+Arica,CLARI,Chile,CHL,LAC,HI,South America West Coast,2025,-3.90970318927582
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2020,80.0
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2021,74.0
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2022,75.0
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2023,41.0
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2024,73.0
+Coronel,CLCNL,Chile,CHL,LAC,HI,South America West Coast,2025,95.246157925836
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2020,-6.0
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2021,-26.0
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2022,-29.0
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2023,-48.0
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2024,-43.0
+Iquique,CLIQQ,Chile,CHL,LAC,HI,South America West Coast,2025,-131.979593550111
+Lirquen,CLLQN,Chile,CHL,LAC,HI,South America West Coast,2020,31.0
+Lirquen,CLLQN,Chile,CHL,LAC,HI,South America West Coast,2021,27.0
+Lirquen,CLLQN,Chile,CHL,LAC,HI,South America West Coast,2022,14.0
+Lirquen,CLLQN,Chile,CHL,LAC,HI,South America West Coast,2023,18.0
+Lirquen,CLLQN,Chile,CHL,LAC,HI,South America West Coast,2024,43.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2020,41.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2021,5.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2022,-21.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2023,-28.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2024,-13.0
+Mejillones (Puerto Angamos),CLPAG,Chile,CHL,LAC,HI,South America West Coast,2025,-30.4781573713607
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2020,74.0
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2021,-23.0
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2022,-16.0
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2023,41.0
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2024,-2.0
+San Antonio,CLSAI,Chile,CHL,LAC,HI,South America West Coast,2025,-39.0913498094117
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2020,18.0
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2021,18.0
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2022,-14.0
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2023,-21.0
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2024,-14.0
+San Vicente,CLSVE,Chile,CHL,LAC,HI,South America West Coast,2025,-42.5023165281021
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2020,55.0
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2021,38.0
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2022,1.0
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2023,17.0
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2024,9.0
+Valparaiso,CLVAP,Chile,CHL,LAC,HI,South America West Coast,2025,33.8780978621132
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2020,-13.0
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2021,-75.0
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2022,-41.0
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2023,-80.0
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2024,-97.0
+Douala,CMDLA,Cameroon,CMR,SSA,LMI,West Africa,2025,-77.2828994291024
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2020,-5.0
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2021,-118.0
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2022,-84.0
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2023,-62.0
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2024,-199.0
+Kribi Deep Sea Port,CMKBI,Cameroon,CMR,SSA,LMI,West Africa,2025,-216.521694403032
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2020,126.0
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2021,98.0
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2022,92.0
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2023,137.0
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2024,130.0
+Chiwan,CNCWN,China,CHN,EAP,UMI,Southeast Asian Seas,2025,134.224889698908
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2020,122.0
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2021,38.0
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2022,54.0
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2023,123.0
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2024,137.0
+Dalian,CNDAG,China,CHN,EAP,UMI,Yellow Sea,2025,141.314082939541
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2020,82.0
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2021,22.0
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2022,46.0
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2023,67.0
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2024,86.0
+Da Chan Bay Terminal One,CNDCB,China,CHN,EAP,UMI,Southeast Asian Seas,2025,58.5598933114232
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2020,118.0
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2021,27.0
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2022,63.0
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2023,95.0
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2024,139.0
+Fuzhou,CNFZG,China,CHN,EAP,UMI,East China Sea,2025,144.638475710513
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2020,146.0
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2021,119.0
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2022,116.0
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2023,133.0
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2024,130.0
+Guangzhou Port,CNGZG,China,CHN,EAP,UMI,Southeast Asian Seas,2025,82.3005333928513
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2020,112.0
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2021,46.0
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2022,37.0
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2023,109.0
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2024,75.0
+Lianyungang,CNLYG,China,CHN,EAP,UMI,East China Sea,2025,55.4200305530039
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2020,84.0
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2021,73.0
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2022,106.0
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2023,125.0
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2024,133.0
+Mawan,CNMWN,China,CHN,EAP,UMI,East China Sea,2025,134.849359559556
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2020,139.0
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2021,125.0
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2022,118.0
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2023,128.0
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2024,128.0
+Ningbo,CNNBO,China,CHN,EAP,UMI,East China Sea,2025,129.585017894315
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2020,148.0
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2021,68.0
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2022,-7.0
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2023,34.0
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2024,54.0
+Qingdao,CNQIN,China,CHN,EAP,UMI,Yellow Sea,2025,23.9695369565559
+Qinzhou,CNQZH,China,CHN,EAP,UMI,Southeast Asian Seas,2020,18.0
+Qinzhou,CNQZH,China,CHN,EAP,UMI,Southeast Asian Seas,2021,2.0
+Qinzhou,CNQZH,China,CHN,EAP,UMI,Southeast Asian Seas,2023,62.0
+Qinzhou,CNQZH,China,CHN,EAP,UMI,Southeast Asian Seas,2024,13.0
+Qinzhou,CNQZH,China,CHN,EAP,UMI,Southeast Asian Seas,2025,-150.780956959916
+Quanzhou,CNQZL,China,CHN,EAP,UMI,Southeast Asian Seas,2023,16.0
+Quanzhou,CNQZL,China,CHN,EAP,UMI,Southeast Asian Seas,2024,33.0
+Quanzhou,CNQZL,China,CHN,EAP,UMI,Southeast Asian Seas,2025,35.2371414112219
+Rizhao,CNRZH,China,CHN,EAP,UMI,Yellow Sea,2024,13.0
+Rizhao,CNRZH,China,CHN,EAP,UMI,Yellow Sea,2025,14.1541554803132
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2020,110.0
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2021,-36.0
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2022,-1.0
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2023,31.0
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2024,-11.0
+Shanghai*,CNSHG,China,CHN,EAP,UMI,East China Sea,2025,97.5140008322515
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2020,147.0
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2021,103.0
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2022,106.0
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2023,109.0
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2024,82.0
+Shekou,CNSHK,China,CHN,EAP,UMI,Southeast Asian Seas,2025,81.7690980830177
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2020,32.0
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2021,15.0
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2022,40.0
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2023,29.0
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2024,35.0
+Shantou,CNSTG,China,CHN,EAP,UMI,Southeast Asian Seas,2025,23.4888004600293
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2020,124.0
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2021,75.0
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2022,89.0
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2023,109.0
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2024,118.0
+Tianjin,CNTNJ,China,CHN,EAP,UMI,Yellow Sea,2025,115.224109928249
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2020,114.0
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2021,70.0
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2022,72.0
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2023,103.0
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2024,115.0
+Xiamen,CNXAM,China,CHN,EAP,UMI,Southeast Asian Seas,2025,121.258778488953
+Yangpu,CNYPG,China,CHN,EAP,UMI,Southeast Asian Seas,2025,81.1551213572996
+Yangshan*,CNYSN,China,CHN,EAP,UMI,East China Sea,2020,142.0
+Yangshan*,CNYSN,China,CHN,EAP,UMI,East China Sea,2021,132.0
+Yangshan*,CNYSN,China,CHN,EAP,UMI,East China Sea,2022,139.0
+Yangshan*,CNYSN,China,CHN,EAP,UMI,East China Sea,2023,152.0
+Yangshan*,CNYSN,China,CHN,EAP,UMI,East China Sea,2024,146.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2020,131.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2021,4.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2022,47.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2023,112.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2024,111.0
+Yantian,CNYTN,China,CHN,EAP,UMI,Southeast Asian Seas,2025,82.4110741098707
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2020,136.0
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2021,26.0
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2022,29.0
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2023,52.0
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2024,53.0
+Zhoushan,CNZOS,China,CHN,EAP,UMI,East China Sea,2025,57.0013834091741
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2020,15.0
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2021,15.0
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2022,10.0
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2023,12.0
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2024,1.0
+Barranquilla,COBAQ,Colombia,COL,LAC,UMI,Caribbean & Central America,2025,3.28611008078773
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2020,64.0
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2021,101.0
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2022,94.0
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2023,89.0
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2024,91.0
+Buenaventura,COBUN,Colombia,COL,LAC,UMI,South America West Coast,2025,36.2267652154373
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2020,86.0
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2021,110.0
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2022,124.0
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2023,137.0
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2024,64.0
+Cartagena,COCTG,Colombia,COL,LAC,UMI,Caribbean & Central America,2025,75.3509140961235
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2020,15.0
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2021,17.0
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2022,15.0
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2023,16.0
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2024,15.0
+Santa Marta,COSMR,Colombia,COL,LAC,UMI,Caribbean & Central America,2025,10.761179886666
+Turbo,COTRB,Colombia,COL,LAC,UMI,Caribbean & Central America,2021,-7.0
+Turbo,COTRB,Colombia,COL,LAC,UMI,Caribbean & Central America,2023,-32.0
+Turbo,COTRB,Colombia,COL,LAC,UMI,Caribbean & Central America,2024,-19.0
+Turbo,COTRB,Colombia,COL,LAC,UMI,Caribbean & Central America,2025,-28.0947056036792
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2020,15.0
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2021,-6.0
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2022,1.0
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2023,-1.0
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2024,-9.0
+Caldera,CRCAL,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2025,-69.2927615803882
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2020,35.0
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2021,39.0
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2022,35.0
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2023,46.0
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2024,47.0
+Puerto Limón,CRLIO,Costa Rica,CRI,LAC,HI,Caribbean & Central America,2025,8.59629469383102
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2020,3.0
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2021,3.0
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2022,1.0
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2023,0.0
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2024,-11.0
+Mariel,CUMAR,Cuba,CUB,LAC,UMI,Caribbean & Central America,2025,-0.951507930695384
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2020,28.0
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2021,19.0
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2022,26.0
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2023,12.0
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2024,17.0
+Limassol,CYLMS,Cyprus,CYP,ECA,HI,Mediterranean,2025,2.78911929447125
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2020,94.0
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2021,57.0
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2022,39.0
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2023,44.0
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2024,7.0
+Bremerhaven,DEBRV,Germany,DEU,ECA,HI,North Europe,2025,-10.4064662785792
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2020,80.0
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2021,8.0
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2022,-90.0
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2023,39.0
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2024,-13.0
+Hamburg,DEHAM,Germany,DEU,ECA,HI,North Europe,2025,-4.5756234363094
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2020,106.0
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2021,17.0
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2022,6.0
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2023,48.0
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2024,52.0
+Wilhelmshaven,DEWVN,Germany,DEU,ECA,HI,North Europe,2025,-1.14685172233358
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2020,92.0
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2021,95.0
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2022,91.0
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2023,-64.0
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2024,-56.0
+Djibouti,DJJIB,Djibouti,DJI,MENAAP,LMI,Red Sea,2025,62.587570779659
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2020,73.0
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2021,38.0
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2022,22.0
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2023,60.0
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2024,99.0
+Aarhus,DKAAR,Denmark,DNK,ECA,HI,North Europe,2025,86.6347020135198
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2020,19.0
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2021,6.0
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2022,4.0
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2023,4.0
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2024,7.0
+Copenhagen,DKCPH,Denmark,DNK,ECA,HI,North Europe,2025,-3.90029171508216
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2020,19.0
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2021,12.0
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2022,12.0
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2023,15.0
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2024,14.0
+Fredericia,DKFRC,Denmark,DNK,ECA,HI,North Europe,2025,10.1158119420877
+Kalundborg,DKKAL,Denmark,DNK,ECA,HI,North Europe,2024,22.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2020,68.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2021,37.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2022,7.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2023,17.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2024,-26.0
+Caucedo,DOCAU,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2025,-11.1209560510046
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2020,16.0
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2021,15.0
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2022,11.0
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2023,14.0
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2024,8.0
+Rio Haina,DOHAI,Dominican Republic,DOM,LAC,UMI,Caribbean & Central America,2025,6.10486266132862
+Annaba,DZAAE,Algeria,DZA,MENAAP,UMI,Mediterranean,2025,-11.6500583772254
+Algiers,DZALG,Algeria,DZA,MENAAP,UMI,Mediterranean,2020,-25.485
+Algiers,DZALG,Algeria,DZA,MENAAP,UMI,Mediterranean,2021,-22.419999999999998
+Algiers,DZALG,Algeria,DZA,MENAAP,UMI,Mediterranean,2023,-45.845
+Algiers,DZALG,Algeria,DZA,MENAAP,UMI,Mediterranean,2025,-118.323782921785
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2020,-38.0
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2021,-12.0
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2022,-10.0
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2023,-91.0
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2024,-129.0
+Bejaia,DZBJA,Algeria,DZA,MENAAP,UMI,Mediterranean,2025,-165.630594378727
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2020,12.0
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2021,-12.0
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2022,-33.0
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2023,-6.0
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2024,-54.0
+Guayaquil,ECGYE,Ecuador,ECU,LAC,UMI,South America West Coast,2025,-77.9655038255719
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2020,13.0
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2021,14.0
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2022,12.0
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2023,13.0
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2024,13.0
+Puerto Bolivar,ECPBO,Ecuador,ECU,LAC,UMI,South America West Coast,2025,10.3562228081382
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2020,34.0
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2021,47.0
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2022,103.0
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2023,95.0
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2024,107.0
+Posorja,ECPSJ,Ecuador,ECU,LAC,UMI,South America West Coast,2025,104.000159514422
+Tallinn,EETLL,Estonia,EST,ECA,HI,North Europe,2023,30.0
+Tallinn,EETLL,Estonia,EST,ECA,HI,North Europe,2024,13.0
+Tallinn,EETLL,Estonia,EST,ECA,HI,North Europe,2025,5.64679381629401
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2020,8.0
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2021,-6.0
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2022,-16.0
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2023,21.0
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2024,-4.0
+Alexandria,EGALY,Egypt,EGY,MENAAP,LMI,Mediterranean,2025,-18.6314834599196
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2020,58.0
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2021,58.0
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2022,-3.0
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2023,-91.0
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2024,-4.0
+Damietta,EGDAM,Egypt,EGY,MENAAP,LMI,Mediterranean,2025,22.7520974738749
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2020,14.0
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2021,22.0
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2022,11.0
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2023,-25.0
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2024,5.0
+El Dekheila,EGEDK,Egypt,EGY,MENAAP,LMI,Mediterranean,2025,4.13382617853684
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2020,96.0
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2021,101.0
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2022,111.0
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2023,118.0
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2024,137.0
+Port Said,EGPSD,Egypt,EGY,MENAAP,LMI,Mediterranean,2025,117.044558199203
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2020,32.0
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2021,-103.0
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2022,-27.0
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2023,31.0
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2024,2.0
+El Sokhna,EGSOK,Egypt,EGY,MENAAP,LMI,Red Sea,2025,17.1459245534325
+Arrecife De Lanzarote,ESACE,Canary Islands,ESP,ECA,HI,Atlantic Islands,2023,7.0
+Arrecife De Lanzarote,ESACE,Canary Islands,ESP,ECA,HI,Atlantic Islands,2024,8.0
+Arrecife De Lanzarote,ESACE,Canary Islands,ESP,ECA,HI,Atlantic Islands,2025,7.2398233505679
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2020,34.0
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2021,29.0
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2022,14.0
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2023,39.0
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2024,27.0
+Malaga,ESAGP,Spain,ESP,ECA,HI,Mediterranean,2025,11.0903217070618
+Alicante,ESALC,Spain,ESP,ECA,HI,Mediterranean,2021,4.0
+Alicante,ESALC,Spain,ESP,ECA,HI,Mediterranean,2022,0.0
+Alicante,ESALC,Spain,ESP,ECA,HI,Mediterranean,2023,-1.0
+Alicante,ESALC,Spain,ESP,ECA,HI,Mediterranean,2024,-5.0
+Alicante,ESALC,Spain,ESP,ECA,HI,Mediterranean,2025,-4.05879763127342
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2020,116.0
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2021,113.0
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2022,104.0
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2023,126.0
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2024,109.0
+Algeciras,ESALG,Spain,ESP,ECA,HI,Mediterranean,2025,121.908024280504
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2020,109.0
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2021,90.0
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2022,67.0
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2023,93.0
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2024,52.0
+Barcelona,ESBCN,Spain,ESP,ECA,HI,Mediterranean,2025,86.0354944140418
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2020,4.0
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2021,11.0
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2022,3.0
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2023,3.0
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2024,-36.0
+Bilbao,ESBIO,Spain,ESP,ECA,HI,North Europe,2025,-149.515526936345
+Cadiz,ESCAD,Spain,ESP,ECA,HI,North Europe,2021,3.0
+Cadiz,ESCAD,Spain,ESP,ECA,HI,North Europe,2022,11.0
+Cadiz,ESCAD,Spain,ESP,ECA,HI,North Europe,2023,3.0
+Cadiz,ESCAD,Spain,ESP,ECA,HI,North Europe,2024,13.0
+Cadiz,ESCAD,Spain,ESP,ECA,HI,North Europe,2025,2.68019394103062
+Castellón de la Plana,ESCAS,Spain,ESP,ECA,HI,Mediterranean,2020,31.0
+Castellón de la Plana,ESCAS,Spain,ESP,ECA,HI,Mediterranean,2023,4.0
+Castellón de la Plana,ESCAS,Spain,ESP,ECA,HI,Mediterranean,2024,-5.0
+Castellón de la Plana,ESCAS,Spain,ESP,ECA,HI,Mediterranean,2025,5.61357645034678
+Ferrol,ESFRO,Spain,ESP,ECA,HI,North Europe,2023,3.0
+Ferrol,ESFRO,Spain,ESP,ECA,HI,North Europe,2024,5.0
+Ferrol,ESFRO,Spain,ESP,ECA,HI,North Europe,2025,-116.598115065572
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2020,11.0
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2021,5.0
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2022,15.0
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2023,6.0
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2024,-13.0
+Gijon,ESGIJ,Spain,ESP,ECA,HI,North Europe,2025,4.17837735387328
+Huelva,ESHUV,Spain,ESP,ECA,HI,North Europe,2023,6.0
+Huelva,ESHUV,Spain,ESP,ECA,HI,North Europe,2024,4.0
+Huelva,ESHUV,Spain,ESP,ECA,HI,North Europe,2025,-17.650010657837
+Las Palmas,ESLPA,Canary Islands,ESP,ECA,HI,Atlantic Islands,2023,18.0
+Las Palmas,ESLPA,Canary Islands,ESP,ECA,HI,Atlantic Islands,2024,22.0
+Las Palmas,ESLPA,Canary Islands,ESP,ECA,HI,Atlantic Islands,2025,11.2695071667251
+Sagunto,ESSAG,Spain,ESP,ECA,HI,Mediterranean,2023,13.0
+Sagunto,ESSAG,Spain,ESP,ECA,HI,Mediterranean,2024,8.0
+Sagunto,ESSAG,Spain,ESP,ECA,HI,Mediterranean,2025,-5.57823398135897
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2020,45.0
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2021,48.0
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2022,43.0
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2023,38.0
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2024,-1.0
+Santa Cruz De Tenerife,ESSCT,Canary Islands,ESP,ECA,HI,Atlantic Islands,2025,30.1802363847026
+Seville,ESSVQ,Spain,ESP,ECA,HI,Mediterranean,2023,-2.0
+Seville,ESSVQ,Spain,ESP,ECA,HI,Mediterranean,2024,-1.0
+Seville,ESSVQ,Spain,ESP,ECA,HI,Mediterranean,2025,-1.98134693803051
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2020,16.0
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2021,17.0
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2022,14.0
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2023,20.0
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2024,6.0
+Vigo,ESVGO,Spain,ESP,ECA,HI,North Europe,2025,-2.13000406579999
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2020,52.0
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2021,28.0
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2022,-53.0
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2023,27.0
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2024,-18.0
+Valencia,ESVLC,Spain,ESP,ECA,HI,Mediterranean,2025,-75.8043189217455
+Helsinki,FIHEL,Finland,FIN,ECA,HI,North Europe,2021,12.0
+Helsinki,FIHEL,Finland,FIN,ECA,HI,North Europe,2022,-1.0
+Helsinki,FIHEL,Finland,FIN,ECA,HI,North Europe,2023,3.0
+Helsinki,FIHEL,Finland,FIN,ECA,HI,North Europe,2024,4.0
+Helsinki,FIHEL,Finland,FIN,ECA,HI,North Europe,2025,2.66014498646776
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2020,5.0
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2021,3.0
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2022,-1.0
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2023,-3.0
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2024,-9.0
+Kotka,FIKTK,Finland,FIN,ECA,HI,North Europe,2025,-5.08423870281565
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2020,11.0
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2021,9.0
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2022,5.0
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2023,6.0
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2024,4.0
+Rauma,FIRAU,Finland,FIN,ECA,HI,North Europe,2025,3.11597680738052
+Brest,FRBES,France,FRA,ECA,HI,North Europe,2022,8.0
+Brest,FRBES,France,FRA,ECA,HI,North Europe,2023,4.0
+Brest,FRBES,France,FRA,ECA,HI,North Europe,2024,2.0
+Brest,FRBES,France,FRA,ECA,HI,North Europe,2025,-2.86325038348515
+Bordeaux,FRBOD,France,FRA,ECA,HI,North Europe,2021,3.0
+Bordeaux,FRBOD,France,FRA,ECA,HI,North Europe,2022,1.0
+Bordeaux,FRBOD,France,FRA,ECA,HI,North Europe,2023,1.0
+Bordeaux,FRBOD,France,FRA,ECA,HI,North Europe,2024,-1.0
+Bordeaux,FRBOD,France,FRA,ECA,HI,North Europe,2025,-0.925087613165358
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2020,53.0
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2021,-74.0
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2022,-58.0
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2023,26.0
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2024,27.0
+Dunkirk,FRDKK,France,FRA,ECA,HI,North Europe,2025,-2.86156588033889
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2020,53.0
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2021,-12.0
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2022,-96.0
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2023,-68.0
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2024,4.0
+Le Havre,FRLEH,France,FRA,ECA,HI,North Europe,2025,-32.8773496492969
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2020,-96.0
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2021,-18.0
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2022,-10.0
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2023,-40.0
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2024,-37.0
+Marseille,FRMRS,France,FRA,ECA,HI,Mediterranean,2025,-57.3474926848027
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2020,3.0
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2021,34.0
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2022,12.0
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2023,5.0
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2024,30.0
+Nantes,FRNTE,France,FRA,ECA,HI,North Europe,2025,2.42426198114663
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2020,-4.0
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2021,-20.0
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2022,-21.0
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2023,-50.0
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2024,-30.0
+Owendo,GAOWE,Gabon,GAB,SSA,UMI,West Africa,2025,-19.7090632496551
+Belfast,GBBEL,United Kingdom,GBR,ECA,HI,North Europe,2024,-2.0
+Belfast,GBBEL,United Kingdom,GBR,ECA,HI,North Europe,2025,-0.25989470483649
+Bristol,GBBRS,United Kingdom,GBR,ECA,HI,North Europe,2020,-3.0
+Bristol,GBBRS,United Kingdom,GBR,ECA,HI,North Europe,2021,-71.0
+Bristol,GBBRS,United Kingdom,GBR,ECA,HI,North Europe,2023,-65.0
+Bristol,GBBRS,United Kingdom,GBR,ECA,HI,North Europe,2024,-45.0
+Bristol,GBBRS,United Kingdom,GBR,ECA,HI,North Europe,2025,-31.342626546791
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2020,40.0
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2021,-48.0
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2022,-18.0
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2023,23.0
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2024,-33.0
+Felixstowe,GBFXT,United Kingdom,GBR,ECA,HI,North Europe,2025,-9.48698103970907
+Grangemouth,GBGRG,United Kingdom,GBR,ECA,HI,North Europe,2020,-1.0
+Grangemouth,GBGRG,United Kingdom,GBR,ECA,HI,North Europe,2021,-24.0
+Grangemouth,GBGRG,United Kingdom,GBR,ECA,HI,North Europe,2023,-4.0
+Grangemouth,GBGRG,United Kingdom,GBR,ECA,HI,North Europe,2024,-5.0
+Grangemouth,GBGRG,United Kingdom,GBR,ECA,HI,North Europe,2025,-8.6789984078895
+Greenock,GBGRK,United Kingdom,GBR,ECA,HI,North Europe,2023,-37.0
+Greenock,GBGRK,United Kingdom,GBR,ECA,HI,North Europe,2024,-34.0
+Greenock,GBGRK,United Kingdom,GBR,ECA,HI,North Europe,2025,-6.42491117588803
+Liverpool,GBLIV,United Kingdom,GBR,ECA,HI,North Europe,2021,-35.0
+Liverpool,GBLIV,United Kingdom,GBR,ECA,HI,North Europe,2023,-8.0
+Liverpool,GBLIV,United Kingdom,GBR,ECA,HI,North Europe,2024,-5.0
+Liverpool,GBLIV,United Kingdom,GBR,ECA,HI,North Europe,2025,8.84566996674271
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2020,77.0
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2021,-63.0
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2022,-36.0
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2023,60.0
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2024,39.0
+London,GBLON,United Kingdom,GBR,ECA,HI,North Europe,2025,12.7273412508457
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2020,39.0
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2021,-67.0
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2022,-8.0
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2023,50.0
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2024,11.0
+Southampton,GBSOU,United Kingdom,GBR,ECA,HI,North Europe,2025,25.7964243334952
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2020,5.0
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2021,-2.0
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2022,-5.0
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2023,3.0
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2024,-3.0
+Teesport,GBTEE,United Kingdom,GBR,ECA,HI,North Europe,2025,-8.51442084234541
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2020,1.0
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2021,2.0
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2022,-3.0
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2023,-2.0
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2024,4.0
+Batumi,GEBUS,Georgia,GEO,ECA,UMI,Mediterranean,2025,-5.90449779952088
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2020,2.0
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2021,3.0
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2022,-32.0
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2023,-39.0
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2024,-40.0
+Poti,GEPTI,Georgia,GEO,ECA,UMI,Mediterranean,2025,-61.3119131821223
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2020,44.0
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2021,-96.0
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2022,-10.0
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2023,-69.0
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2024,-166.0
+Tema,GHTEM,Ghana,GHA,SSA,LMI,West Africa,2025,-94.3604884244802
+Banjul,GMBJL,The Gambia,GMB,SSA,LI,West Africa,2025,-39.2769981386395
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2020,3.0
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2021,2.0
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2022,5.0
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2023,4.0
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2024,-2.0
+Conakry,GNCKY,Guinea,GIN,SSA,LMI,West Africa,2025,-275.890658283315
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2020,38.0
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2021,34.0
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2022,29.0
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2023,36.0
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2024,31.0
+Pointe-A-Pitre,GPPTP,Guadeloupe,GLP,ECA,HI,Caribbean & Central America,2025,27.3615575751127
+Bata,GQBSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2023,-6.0
+Bata,GQBSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2024,-6.0
+Bata,GQBSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2025,-17.1184778677375
+Malabo,GQSSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2020,-2.0
+Malabo,GQSSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2023,1.0
+Malabo,GQSSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2024,-12.0
+Malabo,GQSSG,Equatorial Guinea,GNQ,SSA,UMI,West Africa,2025,-1.94786527625736
+Heraklion,GRHER,Greece,GRC,ECA,HI,Mediterranean,2020,4.0
+Heraklion,GRHER,Greece,GRC,ECA,HI,Mediterranean,2021,4.0
+Heraklion,GRHER,Greece,GRC,ECA,HI,Mediterranean,2022,3.0
+Heraklion,GRHER,Greece,GRC,ECA,HI,Mediterranean,2023,1.0
+Heraklion,GRHER,Greece,GRC,ECA,HI,Mediterranean,2024,-5.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2020,93.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2021,41.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2022,45.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2023,35.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2024,40.0
+Piraeus,GRPIR,Greece,GRC,ECA,HI,Mediterranean,2025,-0.903699585006416
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2020,10.0
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2021,-50.0
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2022,-82.0
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2023,-27.0
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2024,-19.0
+Thessaloniki,GRSKG,Greece,GRC,ECA,HI,Mediterranean,2025,-5.50462628584788
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2020,21.0
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2021,13.0
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2022,19.0
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2023,21.0
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2024,12.0
+Puerto Barrios,GTPBR,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2025,8.4990933280195
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2020,42.0
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2021,30.0
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2022,15.0
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2023,7.0
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2024,-124.0
+Puerto Quetzal,GTPRQ,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2025,-73.5255442217329
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2020,7.0
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2021,-6.0
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2022,-11.0
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2023,8.0
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2024,3.0
+Santo Tomas De Castilla,GTSTC,Guatemala,GTM,LAC,UMI,Caribbean & Central America,2025,-65.6476714373266
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2020,6.0
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2021,9.0
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2022,4.0
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2023,2.0
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2024,9.0
+Apra Harbor,GUAPR,Guam,GUM,EAP,HI,Australasia & Oceania,2025,-0.777093282829873
+Georgetown,GYGEO,Guyana,GUY,LAC,HI,Caribbean & Central America,2021,1.0
+Georgetown,GYGEO,Guyana,GUY,LAC,HI,Caribbean & Central America,2023,-12.0
+Georgetown,GYGEO,Guyana,GUY,LAC,HI,Caribbean & Central America,2024,-9.0
+Georgetown,GYGEO,Guyana,GUY,LAC,HI,Caribbean & Central America,2025,-23.3993164718128
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2020,142.0
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2021,68.0
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2022,112.0
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2023,119.0
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2024,123.0
+Hong Kong,HKHKG,"Hong Kong SAR, China",HKG,EAP,HI,Southeast Asian Seas,2025,122.795983636734
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2020,18.0
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2021,19.0
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2022,31.0
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2023,9.0
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2024,22.0
+Puerto Cortes,HNPCR,Honduras,HND,LAC,LMI,Caribbean & Central America,2025,-43.3502894667497
+Ploce,HRPLE,Croatia,HRV,ECA,HI,Mediterranean,2021,12.0
+Ploce,HRPLE,Croatia,HRV,ECA,HI,Mediterranean,2023,4.0
+Ploce,HRPLE,Croatia,HRV,ECA,HI,Mediterranean,2024,7.0
+Ploce,HRPLE,Croatia,HRV,ECA,HI,Mediterranean,2025,-6.32379886992308
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2020,43.0
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2021,17.0
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2022,-173.0
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2023,-203.0
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2024,-159.0
+Rijeka,HRRJK,Croatia,HRV,ECA,HI,Mediterranean,2025,-238.88459946439
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2020,11.0
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2021,0.0
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2022,1.0
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2023,-13.0
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2024,-4.0
+Belawan,IDBLW,Indonesia,IDN,EAP,UMI,South East Asia,2025,-10.2634599535228
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2020,96.0
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2021,25.0
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2022,-24.0
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2023,108.0
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2024,27.0
+New Priok Port,IDCTO,Indonesia,IDN,EAP,UMI,South East Asia,2025,15.6626497016037
+Palembang,IDPLM,Indonesia,IDN,EAP,UMI,South East Asia,2025,3.11460653256777
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2020,7.0
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2021,1.0
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2022,-2.0
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2023,7.0
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2024,-31.0
+Panjang,IDPNJ,Indonesia,IDN,EAP,UMI,South East Asia,2025,-3.59804175442806
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2020,15.0
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2021,16.0
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2022,15.0
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2023,13.0
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2024,7.0
+Semarang,IDSRG,Indonesia,IDN,EAP,UMI,South East Asia,2025,-0.0482174965303197
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2020,25.0
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2021,34.0
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2022,29.0
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2023,32.0
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2024,24.0
+Surabaya,IDSUB,Indonesia,IDN,EAP,UMI,South East Asia,2025,12.9723878029755
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2020,3.0
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2021,-18.0
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2022,-11.0
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2023,-16.0
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2024,-13.0
+Dublin,IEDUB,Ireland,IRL,ECA,HI,North Europe,2025,-14.5997411027306
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2020,26.0
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2021,-42.0
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2022,-56.0
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2023,-93.0
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2024,-31.0
+Ashdod,ILASH,Israel,ISR,MENAAP,HI,Mediterranean,2025,-22.0814987918539
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2020,77.0
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2021,6.0
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2022,40.0
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2023,44.0
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2024,36.0
+Haifa,ILHFA,Israel,ISR,MENAAP,HI,Mediterranean,2025,7.84400859425015
+Syama Prasad Mookerjee Port,INCCU,India,IND,SAR,LMI,Indian Subcontinent,2023,-4.0
+Syama Prasad Mookerjee Port,INCCU,India,IND,SAR,LMI,Indian Subcontinent,2024,-2.0
+Syama Prasad Mookerjee Port,INCCU,India,IND,SAR,LMI,Indian Subcontinent,2025,-3.78529084477941
+Cochin,INCOK,India,IND,SAR,LMI,Indian Subcontinent,2021,35.0
+Cochin,INCOK,India,IND,SAR,LMI,Indian Subcontinent,2022,37.0
+Cochin,INCOK,India,IND,SAR,LMI,Indian Subcontinent,2023,62.0
+Cochin,INCOK,India,IND,SAR,LMI,Indian Subcontinent,2024,56.0
+Cochin,INCOK,India,IND,SAR,LMI,Indian Subcontinent,2025,21.7762890160419
+Kamarajar,INENR,India,IND,SAR,LMI,Indian Subcontinent,2021,40.0
+Kamarajar,INENR,India,IND,SAR,LMI,Indian Subcontinent,2022,40.0
+Kamarajar,INENR,India,IND,SAR,LMI,Indian Subcontinent,2023,71.0
+Kamarajar,INENR,India,IND,SAR,LMI,Indian Subcontinent,2024,33.0
+Kamarajar,INENR,India,IND,SAR,LMI,Indian Subcontinent,2025,31.4270857460452
+Hazira,INHZA,India,IND,SAR,LMI,Indian Subcontinent,2021,45.0
+Hazira,INHZA,India,IND,SAR,LMI,Indian Subcontinent,2022,37.0
+Hazira,INHZA,India,IND,SAR,LMI,Indian Subcontinent,2023,54.0
+Hazira,INHZA,India,IND,SAR,LMI,Indian Subcontinent,2024,43.0
+Hazira,INHZA,India,IND,SAR,LMI,Indian Subcontinent,2025,47.9880236820392
+Kandla,INIXY,India,IND,SAR,LMI,Indian Subcontinent,2024,10.0
+Kandla,INIXY,India,IND,SAR,LMI,Indian Subcontinent,2025,32.650643828148
+Krishnapatnam,INKRI,India,IND,SAR,LMI,Indian Subcontinent,2021,39.0
+Krishnapatnam,INKRI,India,IND,SAR,LMI,Indian Subcontinent,2022,46.0
+Krishnapatnam,INKRI,India,IND,SAR,LMI,Indian Subcontinent,2023,49.0
+Krishnapatnam,INKRI,India,IND,SAR,LMI,Indian Subcontinent,2024,-9.0
+Kattupalli,INKTP,India,IND,SAR,LMI,Indian Subcontinent,2021,35.0
+Kattupalli,INKTP,India,IND,SAR,LMI,Indian Subcontinent,2022,40.0
+Kattupalli,INKTP,India,IND,SAR,LMI,Indian Subcontinent,2023,62.0
+Kattupalli,INKTP,India,IND,SAR,LMI,Indian Subcontinent,2024,-14.0
+Kattupalli,INKTP,India,IND,SAR,LMI,Indian Subcontinent,2025,44.6936503147593
+Chennai,INMAA,India,IND,SAR,LMI,Indian Subcontinent,2021,42.0
+Chennai,INMAA,India,IND,SAR,LMI,Indian Subcontinent,2022,23.0
+Chennai,INMAA,India,IND,SAR,LMI,Indian Subcontinent,2023,47.0
+Chennai,INMAA,India,IND,SAR,LMI,Indian Subcontinent,2024,10.0
+Chennai,INMAA,India,IND,SAR,LMI,Indian Subcontinent,2025,14.7404535713311
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2020,76.0
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2021,67.0
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2022,53.0
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2023,108.0
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2024,97.0
+Mundra,INMUN,India,IND,SAR,LMI,Indian Subcontinent,2025,92.3392166346266
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2020,66.0
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2021,62.0
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2022,35.0
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2023,48.0
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2024,100.0
+Jawaharlal Nehru Port,INNSA,India,IND,SAR,LMI,Indian Subcontinent,2025,98.4164719600522
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2020,78.0
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2021,82.0
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2022,80.0
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2023,86.0
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2024,85.0
+Pipavav,INPAV,India,IND,SAR,LMI,Indian Subcontinent,2025,92.5864979254716
+Visakhapatnam,INVTZ,India,IND,SAR,LMI,Indian Subcontinent,2021,36.0
+Visakhapatnam,INVTZ,India,IND,SAR,LMI,Indian Subcontinent,2022,20.0
+Visakhapatnam,INVTZ,India,IND,SAR,LMI,Indian Subcontinent,2023,115.0
+Visakhapatnam,INVTZ,India,IND,SAR,LMI,Indian Subcontinent,2024,46.0
+Visakhapatnam,INVTZ,India,IND,SAR,LMI,Indian Subcontinent,2025,23.0486132860268
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2020,1.0
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2021,18.0
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2022,8.0
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2023,-6.0
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2024,-3.0
+Umm Qasr,IQUQR,Iraq,IRQ,MENAAP,UMI,Arabian Gulf,2025,-85.1424977130028
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2020,14.0
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2021,13.0
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2022,11.0
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2023,2.0
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2024,-10.0
+Ancona,ITAOI,Italy,ITA,ECA,HI,Mediterranean,2025,-3.2679117812523
+Augusta,ITAUG,Italy,ITA,ECA,HI,Mediterranean,2024,4.0
+Augusta,ITAUG,Italy,ITA,ECA,HI,Mediterranean,2025,-22.5834550584745
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2020,11.0
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2021,10.0
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2022,6.0
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2023,-2.0
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2024,-6.0
+Bari,ITBRI,Italy,ITA,ECA,HI,Mediterranean,2025,-6.53536125109998
+Gioia Tauro,ITGIT,Italy,ITA,ECA,HI,Mediterranean,2020,60.0
+Gioia Tauro,ITGIT,Italy,ITA,ECA,HI,Mediterranean,2021,46.0
+Gioia Tauro,ITGIT,Italy,ITA,ECA,HI,Mediterranean,2022,8.0
+Gioia Tauro,ITGIT,Italy,ITA,ECA,HI,Mediterranean,2023,13.0
+Gioia Tauro,ITGIT,Italy,ITA,ECA,HI,Mediterranean,2024,60.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2020,25.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2021,-52.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2022,-82.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2023,-9.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2024,-55.0
+Genova,ITGOA,Italy,ITA,ECA,HI,Mediterranean,2025,-205.320165192008
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2020,8.0
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2021,-58.0
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2022,-55.0
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2023,-13.0
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2024,-12.0
+Livorno,ITLIV,Italy,ITA,ECA,HI,Mediterranean,2025,-46.9030997294418
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2020,24.0
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2021,-4.0
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2022,-18.0
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2023,-32.0
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2024,-3.0
+Napoli,ITNAP,Italy,ITA,ECA,HI,Mediterranean,2025,-13.7835871375934
+Palermo,ITPMO,Italy,ITA,ECA,HI,Mediterranean,2020,4.0
+Palermo,ITPMO,Italy,ITA,ECA,HI,Mediterranean,2021,5.0
+Palermo,ITPMO,Italy,ITA,ECA,HI,Mediterranean,2022,3.0
+Palermo,ITPMO,Italy,ITA,ECA,HI,Mediterranean,2023,1.0
+Palermo,ITPMO,Italy,ITA,ECA,HI,Mediterranean,2024,1.0
+Pozzallo,ITPZL,Italy,ITA,ECA,HI,Mediterranean,2024,4.0
+Pozzallo,ITPZL,Italy,ITA,ECA,HI,Mediterranean,2025,2.29626779308871
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2020,14.0
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2021,10.0
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2022,10.0
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2023,6.0
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2024,4.0
+Ravenna,ITRAN,Italy,ITA,ECA,HI,Mediterranean,2025,0.631641026758193
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2020,15.0
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2021,10.0
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2022,10.0
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2023,7.0
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2024,20.0
+Salerno,ITSAL,Italy,ITA,ECA,HI,Mediterranean,2025,-16.2147956549652
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2020,58.0
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2021,-20.0
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2022,-136.0
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2023,-14.0
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2024,-129.0
+La Spezia,ITSPE,Italy,ITA,ECA,HI,Mediterranean,2025,-149.882016216678
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2020,13.0
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2021,39.0
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2022,45.0
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2023,93.0
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2024,37.0
+Savona-Vado,ITSVN,Italy,ITA,ECA,HI,Mediterranean,2025,64.1156963256902
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2020,46.0
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2021,-34.0
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2022,-202.0
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2023,-152.0
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2024,-34.0
+Trieste,ITTRS,Italy,ITA,ECA,HI,Mediterranean,2025,-130.658935404245
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2020,7.0
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2021,4.0
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2022,-8.0
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2023,-6.0
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2024,-11.0
+Venice,ITVCE,Italy,ITA,ECA,HI,Mediterranean,2025,-25.9206352282212
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2020,62.0
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2021,26.0
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2022,-17.0
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2023,-48.0
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2024,-76.0
+Kingston,JMKIN,Jamaica,JAM,LAC,UMI,Caribbean & Central America,2025,-64.177898436801
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2020,106.0
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2021,79.0
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2022,44.0
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2023,54.0
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2024,66.0
+Aqaba,JOAQB,Jordan,JOR,MENAAP,LMI,Red Sea,2025,77.1426622887597
+Hibikinada,JPHBK,Japan,JPN,EAP,HI,North Asia,2023,13.0
+Hibikinada,JPHBK,Japan,JPN,EAP,HI,North Asia,2024,5.0
+Hibikinada,JPHBK,Japan,JPN,EAP,HI,North Asia,2025,9.20011704089976
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2020,22.0
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2021,23.0
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2022,23.0
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2023,22.0
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2024,22.0
+Hakata,JPHKT,Japan,JPN,EAP,HI,North Asia,2025,22.2762935009312
+Kawasaki,JPKWS,Japan,JPN,EAP,HI,North Asia,2021,6.619999999999999
+Kawasaki,JPKWS,Japan,JPN,EAP,HI,North Asia,2025,15.2473624148029
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2020,17.0
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2021,22.0
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2022,14.0
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2023,21.0
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2024,17.0
+Moji,JPMOJ,Japan,JPN,EAP,HI,North Asia,2025,12.3493003848916
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2020,25.0
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2021,23.0
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2022,23.0
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2023,24.0
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2024,23.0
+Naha,JPNAH,Japan,JPN,EAP,HI,North Asia,2025,39.0877638913341
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2020,77.0
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2021,67.0
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2022,59.0
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2023,63.0
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2024,59.0
+Nagoya,JPNGO,Japan,JPN,EAP,HI,North Asia,2025,59.5846488702091
+Oita,JPOIT,Japan,JPN,EAP,HI,North Asia,2020,4.0
+Oita,JPOIT,Japan,JPN,EAP,HI,North Asia,2023,3.0
+Oita,JPOIT,Japan,JPN,EAP,HI,North Asia,2024,6.0
+Oita,JPOIT,Japan,JPN,EAP,HI,North Asia,2025,6.58322987359219
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2020,17.0
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2021,22.0
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2022,15.0
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2023,18.0
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2024,15.0
+Omaezaki,JPOMZ,Japan,JPN,EAP,HI,North Asia,2025,14.1635533853705
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2020,43.0
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2021,77.0
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2022,41.0
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2023,43.0
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2024,-25.0
+Osaka,JPOSA,Japan,JPN,EAP,HI,North Asia,2025,31.6509146965412
+Shibushi,JPSBS,Japan,JPN,EAP,HI,North Asia,2020,7.0
+Shibushi,JPSBS,Japan,JPN,EAP,HI,North Asia,2023,6.0
+Shibushi,JPSBS,Japan,JPN,EAP,HI,North Asia,2024,3.0
+Shibushi,JPSBS,Japan,JPN,EAP,HI,North Asia,2025,3.68899109838922
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2020,90.0
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2021,74.0
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2022,60.0
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2023,76.0
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2024,66.0
+Shimizu,JPSMZ,Japan,JPN,EAP,HI,North Asia,2025,58.9934789535235
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2020,74.0
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2021,62.0
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2022,52.0
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2023,62.0
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2024,37.0
+Tokyo,JPTYO,Japan,JPN,EAP,HI,North Asia,2025,77.2807456805792
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2020,75.0
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2021,77.0
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2022,63.0
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2023,55.0
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2024,59.0
+Kobe,JPUKB,Japan,JPN,EAP,HI,North Asia,2025,122.532720248916
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2020,42.0
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2021,36.0
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2022,28.0
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2023,38.0
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2024,31.0
+Yokkaichi,JPYKK,Japan,JPN,EAP,HI,North Asia,2025,24.6679192920673
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2020,170.0
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2021,117.0
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2022,106.0
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2023,125.0
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2024,115.0
+Yokohama,JPYOK,Japan,JPN,EAP,HI,North Asia,2025,70.5865576425405
+Lamu,KELAU,Kenya,KEN,SSA,LMI,East Africa,2025,-47.0518786620973
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2020,-31.0
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2021,-11.0
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2022,-81.0
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2023,-32.0
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2024,-89.0
+Mombasa,KEMBA,Kenya,KEN,SSA,LMI,East Africa,2025,-231.486343246305
+Kâmpóng Saôm,KHKOS,Cambodia,KHM,EAP,LMI,South East Asia,2021,3.0
+Kâmpóng Saôm,KHKOS,Cambodia,KHM,EAP,LMI,South East Asia,2023,12.0
+Kâmpóng Saôm,KHKOS,Cambodia,KHM,EAP,LMI,South East Asia,2024,5.0
+Kâmpóng Saôm,KHKOS,Cambodia,KHM,EAP,LMI,South East Asia,2025,7.44368526473789
+Basseterre,KNBAS,Saint Kitts and Nevis,KNA,LAC,HI,Caribbean & Central America,2023,8.0
+Basseterre,KNBAS,Saint Kitts and Nevis,KNA,LAC,HI,Caribbean & Central America,2024,8.0
+Basseterre,KNBAS,Saint Kitts and Nevis,KNA,LAC,HI,Caribbean & Central America,2025,7.39252500207048
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2020,84.0
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2021,65.0
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2022,75.0
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2023,67.0
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2024,85.0
+Incheon,KRINC,Republic of Korea,KOR,EAP,HI,North Asia,2025,88.867177171475
+Pyeong Taek,KRPTK,Republic of Korea,KOR,EAP,HI,North Asia,2023,8.0
+Pyeong Taek,KRPTK,Republic of Korea,KOR,EAP,HI,North Asia,2024,17.0
+Pyeong Taek,KRPTK,Republic of Korea,KOR,EAP,HI,North Asia,2025,8.7901018903949
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2020,112.0
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2021,85.0
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2022,94.0
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2023,97.0
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2024,92.0
+Busan,KRPUS,Republic of Korea,KOR,EAP,HI,North Asia,2025,96.7995278101826
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2020,111.0
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2021,79.0
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2022,95.0
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2023,113.0
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2024,103.0
+Yeosu,KRYOS,Republic of Korea,KOR,EAP,HI,North Asia,2025,50.6363890689527
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2020,2.0
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2021,10.0
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2022,18.0
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2023,13.0
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2024,11.0
+Shuaiba,KWSAA,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2025,6.42486420158843
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2020,7.0
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2021,9.0
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2022,13.0
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2023,5.0
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2024,13.0
+Shuwaikh,KWSWK,Kuwait,KWT,MENAAP,HI,Arabian Gulf,2025,16.1154441252718
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2020,97.0
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2021,-106.0
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2022,-79.0
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2023,58.0
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2024,57.0
+Beirut,LBBEY,Lebanon,LBN,MENAAP,LMI,Mediterranean,2025,-2.65629120404386
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2020,66.0
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2021,39.0
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2022,-3.0
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2023,29.0
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2024,45.0
+Tripoli,LBKYE,Lebanon,LBN,MENAAP,LMI,Mediterranean,2025,12.2123341287197
+Castries,LCCAS,Saint Lucia,LCA,LAC,UMI,Caribbean & Central America,2023,1.0
+Castries,LCCAS,Saint Lucia,LCA,LAC,UMI,Caribbean & Central America,2024,3.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2020,114.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2021,87.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2022,83.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2023,95.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2024,42.0
+Colombo,LKCMB,Sri Lanka,LKA,SAR,LMI,Indian Subcontinent,2025,25.493665805568
+Monrovia,LRMLW,Liberia,LBR,SSA,LI,West Africa,2022,-19.0
+Monrovia,LRMLW,Liberia,LBR,SSA,LI,West Africa,2023,-40.0
+Monrovia,LRMLW,Liberia,LBR,SSA,LI,West Africa,2024,-37.0
+Monrovia,LRMLW,Liberia,LBR,SSA,LI,West Africa,2025,-64.3312427619256
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2020,1.0
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2021,12.0
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2022,3.0
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2023,17.0
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2024,14.0
+Klaipeda,LTKLJ,Lithuania,LTU,ECA,HI,North Europe,2025,16.29970078791
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2020,7.0
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2021,5.0
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2022,-7.0
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2023,-6.0
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2024,11.0
+Riga,LVRIX,Latvia,LVA,ECA,HI,North Europe,2025,2.77498491003608
+Khoms,LYKHO,Libya,LBY,MENAAP,UMI,Mediterranean,2023,-26.0
+Khoms,LYKHO,Libya,LBY,MENAAP,UMI,Mediterranean,2024,-24.0
+Khoms,LYKHO,Libya,LBY,MENAAP,UMI,Mediterranean,2025,-21.7003153122813
+Qasr Ahmed,LYMRA,Libya,LBY,MENAAP,UMI,Mediterranean,2021,-11.0
+Qasr Ahmed,LYMRA,Libya,LBY,MENAAP,UMI,Mediterranean,2022,-46.0
+Qasr Ahmed,LYMRA,Libya,LBY,MENAAP,UMI,Mediterranean,2023,-80.0
+Qasr Ahmed,LYMRA,Libya,LBY,MENAAP,UMI,Mediterranean,2024,-12.0
+Qasr Ahmed,LYMRA,Libya,LBY,MENAAP,UMI,Mediterranean,2025,-15.5589362724261
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2020,-1.0
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2021,-4.0
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2022,-8.0
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2023,-10.0
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2024,-14.0
+Agadir,MAAGA,Morocco,MAR,MENAAP,LMI,Mediterranean,2025,-14.0931366072699
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2020,14.0
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2021,-4.0
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2022,10.0
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2023,-27.0
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2024,-12.0
+Casablanca,MACAS,Morocco,MAR,MENAAP,LMI,Mediterranean,2025,-74.239875147347
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2020,133.0
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2021,128.0
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2022,125.0
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2023,139.0
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2024,136.0
+Tanger Med,MAPTM,Morocco,MAR,MENAAP,LMI,Mediterranean,2025,134.004177054416
+Bar,MEBAR,Montenegro,MNE,ECA,UMI,Mediterranean,2021,12.0
+Bar,MEBAR,Montenegro,MNE,ECA,UMI,Mediterranean,2022,11.0
+Bar,MEBAR,Montenegro,MNE,ECA,UMI,Mediterranean,2023,9.0
+Bar,MEBAR,Montenegro,MNE,ECA,UMI,Mediterranean,2024,10.0
+Bar,MEBAR,Montenegro,MNE,ECA,UMI,Mediterranean,2025,7.89272773483801
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2020,5.0
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2021,-10.0
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2022,-2.0
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2023,-12.0
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2024,6.0
+Toamasina,MGTOA,Madagascar,MDG,SSA,LI,Southern Africa,2025,-2.1425845328119
+Yangon,MMRGN,Myanmar,MMR,EAP,LMI,South East Asia,2021,-23.0
+Yangon,MMRGN,Myanmar,MMR,EAP,LMI,South East Asia,2023,1.0
+Yangon,MMRGN,Myanmar,MMR,EAP,LMI,South East Asia,2024,2.0
+Yangon,MMRGN,Myanmar,MMR,EAP,LMI,South East Asia,2025,4.55677633760678
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2020,38.0
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2021,26.0
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2022,30.0
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2023,31.0
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2024,30.0
+Fort De France,MQFDF,Martinique,MTQ,ECA,HI,Caribbean & Central America,2025,25.1667262325717
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2020,-8.0
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2021,-130.0
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2022,-106.0
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2023,-53.0
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2024,-21.0
+Nouakchott,MRNKC,Mauritania,MRT,SSA,LMI,West Africa,2025,-20.3803352559363
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2020,87.0
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2021,47.0
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2022,60.0
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2023,48.0
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2024,6.0
+Marsaxlokk,MTMAR,Malta,MLT,MENAAP,HI,Mediterranean,2025,5.16095473587772
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2020,-60.0
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2021,-38.0
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2022,-95.0
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2023,-59.0
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2024,-70.0
+Port Louis,MUPLU,Mauritius,MUS,SSA,UMI,East Africa,2025,-76.8271648212976
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2020,40.0
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2021,42.0
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2022,50.0
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2023,41.0
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2024,41.0
+Altamira,MXATM,Mexico,MEX,LAC,UMI,North America East Coast,2025,44.7027794615637
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2020,50.0
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2021,38.0
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2022,19.0
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2023,-7.0
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2024,11.0
+Ensenada,MXESE,Mexico,MEX,LAC,UMI,North America West Coast,2025,55.8553000860765
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2020,120.0
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2021,50.0
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2022,60.0
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2023,76.0
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2024,-27.0
+Lazaro Cardenas,MXLZC,Mexico,MEX,LAC,UMI,North America West Coast,2025,20.6289681931962
+Mazatlan,MXMZT,Mexico,MEX,LAC,UMI,North America West Coast,2021,4.0
+Mazatlan,MXMZT,Mexico,MEX,LAC,UMI,North America West Coast,2023,-26.0
+Mazatlan,MXMZT,Mexico,MEX,LAC,UMI,North America West Coast,2024,-12.0
+Mazatlan,MXMZT,Mexico,MEX,LAC,UMI,North America West Coast,2025,-15.8247294387307
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2020,6.0
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2021,8.0
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2022,11.0
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2023,10.0
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2024,7.0
+Progreso,MXPGO,Mexico,MEX,LAC,UMI,North America East Coast,2025,5.54915316168837
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2020,42.0
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2021,36.0
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2022,27.0
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2023,26.0
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2024,38.0
+Veracruz,MXVER,Mexico,MEX,LAC,UMI,North America East Coast,2025,24.8639605666325
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2020,81.0
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2021,39.0
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2022,-23.0
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2023,-12.0
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2024,-161.0
+Manzanillo,MXZLO,Mexico,MEX,LAC,UMI,North America West Coast,2025,-9.49575930326805
+Kota Kinabalu,MYBKI,Malaysia,MYS,EAP,UMI,South East Asia,2023,-12.0
+Kota Kinabalu,MYBKI,Malaysia,MYS,EAP,UMI,South East Asia,2024,-31.0
+Kota Kinabalu,MYBKI,Malaysia,MYS,EAP,UMI,South East Asia,2025,-12.1926568882467
+Bintulu,MYBTU,Malaysia,MYS,EAP,UMI,South East Asia,2023,-77.0
+Bintulu,MYBTU,Malaysia,MYS,EAP,UMI,South East Asia,2024,-60.0
+Kuching,MYKCH,Malaysia,MYS,EAP,UMI,South East Asia,2023,-12.0
+Kuching,MYKCH,Malaysia,MYS,EAP,UMI,South East Asia,2024,-22.0
+Kuching,MYKCH,Malaysia,MYS,EAP,UMI,South East Asia,2025,5.91047912151525
+Kuantan,MYKUA,Malaysia,MYS,EAP,UMI,South East Asia,2023,2.0
+Kuantan,MYKUA,Malaysia,MYS,EAP,UMI,South East Asia,2024,0.0
+Kuantan,MYKUA,Malaysia,MYS,EAP,UMI,South East Asia,2025,4.36165649765219
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2020,19.0
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2021,30.0
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2022,32.0
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2023,-9.0
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2024,35.0
+Penang,MYPEN,Malaysia,MYS,EAP,UMI,South East Asia,2025,5.42581816002476
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2020,39.0
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2021,42.0
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2022,34.0
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2023,37.0
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2024,42.0
+"Pasir Gudang, Johor",MYPGU,Malaysia,MYS,EAP,UMI,South East Asia,2025,11.5176117654004
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2020,135.0
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2021,44.0
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2022,65.0
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2023,106.0
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2024,74.0
+Port Klang,MYPKG,Malaysia,MYS,EAP,UMI,South East Asia,2025,67.7954626413586
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2020,140.0
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2021,93.0
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2022,118.0
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2023,137.0
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2024,118.0
+Tanjung Pelepas,MYTPP,Malaysia,MYS,EAP,UMI,South East Asia,2025,110.595102631283
+Tawau,MYTWU,Malaysia,MYS,EAP,UMI,South East Asia,2024,-18.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2020,-8.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2021,-6.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2022,-1.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2023,-38.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2024,-13.0
+Beira,MZBEW,Mozambique,MOZ,SSA,LI,Southern Africa,2025,-24.1055789599485
+Nacala,MZMNC,Mozambique,MOZ,SSA,LI,Southern Africa,2023,-68.0
+Nacala,MZMNC,Mozambique,MOZ,SSA,LI,Southern Africa,2024,-64.0
+Nacala,MZMNC,Mozambique,MOZ,SSA,LI,Southern Africa,2025,-59.3175909405062
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2020,-2.0
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2021,-33.0
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2022,-9.0
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2023,-27.0
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2024,-40.0
+Maputo,MZMPM,Mozambique,MOZ,SSA,LI,Southern Africa,2025,-12.3404888731738
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2020,-19.0
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2021,-47.0
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2022,-37.0
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2023,-86.0
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2024,-91.0
+Walvis Bay,NAWVB,Namibia,NAM,SSA,LMI,West Africa,2025,-82.0931407727307
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2020,20.0
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2021,39.0
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2022,16.0
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2023,-8.0
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2024,20.0
+Noumea,NCNOU,New Caledonia,NCL,EAP,HI,Australasia & Oceania,2025,5.88396037298384
+Lekki,NGLKK,Nigeria,NGA,SSA,LMI,West Africa,2024,-17.0
+Lekki,NGLKK,Nigeria,NGA,SSA,LMI,West Africa,2025,-57.0417895053365
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2020,-61.0
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2021,-128.0
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2022,-11.0
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2023,-16.0
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2024,-24.0
+Lagos,NGLOS,Nigeria,NGA,SSA,LMI,West Africa,2025,-26.398588095212
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2020,-12.0
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2021,-72.0
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2022,-45.0
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2023,-16.0
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2024,-25.0
+Onne,NGONN,Nigeria,NGA,SSA,LMI,West Africa,2025,-8.86270126161732
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2020,-68.0
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2021,-57.0
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2022,-57.0
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2023,-60.0
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2024,-21.0
+Tin Can Island,NGTIN,Nigeria,NGA,SSA,LMI,West Africa,2025,-25.7525503911195
+Corinto,NICIO,Nicaragua,NIC,LAC,LMI,Caribbean & Central America,2021,-12.0
+Corinto,NICIO,Nicaragua,NIC,LAC,LMI,Caribbean & Central America,2022,-11.0
+Corinto,NICIO,Nicaragua,NIC,LAC,LMI,Caribbean & Central America,2023,-29.0
+Corinto,NICIO,Nicaragua,NIC,LAC,LMI,Caribbean & Central America,2024,-70.0
+Corinto,NICIO,Nicaragua,NIC,LAC,LMI,Caribbean & Central America,2025,-43.1249889285403
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2020,93.0
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2021,-10.0
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2022,-25.0
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2023,47.0
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2024,4.0
+Rotterdam,NLRTM,Netherlands,NLD,ECA,HI,North Europe,2025,-38.2854488617235
+Vlissingen,NLVLI,Netherlands,NLD,ECA,HI,North Europe,2023,-8.0
+Vlissingen,NLVLI,Netherlands,NLD,ECA,HI,North Europe,2024,-11.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2020,3.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2021,3.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2022,2.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2023,2.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2024,2.0
+Kristiansand,NOKRS,Norway,NOR,ECA,HI,North Europe,2025,0.662205829137387
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2020,4.0
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2021,5.0
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2022,5.0
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2023,5.0
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2024,3.0
+Larvik,NOLAR,Norway,NOR,ECA,HI,North Europe,2025,3.12899355199862
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2020,28.0
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2021,18.0
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2022,11.0
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2023,27.0
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2024,6.0
+Oslo,NOOSL,Norway,NOR,ECA,HI,North Europe,2025,3.31119915152459
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,31.0
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-93.0
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-82.0
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-42.0
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-12.0
+Auckland,NZAKL,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,0.403118760551006
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,2.0
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,3.0
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,6.0
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-3.0
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-21.0
+Bluff,NZBLU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-1.71052664152007
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,23.0
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-28.0
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-67.0
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-94.0
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-9.0
+Lyttelton,NZLYT,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-7.35991555911744
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,12.0
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-16.0
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-79.0
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-31.0
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-27.0
+Napier,NZNPE,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-12.5334565134959
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,7.0
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,10.0
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,4.0
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-5.0
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,0.0
+Nelson,NZNSN,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-4.03984404200866
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,5.0
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-15.0
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-23.0
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-9.0
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-36.0
+Otago Harbour,NZORR,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-19.8961091983311
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,0.0
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-25.0
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-8.0
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-7.0
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-4.0
+Timaru,NZTIU,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-4.73801366534282
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,57.0
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,-34.0
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,-90.0
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,-31.0
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,5.0
+Tauranga,NZTRG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,-17.2565564702296
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2020,30.0
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2021,16.0
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2022,11.0
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2023,30.0
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2024,-5.0
+Wellington,NZWLG,New Zealand,NZL,EAP,HI,Australasia & Oceania,2025,29.3785071570284
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2020,141.0
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2021,143.0
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2022,136.0
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2023,141.0
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2024,117.0
+Salalah,OMSLL,Oman,OMN,MENAAP,HI,Arabian Gulf,2025,135.871294089257
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2020,94.0
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2021,69.0
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2022,56.0
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2023,64.0
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2024,61.0
+Sohar,OMSOH,Oman,OMN,MENAAP,HI,Arabian Gulf,2025,66.8533490424462
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2020,96.0
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2021,58.0
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2022,36.0
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2023,-3.0
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2024,-46.0
+Balboa,PABLB,Panama,PAN,LAC,HI,Caribbean & Central America,2025,-31.2046451796338
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2020,28.0
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2021,23.0
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2022,-51.0
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2023,4.0
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2024,-202.0
+Cristobal,PACTB,Panama,PAN,LAC,HI,Caribbean & Central America,2025,-48.4616364143068
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2020,91.0
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2021,41.0
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2022,23.0
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2023,46.0
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2024,-42.0
+Colon,PAONX,Panama,PAN,LAC,HI,Caribbean & Central America,2025,-42.605839710009
+Chancay,PECHY,Peru,PER,LAC,UMI,South America West Coast,2025,40.5860790389335
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2020,101.0
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2021,-4.0
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2022,62.0
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2023,108.0
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2024,79.0
+Callao,PECLL,Peru,PER,LAC,UMI,South America West Coast,2025,67.6642286328573
+General San Martin,PEGSM,Peru,PER,LAC,UMI,South America West Coast,2023,8.0
+General San Martin,PEGSM,Peru,PER,LAC,UMI,South America West Coast,2024,7.0
+General San Martin,PEGSM,Peru,PER,LAC,UMI,South America West Coast,2025,7.08111743034254
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2020,38.0
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2021,43.0
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2022,27.0
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2023,6.0
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2024,66.0
+Paita,PEPAI,Peru,PER,LAC,UMI,South America West Coast,2025,69.7983820789682
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2020,15.0
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2021,14.0
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2022,13.0
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2023,13.0
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2024,22.0
+Papeete,PFPPT,French Polynesia,PYF,EAP,HI,Australasia & Oceania,2025,1.6866845259979
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2020,-2.0
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2021,-20.0
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2022,-19.0
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2023,-25.0
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2024,-7.0
+Lae,PGLAE,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2025,-14.8107776693795
+Port Moresby,PGPOM,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2020,9.0
+Port Moresby,PGPOM,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2023,-9.0
+Port Moresby,PGPOM,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2024,-5.0
+Port Moresby,PGPOM,Papua New Guinea,PNG,EAP,LMI,Australasia & Oceania,2025,-9.31211541101713
+Bacolod,PHBCD,Philippines,PHL,EAP,LMI,South East Asia,2025,-14.5156645038781
+Batangas,PHBTG,Philippines,PHL,EAP,LMI,South East Asia,2020,14.0
+Batangas,PHBTG,Philippines,PHL,EAP,LMI,South East Asia,2022,15.0
+Batangas,PHBTG,Philippines,PHL,EAP,LMI,South East Asia,2023,18.0
+Batangas,PHBTG,Philippines,PHL,EAP,LMI,South East Asia,2024,-12.0
+Batangas,PHBTG,Philippines,PHL,EAP,LMI,South East Asia,2025,20.0259179571038
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2020,19.0
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2021,14.0
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2022,13.0
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2023,16.0
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2024,12.0
+Cebu,PHCEB,Philippines,PHL,EAP,LMI,South East Asia,2025,13.3925666337991
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2020,20.0
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2021,6.0
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2022,11.0
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2023,13.0
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2024,9.0
+Cagayan De Oro,PHCGY,Philippines,PHL,EAP,LMI,South East Asia,2025,5.17743867857388
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2020,31.0
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2021,-5.0
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2022,-9.0
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2023,-10.0
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2024,-25.0
+Davao,PHDVO,Philippines,PHL,EAP,LMI,South East Asia,2025,-5.53328638763068
+General Santos,PHGES,Philippines,PHL,EAP,LMI,South East Asia,2020,-8.0
+General Santos,PHGES,Philippines,PHL,EAP,LMI,South East Asia,2023,-4.0
+General Santos,PHGES,Philippines,PHL,EAP,LMI,South East Asia,2024,-2.0
+General Santos,PHGES,Philippines,PHL,EAP,LMI,South East Asia,2025,-16.8818283017844
+Iloilo,PHILO,Philippines,PHL,EAP,LMI,South East Asia,2024,3.0
+Iloilo,PHILO,Philippines,PHL,EAP,LMI,South East Asia,2025,11.4379376273471
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2020,11.0
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2021,-51.0
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2022,-107.0
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2023,-15.0
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2024,-34.0
+Manila,PHMNL,Philippines,PHL,EAP,LMI,South East Asia,2025,-54.0328150678348
+Subic Bay,PHSFS,Philippines,PHL,EAP,LMI,South East Asia,2021,12.0
+Subic Bay,PHSFS,Philippines,PHL,EAP,LMI,South East Asia,2022,6.0
+Subic Bay,PHSFS,Philippines,PHL,EAP,LMI,South East Asia,2023,2.0
+Subic Bay,PHSFS,Philippines,PHL,EAP,LMI,South East Asia,2024,4.0
+Subic Bay,PHSFS,Philippines,PHL,EAP,LMI,South East Asia,2025,2.84693201076109
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2020,61.0
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2021,39.0
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2022,36.0
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2023,69.0
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2024,30.0
+Karachi,PKKHI,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2025,45.6549897043222
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2020,8.0
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2021,43.0
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2022,31.0
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2023,22.0
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2024,43.0
+Muhammad Bin Qasim,PKQCT,Pakistan,PAK,MENAAP,LMI,Indian Subcontinent,2025,60.0805275096878
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2020,48.0
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2021,-7.0
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2022,-42.0
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2023,-24.0
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2024,62.0
+Gdansk,PLGDN,Poland,POL,ECA,HI,North Europe,2025,-42.269466266475
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2020,39.0
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2021,2.0
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2022,-12.0
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2023,13.0
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2024,5.0
+Gdynia,PLGDY,Poland,POL,ECA,HI,North Europe,2025,3.4833622263302
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2020,16.0
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2021,16.0
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2022,16.0
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2023,17.0
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2024,27.0
+San Juan,PRSJU,Puerto Rico,PRI,LAC,HI,Caribbean & Central America,2025,12.0586479788411
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2020,9.0
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2021,7.0
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2022,9.0
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2023,-12.0
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2024,-3.0
+Leixões,PTLEI,Portugal,PRT,ECA,HI,North Europe,2025,-35.9483828383067
+Lisbon,PTLIS,Portugal,PRT,ECA,HI,North Europe,2021,5.0
+Lisbon,PTLIS,Portugal,PRT,ECA,HI,North Europe,2022,0.0
+Lisbon,PTLIS,Portugal,PRT,ECA,HI,North Europe,2023,22.0
+Lisbon,PTLIS,Portugal,PRT,ECA,HI,North Europe,2024,-20.0
+Lisbon,PTLIS,Portugal,PRT,ECA,HI,North Europe,2025,-18.4303166834845
+Setubal,PTSET,Portugal,PRT,ECA,HI,North Europe,2023,-33.0
+Setubal,PTSET,Portugal,PRT,ECA,HI,North Europe,2024,-5.0
+Setubal,PTSET,Portugal,PRT,ECA,HI,North Europe,2025,-19.9050710766857
+Sines,PTSIE,Portugal,PRT,ECA,HI,North Europe,2020,113.0
+Sines,PTSIE,Portugal,PRT,ECA,HI,North Europe,2021,81.0
+Sines,PTSIE,Portugal,PRT,ECA,HI,North Europe,2022,-7.0
+Sines,PTSIE,Portugal,PRT,ECA,HI,North Europe,2023,34.0
+Sines,PTSIE,Portugal,PRT,ECA,HI,North Europe,2024,42.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2020,110.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2021,138.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2022,117.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2023,128.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2024,125.0
+Hamad Port,QAHMD,Qatar,QAT,MENAAP,HI,Arabian Gulf,2025,128.673853683367
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2020,-26.0
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2021,-49.0
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2022,-43.0
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2023,-21.0
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2024,-46.0
+Le Port,RELPT,Réunion,REU,ECA,HI,East Africa,2025,-24.1733372562298
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2020,28.0
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2021,-1.0
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2022,-43.0
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2023,-51.0
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2024,-80.0
+Constantza,ROCND,Romania,ROU,ECA,HI,Mediterranean,2025,-12.3319123087067
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2020,3.0
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2021,16.0
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2022,4.0
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2023,0.0
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2024,0.0
+Novorossiysk,RUNVS,Russian Federation,RUS,ECA,HI,Mediterranean,2025,4.1129497283017
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2020,89.0
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2021,104.0
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2022,70.0
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2023,97.0
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2024,9.0
+Dammam,SADMM,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2025,-17.1916300255425
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2020,113.0
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2021,118.0
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2022,81.0
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2023,68.0
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2024,79.0
+Jeddah,SAJED,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2025,95.7806017449783
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2020,90.0
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2021,13.0
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2022,34.0
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2023,68.0
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2024,48.0
+Jubail,SAJUB,Saudi Arabia,SAU,MENAAP,HI,Arabian Gulf,2025,51.3124244655978
+King Abdullah Port,SAKAC,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2020,155.0
+King Abdullah Port,SAKAC,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2021,152.0
+King Abdullah Port,SAKAC,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2022,105.0
+King Abdullah Port,SAKAC,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2023,102.0
+King Abdullah Port,SAKAC,Saudi Arabia,SAU,MENAAP,HI,Red Sea,2024,58.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2020,-15.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2021,-18.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2022,-9.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2023,-15.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2024,-17.0
+Port Victoria,SCPOV,Seychelles,SYC,SSA,HI,East Africa,2025,-15.8184883746286
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2020,-20.0
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2021,23.0
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2022,10.0
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2023,16.0
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2024,51.0
+Göteborg,SEGOT,Sweden,SWE,ECA,HI,North Europe,2025,48.177231159744
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2020,9.0
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2021,-2.0
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2022,-7.0
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2023,6.0
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2024,7.0
+Gävle,SEGVX,Sweden,SWE,ECA,HI,North Europe,2025,9.98148155266318
+Halmstad,SEHAD,Sweden,SWE,ECA,HI,North Europe,2024,6.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2020,15.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2021,13.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2022,12.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2023,11.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2024,14.0
+Helsingborg,SEHEL,Sweden,SWE,ECA,HI,North Europe,2025,2.63644748051547
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2020,20.0
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2021,10.0
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2022,6.0
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2023,9.0
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2024,1.0
+Norrkoping,SENRK,Sweden,SWE,ECA,HI,North Europe,2025,4.89494504579963
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2020,139.0
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2021,76.0
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2022,100.0
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2023,115.0
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2024,88.0
+Singapore,SGSIN,Singapore,SGP,EAP,HI,South East Asia,2025,99.9594841688471
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2020,66.0
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2021,15.0
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2022,-282.0
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2023,-40.0
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2024,11.0
+Koper,SIKOP,Slovenia,SVN,ECA,HI,Mediterranean,2025,-58.5871318795425
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2020,9.0
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2021,-5.0
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2022,0.0
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2023,0.0
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2024,2.0
+Freetown,SLFNA,Sierra Leone,SLE,SSA,LI,West Africa,2025,-35.248228826123
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2020,35.0
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2021,-19.0
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2022,3.0
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2023,-82.0
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2024,23.0
+Dakar,SNDKR,Senegal,SEN,SSA,LMI,West Africa,2025,10.0240683445751
+Berbera,SOBBO,Somalia,SOM,SSA,LI,East Africa,2020,2.0
+Berbera,SOBBO,Somalia,SOM,SSA,LI,East Africa,2021,12.0
+Berbera,SOBBO,Somalia,SOM,SSA,LI,East Africa,2022,13.0
+Berbera,SOBBO,Somalia,SOM,SSA,LI,East Africa,2023,31.0
+Berbera,SOBBO,Somalia,SOM,SSA,LI,East Africa,2024,-3.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2020,1.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2021,-3.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2022,-1.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2023,9.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2024,8.0
+Mogadishu,SOMGQ,Somalia,SOM,SSA,LI,East Africa,2025,13.9427511920796
+Paramaribo,SRPBM,Suriname,SUR,LAC,UMI,Caribbean & Central America,2023,-0.5449999999999999
+Paramaribo,SRPBM,Suriname,SUR,LAC,UMI,Caribbean & Central America,2025,-1.63217580179421
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2020,0.0
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2021,-7.0
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2022,-30.0
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2023,-89.0
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2024,-98.0
+Acajutla,SVAQJ,El Salvador,SLV,LAC,UMI,Caribbean & Central America,2025,-207.620361443919
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2020,12.0
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2021,13.0
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2022,10.0
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2023,5.0
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2024,9.0
+Philipsburg,SXPHI,Sint Maarten,SXM,LAC,HI,Caribbean & Central America,2025,4.12615546182231
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2020,12.0
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2021,13.0
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2022,7.0
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2023,8.0
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2024,2.0
+Latakia,SYLTK,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2025,-1.12568156650618
+Tartous,SYTTS,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2021,3.8600000000000003
+Tartous,SYTTS,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2023,3.4050000000000002
+Tartous,SYTTS,Syrian Arab Republic,SYR,MENAAP,LI,Mediterranean,2025,1.0563940498313
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2020,-37.0
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2021,-92.0
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2022,-75.0
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2023,-22.0
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2024,-23.0
+Lome,TGLFW,Togo,TGO,SSA,LI,West Africa,2025,-48.9168022409127
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2020,1.0
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2021,-19.0
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2022,-6.0
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2023,-8.0
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2024,-7.0
+Bangkok,THBKK,Thailand,THA,EAP,UMI,South East Asia,2025,-0.431898415944412
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2020,107.0
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2021,57.0
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2022,87.0
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2023,81.0
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2024,66.0
+Laem Chabang,THLCH,Thailand,THA,EAP,UMI,South East Asia,2025,59.1095921958493
+Songkhla,THSGK,Thailand,THA,EAP,UMI,South East Asia,2023,0.0
+Songkhla,THSGK,Thailand,THA,EAP,UMI,South East Asia,2024,-1.0
+Songkhla,THSGK,Thailand,THA,EAP,UMI,South East Asia,2025,5.71199887648541
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2020,15.0
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2021,37.0
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2022,41.0
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2023,21.0
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2024,28.0
+Siam Seaport,THSRI,Thailand,THA,EAP,UMI,South East Asia,2025,18.7097216545494
+Rades,TNRDS,Tunisia,TUN,MENAAP,LMI,Mediterranean,2021,1.0
+Rades,TNRDS,Tunisia,TUN,MENAAP,LMI,Mediterranean,2022,1.0
+Rades,TNRDS,Tunisia,TUN,MENAAP,LMI,Mediterranean,2023,-1.0
+Rades,TNRDS,Tunisia,TUN,MENAAP,LMI,Mediterranean,2024,-5.0
+Rades,TNRDS,Tunisia,TUN,MENAAP,LMI,Mediterranean,2025,-4.28130260412954
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2020,102.0
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2021,75.0
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2022,43.0
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2023,7.0
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2024,17.0
+Ambarli,TRAMR,Türkiye,TUR,ECA,UMI,Mediterranean,2025,25.6878699736116
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2020,16.0
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2021,17.0
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2022,16.0
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2023,18.0
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2024,13.0
+Port Akdeniz,TRAYT,Türkiye,TUR,ECA,UMI,Mediterranean,2025,8.74361937161078
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2020,7.0
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2021,17.0
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2022,9.0
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2023,16.0
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2024,13.0
+Borusan,TRBRU,Türkiye,TUR,ECA,UMI,Mediterranean,2025,12.9453979353677
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2020,48.0
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2021,47.0
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2022,40.0
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2023,51.0
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2024,20.0
+Diliskelesi,TRDIL,Türkiye,TUR,ECA,UMI,Mediterranean,2025,24.1437087453927
+Derince,TRDRC,Türkiye,TUR,ECA,UMI,Mediterranean,2024,65.0
+Derince,TRDRC,Türkiye,TUR,ECA,UMI,Mediterranean,2025,43.079549031689
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2020,46.0
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2021,34.0
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2022,13.0
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2023,101.0
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2024,55.0
+Gemlik,TRGEM,Türkiye,TUR,ECA,UMI,Mediterranean,2025,24.5592623650973
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2020,31.0
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2021,48.0
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2022,-29.0
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2023,-113.0
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2024,21.0
+Iskenderun,TRISK,Türkiye,TUR,ECA,UMI,Mediterranean,2025,65.1519653914845
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2020,14.0
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2021,2.0
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2022,13.0
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2023,26.0
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2024,25.0
+Izmir,TRIZM,Türkiye,TUR,ECA,UMI,Mediterranean,2025,16.1460933041812
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2020,94.0
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2021,76.0
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2022,3.0
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2023,-184.0
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2024,42.0
+Mersin,TRMER,Türkiye,TUR,ECA,UMI,Mediterranean,2025,19.1551599631893
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2020,16.0
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2021,13.0
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2022,17.0
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2023,2.0
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2024,4.0
+Nemrut Bay,TRNEM,Türkiye,TUR,ECA,UMI,Mediterranean,2025,25.6300423342952
+Samsun,TRSSX,Türkiye,TUR,ECA,UMI,Mediterranean,2020,-3.0
+Samsun,TRSSX,Türkiye,TUR,ECA,UMI,Mediterranean,2021,-1.0
+Samsun,TRSSX,Türkiye,TUR,ECA,UMI,Mediterranean,2023,-11.0
+Samsun,TRSSX,Türkiye,TUR,ECA,UMI,Mediterranean,2024,-15.0
+Samsun,TRSSX,Türkiye,TUR,ECA,UMI,Mediterranean,2025,-14.7292250999536
+Trabzon,TRTZX,Türkiye,TUR,ECA,UMI,Mediterranean,2023,-2.0549999999999997
+Trabzon,TRTZX,Türkiye,TUR,ECA,UMI,Mediterranean,2025,-5.24826084568018
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2020,98.0
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2021,84.0
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2022,62.0
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2023,38.0
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2024,45.0
+Yarimca,TRYAR,Türkiye,TUR,ECA,UMI,Mediterranean,2025,62.3332673403926
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2020,4.0
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2021,0.0
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2022,-4.0
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2023,-6.0
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2024,-17.0
+Port Of Spain,TTPOS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2025,-37.7058498830759
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2020,5.0
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2021,-18.0
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2022,-8.0
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2023,3.0
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2024,-21.0
+Point Lisas Port,TTPTS,Trinidad and Tobago,TTO,LAC,HI,Caribbean & Central America,2025,-10.561526319122
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2020,66.0
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2021,48.0
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2022,42.0
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2023,60.0
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2024,59.0
+Keelung,TWKEL,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2025,92.9781826986775
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2020,146.0
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2021,94.0
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2022,89.0
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2023,110.0
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2024,113.0
+Kaohsiung,TWKHH,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2025,114.467169947865
+Taipei,TWTPE,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2020,102.0
+Taipei,TWTPE,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2024,84.0
+Taipei,TWTPE,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2025,91.2138463813056
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2020,18.0
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2021,25.0
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2022,17.0
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2023,20.0
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2024,20.0
+Taichung,TWTXG,"Taiwan, China",TWN,EAP,HI,Southeast Asian Seas,2025,18.0525436867109
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2020,-19.0
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2021,-176.0
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2022,-72.0
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2023,-80.0
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2024,-53.0
+Dar Es Salaam,TZDAR,Tanzania,TZA,SSA,LMI,East Africa,2025,-7.75121704729831
+Odessa,UAODS,Ukraine,UKR,ECA,UMI,Mediterranean,2020,19.165
+Odessa,UAODS,Ukraine,UKR,ECA,UMI,Mediterranean,2021,11.415
+Odessa,UAODS,Ukraine,UKR,ECA,UMI,Mediterranean,2022,7.72
+Odessa,UAODS,Ukraine,UKR,ECA,UMI,Mediterranean,2025,2.66144035118754
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2020,51.0
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2021,45.0
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2022,-52.0
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2023,15.0
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2024,5.0
+Baltimore,USBAL,United States,USA,NAM,HI,North America East Coast,2025,34.598776508974
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2020,62.0
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2021,28.0
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2022,43.0
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2023,52.0
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2024,20.0
+Boston,USBOS,United States,USA,NAM,HI,North America East Coast,2025,61.0267979055194
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2020,101.0
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2021,35.0
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2022,-196.0
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2023,68.0
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2024,-43.0
+Charleston,USCHS,United States,USA,NAM,HI,North America East Coast,2025,27.8942597241782
+Honolulu,USHNL,United States,USA,NAM,HI,North America West Coast,2023,4.0
+Honolulu,USHNL,United States,USA,NAM,HI,North America West Coast,2024,-7.0
+Honolulu,USHNL,United States,USA,NAM,HI,North America West Coast,2025,-1.91267952000858
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2020,36.0
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2021,31.0
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2022,-178.0
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2023,-15.0
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2024,-33.0
+Houston,USHOU,United States,USA,NAM,HI,North America East Coast,2025,-38.8583280067894
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2020,64.0
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2021,65.0
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2022,58.0
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2023,57.0
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2024,38.0
+Wilmington (US-NC),USILM,United States,USA,NAM,HI,North America East Coast,2025,-12.9760319546297
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2020,46.0
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2021,38.0
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2022,35.0
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2023,43.0
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2024,43.0
+Jacksonville,USJAX,United States,USA,NAM,HI,North America East Coast,2025,63.1580504883013
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2020,12.0
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2021,-598.0
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2022,-189.0
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2023,-66.0
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2024,-52.0
+Los Angeles,USLAX,United States,USA,NAM,HI,North America West Coast,2025,29.1000009557747
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2020,6.0
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2021,-665.0
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2022,-363.0
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2023,-65.0
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2024,-22.0
+Long Beach,USLGB,United States,USA,NAM,HI,North America West Coast,2025,-20.631571947907
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2020,56.0
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2021,81.0
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2022,-3.0
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2023,49.0
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2024,33.0
+Miami,USMIA,United States,USA,NAM,HI,North America East Coast,2025,38.7696513216568
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2020,47.0
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2021,17.0
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2022,-6.0
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2023,13.0
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2024,23.0
+Mobile,USMOB,United States,USA,NAM,HI,North America East Coast,2025,32.6795056695612
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2020,35.0
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2021,33.0
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2022,13.0
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2023,25.0
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2024,36.0
+New Orleans,USMSY,United States,USA,NAM,HI,North America East Coast,2025,38.3244420973089
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2020,87.0
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2021,90.0
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2022,51.0
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2023,-2.0
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2024,-14.0
+Port Of Virginia,USNFF,United States,USA,NAM,HI,North America East Coast,2025,-14.5898278070176
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2020,-8.0
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2021,-8.0
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2022,-6.0
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2023,-8.0
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2024,-9.0
+Hueneme,USNTD,United States,USA,NAM,HI,North America West Coast,2025,-6.02913727402485
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2020,89.0
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2021,-2.0
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2022,-63.0
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2023,45.0
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2024,13.0
+New York & New Jersey,USNYC,United States,USA,NAM,HI,North America East Coast,2025,16.3403154118094
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2020,18.0
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2021,-128.0
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2022,-252.0
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2023,-158.0
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2024,-87.0
+Oakland,USOAK,United States,USA,NAM,HI,North America West Coast,2025,-49.1791687567827
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2020,33.0
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2021,32.0
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2022,30.0
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2023,60.0
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2024,47.0
+Port Everglades,USPEF,United States,USA,NAM,HI,North America East Coast,2025,32.591532470815
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2020,41.0
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2021,57.0
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2022,22.0
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2023,66.0
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2024,92.0
+Philadelphia,USPHL,United States,USA,NAM,HI,North America East Coast,2025,67.021670111289
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2020,92.0
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2021,-305.0
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2022,-675.0
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2023,-147.0
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2024,-97.0
+Savannah,USSAV,United States,USA,NAM,HI,North America East Coast,2025,-95.2762149720673
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2020,30.0
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2021,-49.0
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2022,-41.0
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2023,-44.0
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2024,-9.0
+Seattle,USSEA,United States,USA,NAM,HI,North America West Coast,2025,-22.4377546487016
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2020,-10.0
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2021,-74.0
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2022,-92.0
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2023,-198.0
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2024,-167.0
+Tacoma,USTIW,United States,USA,NAM,HI,North America West Coast,2025,-143.366091915091
+Tampa Port,USTPA,United States,USA,NAM,HI,North America East Coast,2021,53.0
+Tampa Port,USTPA,United States,USA,NAM,HI,North America East Coast,2022,11.0
+Tampa Port,USTPA,United States,USA,NAM,HI,North America East Coast,2023,9.0
+Tampa Port,USTPA,United States,USA,NAM,HI,North America East Coast,2024,-22.0
+Tampa Port,USTPA,United States,USA,NAM,HI,North America East Coast,2025,-2.99640229206023
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2020,-4.0
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2021,-6.0
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2022,-55.0
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2023,-69.0
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2024,-12.0
+Montevideo,UYMVD,Uruguay,URY,LAC,HI,South America East Coast,2025,-22.5232777414177
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2020,-9.0
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2021,-4.0
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2022,2.0
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2023,5.0
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2024,3.0
+La Guaira,VELAG,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2025,-34.2800824389781
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2020,-17.0
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2021,-13.0
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2022,-10.0
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2023,-15.0
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2024,-10.0
+Puerto Cabello,VEPBL,"Venezuela, RB **",VEN,LAC,Unclassified,Caribbean & Central America,2025,-16.6594909996806
+Chu Lai,VNC8Q,Viet Nam,VNM,EAP,LMI,South East Asia,2021,4.0
+Chu Lai,VNC8Q,Viet Nam,VNM,EAP,LMI,South East Asia,2022,11.0
+Chu Lai,VNC8Q,Viet Nam,VNM,EAP,LMI,South East Asia,2023,15.0
+Chu Lai,VNC8Q,Viet Nam,VNM,EAP,LMI,South East Asia,2024,9.0
+Chu Lai,VNC8Q,Viet Nam,VNM,EAP,LMI,South East Asia,2025,14.5589560219745
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2020,24.0
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2021,17.0
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2022,23.0
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2023,25.0
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2024,20.0
+Cát Lái,VNCLI,Viet Nam,VNM,EAP,LMI,South East Asia,2025,17.1138236964121
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2020,22.0
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2021,14.0
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2022,19.0
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2023,23.0
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2024,16.0
+Da Nang,VNDAD,Viet Nam,VNM,EAP,LMI,South East Asia,2025,13.5008928992862
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2020,70.0
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2021,52.0
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2022,14.0
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2023,55.0
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2024,87.0
+Haiphong,VNHPH,Viet Nam,VNM,EAP,LMI,South East Asia,2025,121.604373411504
+Nghi Son,VNNGH,Viet Nam,VNM,EAP,LMI,South East Asia,2023,2.0
+Nghi Son,VNNGH,Viet Nam,VNM,EAP,LMI,South East Asia,2024,2.0
+Nghi Son,VNNGH,Viet Nam,VNM,EAP,LMI,South East Asia,2025,-7.31548205750365
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2020,14.0
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2021,19.0
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2022,17.0
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2023,16.0
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2024,20.0
+Saigon,VNSGN,Viet Nam,VNM,EAP,LMI,South East Asia,2025,19.4843197898917
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2020,122.0
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2021,110.0
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2022,106.0
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2023,132.0
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2024,132.0
+Cai Mep,VNTOT,Viet Nam,VNM,EAP,LMI,South East Asia,2025,122.096758516763
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2020,25.0
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2021,15.0
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2022,13.0
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2023,9.0
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2024,11.0
+Quy Nhon,VNUIH,Viet Nam,VNM,EAP,LMI,South East Asia,2025,11.9700906512519
+Aden,YEADE,Yemen,YEM,MENAAP,LI,Red Sea,2021,-21.0
+Aden,YEADE,Yemen,YEM,MENAAP,LI,Red Sea,2022,-13.0
+Aden,YEADE,Yemen,YEM,MENAAP,LI,Red Sea,2023,4.0
+Aden,YEADE,Yemen,YEM,MENAAP,LI,Red Sea,2024,-24.0
+Longoni,YTLON,Mayotte,MYT,SSA,HI,East Africa,2021,-17.0
+Longoni,YTLON,Mayotte,MYT,SSA,HI,East Africa,2022,-16.0
+Longoni,YTLON,Mayotte,MYT,SSA,HI,East Africa,2023,-16.0
+Longoni,YTLON,Mayotte,MYT,SSA,HI,East Africa,2024,-39.0
+Longoni,YTLON,Mayotte,MYT,SSA,HI,East Africa,2025,-75.4368413837387
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2020,-96.0
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2021,-277.0
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2022,-288.0
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2023,-519.0
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2024,-281.0
+Cape Town,ZACPT,South Africa,ZAF,SSA,UMI,Southern Africa,2025,-302.583414582789
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2020,-108.0
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2021,-246.0
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2022,-220.0
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2023,-206.0
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2024,-721.0
+Durban,ZADUR,South Africa,ZAF,SSA,UMI,Southern Africa,2025,-241.66567712717
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2020,-103.0
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2021,-29.0
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2022,-31.0
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2023,-128.0
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2024,-169.0
+Port Elizabeth,ZAPLZ,South Africa,ZAF,SSA,UMI,Southern Africa,2025,-23.4567392489805
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2020,-63.0
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2021,-226.0
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2022,-191.0
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2023,-444.0
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2024,-284.0
+Coega (Ngqura) Port,ZAZBA,South Africa,ZAF,SSA,UMI,Southern Africa,2025,-119.035431014402
